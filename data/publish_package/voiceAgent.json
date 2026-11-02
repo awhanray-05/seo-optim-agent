@@ -1,0 +1,77 @@
+{
+  "url": "https://darwix.ai/voiceAgent",
+  "diff": {
+    "title": {
+      "from": "Darwix Voice Agent | AI Calling for BFSI & Collections",
+      "to": "Ai Voice Agent For Bfsi | Darwix AI"
+    },
+    "meta_description": {
+      "from": "Darwix Voice Agent automates outbound calls for BFSI, handling objections and triggering actions in real time with scalable AI calling software.",
+      "to": "Darwix AI's AI voice agent for BFSI helps BFSI teams move faster and stay compliant. Built for banks, NBFCs, insurers and wealth managers. Book a demo to see it"
+    },
+    "h1": {
+      "from": "AnAI Agentthat actuallyholds the line",
+      "to": "Ai Voice Agent For Bfsi"
+    },
+    "canonical": {
+      "from": "https://darwix.ai/voiceAgent",
+      "to": "https://darwix.ai/voice-agent"
+    },
+    "schema_blocks_added": 3,
+    "image_alt_fixes": [
+      {
+        "src": "/images/objection.svg",
+        "old_alt": "",
+        "new_alt": "objection — AI voice agent for BFSI",
+        "needs_human_confirmation": true
+      },
+      {
+        "src": "/images/voice.svg",
+        "old_alt": "",
+        "new_alt": "voice — AI voice agent for BFSI",
+        "needs_human_confirmation": true
+      },
+      {
+        "src": "/images/interruption.svg",
+        "old_alt": "",
+        "new_alt": "interruption — AI voice agent for BFSI",
+        "needs_human_confirmation": true
+      },
+      {
+        "src": "/images/tone.svg",
+        "old_alt": "",
+        "new_alt": "tone — AI voice agent for BFSI",
+        "needs_human_confirmation": true
+      },
+      {
+        "src": "/images/longContext.svg",
+        "old_alt": "",
+        "new_alt": "longContext — AI voice agent for BFSI",
+        "needs_human_confirmation": true
+      },
+      {
+        "src": "/images/plCall.svg",
+        "old_alt": "",
+        "new_alt": "plCall — AI voice agent for BFSI",
+        "needs_human_confirmation": true
+      },
+      {
+        "src": "/images/call.svg",
+        "old_alt": "",
+        "new_alt": "call — AI voice agent for BFSI",
+        "needs_human_confirmation": true
+      }
+    ],
+    "meta_keywords_removed": true,
+    "internal_links_added": [
+      {
+        "href": "https://darwix.ai/",
+        "anchor": ""
+      },
+      {
+        "href": "https://darwix.ai/compliance",
+        "anchor": "compliance"
+      }
+    ]
+  }
+}

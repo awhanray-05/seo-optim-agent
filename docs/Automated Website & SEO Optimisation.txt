@@ -1,0 +1,24 @@
+Automated Website & SEO Optimisation
+
+The second automation journey focuses on analysing and continuously optimising all existing pages across the Darwix AI website.
+
+The workflow:
+
+
+• Crawl and analyse all existing website pages, URLs, content, and page structures..
+• Audit SEO elements, including metadata, title tags, descriptions, headings, keywords, internal links, backlinks, and technical SEO..
+• Identify issues such as missing metadata, duplicate content, broken links, indexing problems, content gaps, and poor page performance..
+• Generate actionable recommendations and automatically fix eligible issues..
+• Optimise page content, keyword placement, internal linking, structured data, and technical elements..
+• Run automated QA checks before publishing any changes..
+• Publish approved updates through the CMS and submit updated sitemaps for indexing..
+• Continuously monitor performance through Google Search Console and analytics..
+• Identify new optimisation opportunities and feed them back into the workflow..
+
+Expected outcome: A continuous optimisation system that audits every website page, identifies issues, implements improvements, validates changes, and monitors results with minimal manual intervention.
+
+I want us to explore how we can build this as an end-to-end automated workflow using LLMs, APIs, website crawling, validation, and CMS integrations. We should also define the technical ownership, required resources, and implementation timeline to get the first working version live.
+
+
+
+We essentially need to build five agents presented as a list while the rest of the core functionality should be consolidated into the main Dashboard. The Guide tab is specifically intended for non-technical users, helping them understand and navigate the platform without requiring technical knowledge.

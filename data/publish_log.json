@@ -1,0 +1,37 @@
+{
+  "https://darwix.ai/about": {
+    "published_at": "2026-11-02",
+    "status": "staged",
+    "diff_file": "about.json"
+  },
+  "https://darwix.ai/compliance": {
+    "published_at": "2026-11-02",
+    "status": "staged",
+    "diff_file": "compliance.json"
+  },
+  "https://darwix.ai/nova": {
+    "published_at": "2026-11-02",
+    "status": "staged",
+    "diff_file": "nova.json"
+  },
+  "https://darwix.ai/voiceAgent": {
+    "published_at": "2026-11-02",
+    "status": "staged",
+    "diff_file": "voiceAgent.json"
+  },
+  "https://darwix.ai/nonvoice-agent": {
+    "published_at": "2026-11-02",
+    "status": "staged",
+    "diff_file": "nonvoice-agent.json"
+  },
+  "https://darwix.ai/privacy-policy": {
+    "published_at": "2026-11-02",
+    "status": "staged",
+    "diff_file": "privacy-policy.json"
+  },
+  "https://darwix.ai/terms-and-conditions": {
+    "published_at": "2026-11-02",
+    "status": "staged",
+    "diff_file": "terms-and-conditions.json"
+  }
+}

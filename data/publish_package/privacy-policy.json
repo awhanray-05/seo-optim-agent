@@ -1,0 +1,34 @@
+{
+  "url": "https://darwix.ai/privacy-policy",
+  "diff": {
+    "title": {
+      "from": "Privacy Policy | Darwix AI Data & User Information Policy",
+      "to": "Privacy Policy | Darwix AI"
+    },
+    "meta_description": {
+      "from": "Read how Darwix AI collects, uses, and protects personal data, including your rights, security practices, and compliance with data protection laws.",
+      "to": "Darwix AI's privacy policy helps BFSI teams move faster and stay compliant. Built for banks, NBFCs, insurers and wealth managers. Book a demo to see it live."
+    },
+    "h1": {
+      "from": "Privacy Policy",
+      "to": "Privacy Policy"
+    },
+    "canonical": {
+      "from": "https://darwix.ai/privacy-policy",
+      "to": "https://darwix.ai/privacy-policy"
+    },
+    "schema_blocks_added": 2,
+    "image_alt_fixes": [],
+    "meta_keywords_removed": true,
+    "internal_links_added": [
+      {
+        "href": "https://darwix.ai/",
+        "anchor": ""
+      },
+      {
+        "href": "https://darwix.ai/compliance",
+        "anchor": "compliance"
+      }
+    ]
+  }
+}

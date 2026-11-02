@@ -1,0 +1,20 @@
+{
+  "brand": "Darwix AI",
+  "legal_entity": "CUR8 Ventures",
+  "products": {
+    "Sherpa": "Wearable field AI for in-person sales and service calls.",
+    "Voice Automation": "AI voice agents for BFSI outbound and inbound calling.",
+    "Non-Voice Agents": "Workflow automation agents across LOS/CRM systems.",
+    "Nova": "In-store AI assistant/kiosk."
+  },
+  "solutions": {
+    "Video PIVC": "/pivc",
+    "Tele-Medi Assist": "/telemedi-assist",
+    "Life Insurance Proposal Automation": "/life-insurance-proposal-automation",
+    "Auto PD": "/auto-pd",
+    "Evidence Intelligence": "/evidence-intelligence",
+    "Retail Asset Evidence Intelligence": "/retail-asset-evidence-intelligence",
+    "Pre-Meet Intelligence": "/pre-meet-intelligence",
+    "Alert Intelligence": "/alert-intelligence"
+  }
+}

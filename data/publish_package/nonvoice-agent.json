@@ -1,0 +1,34 @@
+{
+  "url": "https://darwix.ai/nonvoice-agent",
+  "diff": {
+    "title": {
+      "from": "Darwix AI Agents | BFSI Workflow & Operations Automation",
+      "to": "Bfsi Workflow Automation | Darwix AI"
+    },
+    "meta_description": {
+      "from": "Darwix AI agents automate BFSI workflows across CRM, LOS, KYC, and databases, executing actions in real time with high accuracy and zero manual effort.",
+      "to": "Darwix AI's BFSI workflow automation helps BFSI teams move faster and stay compliant. Built for banks, NBFCs, insurers and wealth managers. Book a demo to see i"
+    },
+    "h1": {
+      "from": "Agents thatnever sleep, never slip, never miss.",
+      "to": "Bfsi Workflow Automation"
+    },
+    "canonical": {
+      "from": "https://darwix.ai/nonvoice-agent",
+      "to": "https://darwix.ai/nonvoice-agent"
+    },
+    "schema_blocks_added": 3,
+    "image_alt_fixes": [],
+    "meta_keywords_removed": true,
+    "internal_links_added": [
+      {
+        "href": "https://darwix.ai/",
+        "anchor": ""
+      },
+      {
+        "href": "https://darwix.ai/compliance",
+        "anchor": "compliance"
+      }
+    ]
+  }
+}

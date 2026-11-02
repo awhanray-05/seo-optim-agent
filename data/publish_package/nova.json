@@ -1,0 +1,167 @@
+{
+  "url": "https://darwix.ai/nova",
+  "diff": {
+    "title": {
+      "from": "Nova by Darwix AI | In-Store Agentic AI for Retail & BFSI",
+      "to": "In-Store Ai Assistant | Darwix AI"
+    },
+    "meta_description": {
+      "from": "Nova is an in-store agentic AI that powers real-time customer conversations, recommendations, and payments across retail, BFSI, and showrooms.",
+      "to": "Darwix AI's in-store AI assistant helps BFSI teams move faster and stay compliant. Built for banks, NBFCs, insurers and wealth managers. Book a demo to see it l"
+    },
+    "h1": {
+      "from": "Physical AI for the real world.Voice, agents, and fieldin lockstep.",
+      "to": "In-Store Ai Assistant"
+    },
+    "canonical": {
+      "from": "https://darwix.ai/nova",
+      "to": "https://darwix.ai/nova"
+    },
+    "schema_blocks_added": 3,
+    "image_alt_fixes": [
+      {
+        "src": "/images/marLogos/poonawalla.svg",
+        "old_alt": "Poonawalla",
+        "new_alt": "poonawalla — in-store AI assistant",
+        "needs_human_confirmation": true
+      },
+      {
+        "src": "/images/marLogos/image%20891.svg",
+        "old_alt": "Poonawalla",
+        "new_alt": "image%20891 — in-store AI assistant",
+        "needs_human_confirmation": true
+      },
+      {
+        "src": "/images/marLogos/image%20892.svg",
+        "old_alt": "Poonawalla",
+        "new_alt": "image%20892 — in-store AI assistant",
+        "needs_human_confirmation": true
+      },
+      {
+        "src": "/images/marLogos/image%20893.svg",
+        "old_alt": "Poonawalla",
+        "new_alt": "image%20893 — in-store AI assistant",
+        "needs_human_confirmation": true
+      },
+      {
+        "src": "/images/marLogos/image%20894.svg",
+        "old_alt": "Poonawalla",
+        "new_alt": "image%20894 — in-store AI assistant",
+        "needs_human_confirmation": true
+      },
+      {
+        "src": "/images/marLogos/image%20895.svg",
+        "old_alt": "Poonawalla",
+        "new_alt": "image%20895 — in-store AI assistant",
+        "needs_human_confirmation": true
+      },
+      {
+        "src": "/images/marLogos/aditya%20birla.svg",
+        "old_alt": "",
+        "new_alt": "aditya%20birla — in-store AI assistant",
+        "needs_human_confirmation": true
+      },
+      {
+        "src": "/images/marLogos/emaar.svg",
+        "old_alt": "",
+        "new_alt": "emaar — in-store AI assistant",
+        "needs_human_confirmation": true
+      },
+      {
+        "src": "/images/marLogos/home%20credit.svg",
+        "old_alt": "",
+        "new_alt": "home%20credit — in-store AI assistant",
+        "needs_human_confirmation": true
+      },
+      {
+        "src": "/images/marLogos/mashreq.svg",
+        "old_alt": "",
+        "new_alt": "mashreq — in-store AI assistant",
+        "needs_human_confirmation": true
+      },
+      {
+        "src": "/images/marLogos/noor.svg",
+        "old_alt": "",
+        "new_alt": "noor — in-store AI assistant",
+        "needs_human_confirmation": true
+      },
+      {
+        "src": "/images/marLogos/poonawalla.svg",
+        "old_alt": "",
+        "new_alt": "poonawalla — in-store AI assistant",
+        "needs_human_confirmation": true
+      },
+      {
+        "src": "/images/marLogos/arabia.svg",
+        "old_alt": "",
+        "new_alt": "arabia — in-store AI assistant",
+        "needs_human_confirmation": true
+      },
+      {
+        "src": "/images/marLogos/iifl.svg",
+        "old_alt": "",
+        "new_alt": "iifl — in-store AI assistant",
+        "needs_human_confirmation": true
+      },
+      {
+        "src": "/images/marLogos/jm%20finance.svg",
+        "old_alt": "",
+        "new_alt": "jm%20finance — in-store AI assistant",
+        "needs_human_confirmation": true
+      },
+      {
+        "src": "/images/marLogos/nippon.svg",
+        "old_alt": "",
+        "new_alt": "nippon — in-store AI assistant",
+        "needs_human_confirmation": true
+      },
+      {
+        "src": "/images/marLogos/tata%20capital.svg",
+        "old_alt": "",
+        "new_alt": "tata%20capital — in-store AI assistant",
+        "needs_human_confirmation": true
+      },
+      {
+        "src": "/images/marLogos/image%20891.svg",
+        "old_alt": "",
+        "new_alt": "image%20891 — in-store AI assistant",
+        "needs_human_confirmation": true
+      },
+      {
+        "src": "/images/marLogos/image%20892.svg",
+        "old_alt": "",
+        "new_alt": "image%20892 — in-store AI assistant",
+        "needs_human_confirmation": true
+      },
+      {
+        "src": "/images/marLogos/image%20893.svg",
+        "old_alt": "",
+        "new_alt": "image%20893 — in-store AI assistant",
+        "needs_human_confirmation": true
+      },
+      {
+        "src": "/images/marLogos/image%20894.svg",
+        "old_alt": "",
+        "new_alt": "image%20894 — in-store AI assistant",
+        "needs_human_confirmation": true
+      },
+      {
+        "src": "/images/marLogos/image%20895.svg",
+        "old_alt": "",
+        "new_alt": "image%20895 — in-store AI assistant",
+        "needs_human_confirmation": true
+      }
+    ],
+    "meta_keywords_removed": true,
+    "internal_links_added": [
+      {
+        "href": "https://darwix.ai/",
+        "anchor": ""
+      },
+      {
+        "href": "https://darwix.ai/compliance",
+        "anchor": "compliance"
+      }
+    ]
+  }
+}

@@ -1,0 +1,212 @@
+{
+  "content_gaps": [
+    {
+      "type": "blog",
+      "example": "A plain-language guide to RBI-compliant AI voice agents for lenders"
+    },
+    {
+      "type": "blog",
+      "example": "The DPDP Act and call recording: what BFSI teams must capture and mask"
+    },
+    {
+      "type": "blog",
+      "example": "How AI captures IRDAI MITC verbal disclosures"
+    },
+    {
+      "type": "comparison",
+      "example": "AI voice agents compared with human agents for early-bucket collections"
+    },
+    {
+      "type": "glossary",
+      "example": "PIVC, MITC, PD, LTV, NPA, FOIR, LAP, NACH, DLT"
+    },
+    {
+      "type": "case-study",
+      "example": "Case studies built from the customer logos already shown"
+    },
+    {
+      "type": "faq",
+      "example": "Visible FAQs per product/solution page"
+    },
+    {
+      "type": "contact",
+      "example": "/contact page"
+    },
+    {
+      "type": "catalogue",
+      "example": "Agent catalogue listing all 42 non-voice agents"
+    }
+  ],
+  "pages_researched": [
+    "https://darwix.ai",
+    "https://darwix.ai/about",
+    "https://darwix.ai/compliance",
+    "https://darwix.ai/nova",
+    "https://darwix.ai/sherpa",
+    "https://darwix.ai/voiceAgent",
+    "https://darwix.ai/voiceAgent/library",
+    "https://darwix.ai/nonvoice-agent",
+    "https://darwix.ai/privacy-policy",
+    "https://darwix.ai/terms-and-conditions",
+    "https://darwix.ai/idn/privacy-policy",
+    "https://darwix.ai/idn/terms-and-conditions",
+    "https://darwix.ai/pivc",
+    "https://darwix.ai/telemedi-assist",
+    "https://darwix.ai/life-insurance-proposal-automation",
+    "https://darwix.ai/auto-pd",
+    "https://darwix.ai/evidence-intelligence",
+    "https://darwix.ai/retail-asset-evidence-intelligence",
+    "https://darwix.ai/pre-meet-intelligence",
+    "https://darwix.ai/alert-intelligence",
+    "https://darwix.ai/landingsherpa"
+  ],
+  "technical_health": [
+    {
+      "k": "200 OK pages",
+      "v": "21",
+      "c": "#17AA2E"
+    },
+    {
+      "k": "4xx errors",
+      "v": "0",
+      "c": "#17AA2E"
+    },
+    {
+      "k": "5xx server errors",
+      "v": "0",
+      "c": "#17AA2E"
+    },
+    {
+      "k": "Orphan pages (zero inbound links)",
+      "v": "11",
+      "c": "#D93A3A"
+    },
+    {
+      "k": "Duplicate-content pairs (>85% overlap)",
+      "v": "3",
+      "c": "#E87E22"
+    },
+    {
+      "k": "Pages with no server-rendered schema",
+      "v": "21",
+      "c": "#E87E22"
+    },
+    {
+      "k": "Schema blocks failing validation (proposed)",
+      "v": "0",
+      "c": "#17AA2E"
+    },
+    {
+      "k": "Pages with <50 words server HTML (JS-only risk)",
+      "v": "0",
+      "c": "#17AA2E"
+    },
+    {
+      "k": "Pages still carrying meta-keywords tag",
+      "v": "11",
+      "c": "#949395"
+    },
+    {
+      "k": "Images missing alt text (current HTML)",
+      "v": "103",
+      "c": "#E87E22"
+    },
+    {
+      "k": "Accidentally noindexed pages",
+      "v": "0",
+      "c": "#17AA2E"
+    },
+    {
+      "k": "Pages crawled this run",
+      "v": "21",
+      "c": "#17AA2E"
+    }
+  ],
+  "qa_fail_breakdown": [
+    {
+      "k": "Orphan page",
+      "n": 11
+    },
+    {
+      "k": "Duplicate content < 85% similarity",
+      "n": 3
+    },
+    {
+      "k": "Exactly one H1 in current HTML",
+      "n": 2
+    }
+  ],
+  "pipeline_stats": {
+    "pages_published": 7,
+    "pages_crawled": 21,
+    "qa_first_pass_rate": 33,
+    "qa_failed_first_pass": 14,
+    "qa_total_first_pass": 21
+  },
+  "action_queue": [
+    {
+      "s": "High",
+      "c": "#D93A3A",
+      "t": "11 page(s) have zero inbound internal links in server HTML",
+      "p": "https://darwix.ai/idn/privacy-policy, https://darwix.ai/idn/terms-and-conditions, https://darwix.ai/pivc + 8 more",
+      "o": "Technical SEO QA",
+      "term": "Orphan Pages"
+    },
+    {
+      "s": "High",
+      "c": "#D93A3A",
+      "t": "21 page(s) have no server-rendered schema markup",
+      "p": "https://darwix.ai, https://darwix.ai/about, https://darwix.ai/compliance + 18 more",
+      "o": "Page Generation",
+      "term": "Schema Markup"
+    },
+    {
+      "s": "Medium",
+      "c": "#E87E22",
+      "t": "103 image(s) across the site are missing alt text",
+      "p": "site-wide",
+      "o": "Page Generation",
+      "term": "Image Alt Text"
+    },
+    {
+      "s": "Medium",
+      "c": "#E87E22",
+      "t": "3 page(s) have titles/descriptions overlapping another page by 85%+",
+      "p": "https://darwix.ai, https://darwix.ai/idn/privacy-policy, https://darwix.ai/idn/terms-and-conditions",
+      "o": "Technical SEO QA",
+      "term": "Duplicate Content"
+    },
+    {
+      "s": "Low",
+      "c": "#949395",
+      "t": "No blog page exists yet — e.g. \"A plain-language guide to RBI-compliant AI voice agents for lenders\"",
+      "p": "site-wide",
+      "o": "SEO Research",
+      "term": "Content Gap Analysis"
+    },
+    {
+      "s": "Low",
+      "c": "#949395",
+      "t": "No blog page exists yet — e.g. \"The DPDP Act and call recording: what BFSI teams must capture and mask\"",
+      "p": "site-wide",
+      "o": "SEO Research",
+      "term": "Content Gap Analysis"
+    },
+    {
+      "s": "Low",
+      "c": "#949395",
+      "t": "No blog page exists yet — e.g. \"How AI captures IRDAI MITC verbal disclosures\"",
+      "p": "site-wide",
+      "o": "SEO Research",
+      "term": "Content Gap Analysis"
+    },
+    {
+      "s": "Low",
+      "c": "#949395",
+      "t": "11 page(s) still carry the obsolete meta-keywords tag",
+      "p": "https://darwix.ai, https://darwix.ai/about, https://darwix.ai/compliance",
+      "o": "Page Generation",
+      "term": "Meta keywords"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+[
+  {
+    "s": "High",
+    "c": "#D93A3A",
+    "t": "11 page(s) have zero inbound internal links in server HTML",
+    "p": "https://darwix.ai/idn/privacy-policy, https://darwix.ai/idn/terms-and-conditions, https://darwix.ai/pivc + 8 more",
+    "o": "Technical SEO QA",
+    "term": "Orphan Pages"
+  },
+  {
+    "s": "High",
+    "c": "#D93A3A",
+    "t": "21 page(s) have no server-rendered schema markup",
+    "p": "https://darwix.ai, https://darwix.ai/about, https://darwix.ai/compliance + 18 more",
+    "o": "Page Generation",
+    "term": "Schema Markup"
+  },
+  {
+    "s": "Medium",
+    "c": "#E87E22",
+    "t": "103 image(s) across the site are missing alt text",
+    "p": "site-wide",
+    "o": "Page Generation",
+    "term": "Image Alt Text"
+  },
+  {
+    "s": "Medium",
+    "c": "#E87E22",
+    "t": "3 page(s) have titles/descriptions overlapping another page by 85%+",
+    "p": "https://darwix.ai, https://darwix.ai/idn/privacy-policy, https://darwix.ai/idn/terms-and-conditions",
+    "o": "Technical SEO QA",
+    "term": "Duplicate Content"
+  },
+  {
+    "s": "Low",
+    "c": "#949395",
+    "t": "No blog page exists yet — e.g. \"A plain-language guide to RBI-compliant AI voice agents for lenders\"",
+    "p": "site-wide",
+    "o": "SEO Research",
+    "term": "Content Gap Analysis"
+  },
+  {
+    "s": "Low",
+    "c": "#949395",
+    "t": "No blog page exists yet — e.g. \"The DPDP Act and call recording: what BFSI teams must capture and mask\"",
+    "p": "site-wide",
+    "o": "SEO Research",
+    "term": "Content Gap Analysis"
+  },
+  {
+    "s": "Low",
+    "c": "#949395",
+    "t": "No blog page exists yet — e.g. \"How AI captures IRDAI MITC verbal disclosures\"",
+    "p": "site-wide",
+    "o": "SEO Research",
+    "term": "Content Gap Analysis"
+  },
+  {
+    "s": "Low",
+    "c": "#949395",
+    "t": "11 page(s) still carry the obsolete meta-keywords tag",
+    "p": "https://darwix.ai, https://darwix.ai/about, https://darwix.ai/compliance",
+    "o": "Page Generation",
+    "term": "Meta keywords"
+  }
+]

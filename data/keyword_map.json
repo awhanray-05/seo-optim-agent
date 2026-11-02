@@ -1,0 +1,128 @@
+{
+  "https://darwix.ai": {
+    "primary": "AI platform for BFSI",
+    "secondary": [
+      "conversational intelligence for banks and NBFCs",
+      "agentic AI for lending and insurance"
+    ]
+  },
+  "https://darwix.ai/about": {
+    "primary": "about Darwix AI",
+    "secondary": [
+      "Darwix AI leadership",
+      "Darwix AI company"
+    ]
+  },
+  "https://darwix.ai/compliance": {
+    "primary": "RBI-compliant AI",
+    "secondary": [
+      "DPDP-compliant voice AI",
+      "IRDAI MITC recording",
+      "TRAI DLT compliance"
+    ]
+  },
+  "https://darwix.ai/nova": {
+    "primary": "in-store AI assistant",
+    "secondary": [
+      "AI kiosk for retail and BFSI branches"
+    ]
+  },
+  "https://darwix.ai/sherpa": {
+    "primary": "wearable AI for field sales",
+    "secondary": [
+      "AI assistant for field officers",
+      "real-time call coaching for BFSI"
+    ]
+  },
+  "https://darwix.ai/voiceAgent": {
+    "primary": "AI voice agent for BFSI",
+    "secondary": [
+      "AI outbound calling in Hindi",
+      "collections voice bot",
+      "AI dialer for lenders"
+    ]
+  },
+  "https://darwix.ai/voiceAgent/library": {
+    "primary": "voice agent sample library",
+    "secondary": [
+      "BFSI call demos",
+      "AI voice sample transcripts"
+    ]
+  },
+  "https://darwix.ai/nonvoice-agent": {
+    "primary": "BFSI workflow automation",
+    "secondary": [
+      "LOS and CRM automation",
+      "AI agents for loan operations"
+    ]
+  },
+  "https://darwix.ai/privacy-policy": {
+    "primary": "privacy policy",
+    "secondary": []
+  },
+  "https://darwix.ai/terms-and-conditions": {
+    "primary": "terms & conditions",
+    "secondary": []
+  },
+  "https://darwix.ai/idn/privacy-policy": {
+    "primary": "darwix ai",
+    "secondary": []
+  },
+  "https://darwix.ai/idn/terms-and-conditions": {
+    "primary": "darwix ai",
+    "secondary": []
+  },
+  "https://darwix.ai/pivc": {
+    "primary": "video PIVC for insurance",
+    "secondary": [
+      "pre-issuance verification call",
+      "mis-selling prevention"
+    ]
+  },
+  "https://darwix.ai/telemedi-assist": {
+    "primary": "tele-medical examination AI",
+    "secondary": [
+      "insurance medical underwriting assistant"
+    ]
+  },
+  "https://darwix.ai/life-insurance-proposal-automation": {
+    "primary": "life insurance proposal automation",
+    "secondary": [
+      "voice-driven proposal capture"
+    ]
+  },
+  "https://darwix.ai/auto-pd": {
+    "primary": "automated personal discussion",
+    "secondary": [
+      "housing finance PD report automation"
+    ]
+  },
+  "https://darwix.ai/evidence-intelligence": {
+    "primary": "document discrepancy detection",
+    "secondary": [
+      "KYC and claims document reconciliation"
+    ]
+  },
+  "https://darwix.ai/retail-asset-evidence-intelligence": {
+    "primary": "asset verification for ARCs",
+    "secondary": [
+      "EARC due diligence"
+    ]
+  },
+  "https://darwix.ai/pre-meet-intelligence": {
+    "primary": "client briefs for wealth managers",
+    "secondary": [
+      "RM meeting preparation AI"
+    ]
+  },
+  "https://darwix.ai/alert-intelligence": {
+    "primary": "proactive client alerts",
+    "secondary": [
+      "wealth management risk alerts"
+    ]
+  },
+  "https://darwix.ai/landingsherpa": {
+    "primary": "sherpa setup and support",
+    "secondary": []
+  }
+}

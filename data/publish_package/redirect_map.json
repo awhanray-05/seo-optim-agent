@@ -1,0 +1,12 @@
+[
+  {
+    "from": "https://darwix.ai/voiceAgent",
+    "to": "https://darwix.ai/voice-agent",
+    "type": 301
+  },
+  {
+    "from": "https://darwix.ai/voiceAgent/library",
+    "to": "https://darwix.ai/voice-agent/library",
+    "type": 301
+  }
+]

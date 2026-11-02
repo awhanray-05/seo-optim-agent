@@ -1,0 +1,2396 @@
+{
+  "https://darwix.ai": {
+    "url": "https://darwix.ai",
+    "checks": [
+      {
+        "name": "Meta title length",
+        "severity": "high",
+        "status": "pass",
+        "detail": "32 chars (limit 60): 'Ai Platform For Bfsi | Darwix AI'",
+        "field": "title"
+      },
+      {
+        "name": "Meta description length",
+        "severity": "medium",
+        "status": "pass",
+        "detail": "160 chars (target 140-160): \"Darwix AI's AI platform for BFSI helps BFSI teams move faster and stay compliant. Built for banks, NBFCs, insurers and wealth managers. Book a demo to see it li\"",
+        "field": "meta_description"
+      },
+      {
+        "name": "H1 contains focus keyword",
+        "severity": "high",
+        "status": "pass",
+        "detail": "H1 'Ai Platform For Bfsi' vs primary keyword 'ai platform for bfsi'",
+        "field": "h1"
+      },
+      {
+        "name": "Exactly one H1 in current HTML",
+        "severity": "medium",
+        "status": "pass",
+        "detail": "Current page has 1 H1 tag(s)",
+        "field": null
+      },
+      {
+        "name": "Canonical URL proposed",
+        "severity": "high",
+        "status": "pass",
+        "detail": "canonical: 'https://darwix.ai/'",
+        "field": "canonical"
+      },
+      {
+        "name": "Schema markup valid",
+        "severity": "high",
+        "status": "pass",
+        "detail": "3 JSON-LD block(s), all with @type: True",
+        "field": "schema"
+      },
+      {
+        "name": "Organization schema has a logo URL",
+        "severity": "medium",
+        "status": "pass",
+        "detail": "logo: https://darwix.ai/logo.png",
+        "field": null
+      },
+      {
+        "name": "Image alt text",
+        "severity": "medium",
+        "status": "pass",
+        "detail": "16 image(s) missing alt in current HTML; 22 fix(es) proposed",
+        "field": "image_alt_fixes"
+      },
+      {
+        "name": "Meta keywords tag removed",
+        "severity": "low",
+        "status": "pass",
+        "detail": "L1: obsolete meta keywords tag should be dropped in the proposed patch",
+        "field": null
+      },
+      {
+        "name": "Orphan page",
+        "severity": "critical",
+        "status": "pass",
+        "detail": "20 inbound internal link(s) found in server HTML across the crawled site",
+        "field": null
+      },
+      {
+        "name": "Server HTML has real content (not JS-only)",
+        "severity": "high",
+        "status": "pass",
+        "detail": "1270 words in server HTML",
+        "field": null
+      },
+      {
+        "name": "Not accidentally noindexed",
+        "severity": "critical",
+        "status": "pass",
+        "detail": "robots meta: index, follow",
+        "field": null
+      },
+      {
+        "name": "HTTP 200",
+        "severity": "critical",
+        "status": "pass",
+        "detail": "status: 200",
+        "field": null
+      },
+      {
+        "name": "Duplicate content < 85% similarity",
+        "severity": "medium",
+        "status": "fail",
+        "detail": "100% word overlap with https://darwix.ai/idn/privacy-policy",
+        "field": null
+      },
+      {
+        "name": "SEO Content QA — facts match the brief",
+        "severity": "high",
+        "status": "pass",
+        "detail": "Fact-check skipped — no OPENAI_API_KEY set. (fact-check stub)",
+        "field": null
+      }
+    ],
+    "overall": "fail",
+    "failed_fields": [],
+    "failed_count": 1,
+    "critical_failures": 0
+  },
+  "https://darwix.ai/about": {
+    "url": "https://darwix.ai/about",
+    "checks": [
+      {
+        "name": "Meta title length",
+        "severity": "high",
+        "status": "pass",
+        "detail": "27 chars (limit 60): 'About Darwix Ai | Darwix AI'",
+        "field": "title"
+      },
+      {
+        "name": "Meta description length",
+        "severity": "medium",
+        "status": "pass",
+        "detail": "158 chars (target 140-160): \"Darwix AI's about Darwix AI helps BFSI teams move faster and stay compliant. Built for banks, NBFCs, insurers and wealth managers. Book a demo to see it live.\"",
+        "field": "meta_description"
+      },
+      {
+        "name": "H1 contains focus keyword",
+        "severity": "high",
+        "status": "pass",
+        "detail": "H1 'About Darwix Ai' vs primary keyword 'about darwix ai'",
+        "field": "h1"
+      },
+      {
+        "name": "Exactly one H1 in current HTML",
+        "severity": "medium",
+        "status": "pass",
+        "detail": "Current page has 1 H1 tag(s)",
+        "field": null
+      },
+      {
+        "name": "Canonical URL proposed",
+        "severity": "high",
+        "status": "pass",
+        "detail": "canonical: 'https://darwix.ai/about'",
+        "field": "canonical"
+      },
+      {
+        "name": "Schema markup valid",
+        "severity": "high",
+        "status": "pass",
+        "detail": "2 JSON-LD block(s), all with @type: True",
+        "field": "schema"
+      },
+      {
+        "name": "Organization schema has a logo URL",
+        "severity": "medium",
+        "status": "pass",
+        "detail": "logo: https://darwix.ai/logo.png",
+        "field": null
+      },
+      {
+        "name": "Image alt text",
+        "severity": "medium",
+        "status": "pass",
+        "detail": "0 image(s) missing alt in current HTML; 0 fix(es) proposed",
+        "field": "image_alt_fixes"
+      },
+      {
+        "name": "Meta keywords tag removed",
+        "severity": "low",
+        "status": "pass",
+        "detail": "L1: obsolete meta keywords tag should be dropped in the proposed patch",
+        "field": null
+      },
+      {
+        "name": "Orphan page",
+        "severity": "critical",
+        "status": "pass",
+        "detail": "20 inbound internal link(s) found in server HTML across the crawled site",
+        "field": null
+      },
+      {
+        "name": "Server HTML has real content (not JS-only)",
+        "severity": "high",
+        "status": "pass",
+        "detail": "1007 words in server HTML",
+        "field": null
+      },
+      {
+        "name": "Not accidentally noindexed",
+        "severity": "critical",
+        "status": "pass",
+        "detail": "robots meta: index, follow",
+        "field": null
+      },
+      {
+        "name": "HTTP 200",
+        "severity": "critical",
+        "status": "pass",
+        "detail": "status: 200",
+        "field": null
+      },
+      {
+        "name": "Duplicate content < 85% similarity",
+        "severity": "medium",
+        "status": "pass",
+        "detail": "no near-duplicate found",
+        "field": null
+      },
+      {
+        "name": "SEO Content QA — facts match the brief",
+        "severity": "high",
+        "status": "pass",
+        "detail": "Fact-check skipped — no OPENAI_API_KEY set. (fact-check stub)",
+        "field": null
+      }
+    ],
+    "overall": "pass",
+    "failed_fields": [],
+    "failed_count": 0,
+    "critical_failures": 0
+  },
+  "https://darwix.ai/compliance": {
+    "url": "https://darwix.ai/compliance",
+    "checks": [
+      {
+        "name": "Meta title length",
+        "severity": "high",
+        "status": "pass",
+        "detail": "28 chars (limit 60): 'Rbi-Compliant Ai | Darwix AI'",
+        "field": "title"
+      },
+      {
+        "name": "Meta description length",
+        "severity": "medium",
+        "status": "pass",
+        "detail": "159 chars (target 140-160): \"Darwix AI's RBI-compliant AI helps BFSI teams move faster and stay compliant. Built for banks, NBFCs, insurers and wealth managers. Book a demo to see it live.\"",
+        "field": "meta_description"
+      },
+      {
+        "name": "H1 contains focus keyword",
+        "severity": "high",
+        "status": "pass",
+        "detail": "H1 'Rbi-Compliant Ai' vs primary keyword 'rbi-compliant ai'",
+        "field": "h1"
+      },
+      {
+        "name": "Exactly one H1 in current HTML",
+        "severity": "medium",
+        "status": "pass",
+        "detail": "Current page has 1 H1 tag(s)",
+        "field": null
+      },
+      {
+        "name": "Canonical URL proposed",
+        "severity": "high",
+        "status": "pass",
+        "detail": "canonical: 'https://darwix.ai/compliance'",
+        "field": "canonical"
+      },
+      {
+        "name": "Schema markup valid",
+        "severity": "high",
+        "status": "pass",
+        "detail": "2 JSON-LD block(s), all with @type: True",
+        "field": "schema"
+      },
+      {
+        "name": "Organization schema has a logo URL",
+        "severity": "medium",
+        "status": "pass",
+        "detail": "logo: https://darwix.ai/logo.png",
+        "field": null
+      },
+      {
+        "name": "Image alt text",
+        "severity": "medium",
+        "status": "pass",
+        "detail": "16 image(s) missing alt in current HTML; 22 fix(es) proposed",
+        "field": "image_alt_fixes"
+      },
+      {
+        "name": "Meta keywords tag removed",
+        "severity": "low",
+        "status": "pass",
+        "detail": "L1: obsolete meta keywords tag should be dropped in the proposed patch",
+        "field": null
+      },
+      {
+        "name": "Orphan page",
+        "severity": "critical",
+        "status": "pass",
+        "detail": "20 inbound internal link(s) found in server HTML across the crawled site",
+        "field": null
+      },
+      {
+        "name": "Server HTML has real content (not JS-only)",
+        "severity": "high",
+        "status": "pass",
+        "detail": "692 words in server HTML",
+        "field": null
+      },
+      {
+        "name": "Not accidentally noindexed",
+        "severity": "critical",
+        "status": "pass",
+        "detail": "robots meta: index, follow",
+        "field": null
+      },
+      {
+        "name": "HTTP 200",
+        "severity": "critical",
+        "status": "pass",
+        "detail": "status: 200",
+        "field": null
+      },
+      {
+        "name": "Duplicate content < 85% similarity",
+        "severity": "medium",
+        "status": "pass",
+        "detail": "no near-duplicate found",
+        "field": null
+      },
+      {
+        "name": "SEO Content QA — facts match the brief",
+        "severity": "high",
+        "status": "pass",
+        "detail": "Fact-check skipped — no OPENAI_API_KEY set. (fact-check stub)",
+        "field": null
+      }
+    ],
+    "overall": "pass",
+    "failed_fields": [],
+    "failed_count": 0,
+    "critical_failures": 0
+  },
+  "https://darwix.ai/nova": {
+    "url": "https://darwix.ai/nova",
+    "checks": [
+      {
+        "name": "Meta title length",
+        "severity": "high",
+        "status": "pass",
+        "detail": "33 chars (limit 60): 'In-Store Ai Assistant | Darwix AI'",
+        "field": "title"
+      },
+      {
+        "name": "Meta description length",
+        "severity": "medium",
+        "status": "pass",
+        "detail": "160 chars (target 140-160): \"Darwix AI's in-store AI assistant helps BFSI teams move faster and stay compliant. Built for banks, NBFCs, insurers and wealth managers. Book a demo to see it l\"",
+        "field": "meta_description"
+      },
+      {
+        "name": "H1 contains focus keyword",
+        "severity": "high",
+        "status": "pass",
+        "detail": "H1 'In-Store Ai Assistant' vs primary keyword 'in-store ai assistant'",
+        "field": "h1"
+      },
+      {
+        "name": "Exactly one H1 in current HTML",
+        "severity": "medium",
+        "status": "pass",
+        "detail": "Current page has 1 H1 tag(s)",
+        "field": null
+      },
+      {
+        "name": "Canonical URL proposed",
+        "severity": "high",
+        "status": "pass",
+        "detail": "canonical: 'https://darwix.ai/nova'",
+        "field": "canonical"
+      },
+      {
+        "name": "Schema markup valid",
+        "severity": "high",
+        "status": "pass",
+        "detail": "3 JSON-LD block(s), all with @type: True",
+        "field": "schema"
+      },
+      {
+        "name": "Organization schema has a logo URL",
+        "severity": "medium",
+        "status": "pass",
+        "detail": "logo: https://darwix.ai/logo.png",
+        "field": null
+      },
+      {
+        "name": "Image alt text",
+        "severity": "medium",
+        "status": "pass",
+        "detail": "16 image(s) missing alt in current HTML; 22 fix(es) proposed",
+        "field": "image_alt_fixes"
+      },
+      {
+        "name": "Meta keywords tag removed",
+        "severity": "low",
+        "status": "pass",
+        "detail": "L1: obsolete meta keywords tag should be dropped in the proposed patch",
+        "field": null
+      },
+      {
+        "name": "Orphan page",
+        "severity": "critical",
+        "status": "pass",
+        "detail": "3 inbound internal link(s) found in server HTML across the crawled site",
+        "field": null
+      },
+      {
+        "name": "Server HTML has real content (not JS-only)",
+        "severity": "high",
+        "status": "pass",
+        "detail": "715 words in server HTML",
+        "field": null
+      },
+      {
+        "name": "Not accidentally noindexed",
+        "severity": "critical",
+        "status": "pass",
+        "detail": "robots meta: index, follow",
+        "field": null
+      },
+      {
+        "name": "HTTP 200",
+        "severity": "critical",
+        "status": "pass",
+        "detail": "status: 200",
+        "field": null
+      },
+      {
+        "name": "Duplicate content < 85% similarity",
+        "severity": "medium",
+        "status": "pass",
+        "detail": "no near-duplicate found",
+        "field": null
+      },
+      {
+        "name": "SEO Content QA — facts match the brief",
+        "severity": "high",
+        "status": "pass",
+        "detail": "Fact-check skipped — no OPENAI_API_KEY set. (fact-check stub)",
+        "field": null
+      }
+    ],
+    "overall": "pass",
+    "failed_fields": [],
+    "failed_count": 0,
+    "critical_failures": 0
+  },
+  "https://darwix.ai/sherpa": {
+    "url": "https://darwix.ai/sherpa",
+    "checks": [
+      {
+        "name": "Meta title length",
+        "severity": "high",
+        "status": "pass",
+        "detail": "39 chars (limit 60): 'Wearable Ai For Field Sales | Darwix AI'",
+        "field": "title"
+      },
+      {
+        "name": "Meta description length",
+        "severity": "medium",
+        "status": "pass",
+        "detail": "160 chars (target 140-160): \"Darwix AI's wearable AI for field sales helps BFSI teams move faster and stay compliant. Built for banks, NBFCs, insurers and wealth managers. Book a demo to se\"",
+        "field": "meta_description"
+      },
+      {
+        "name": "H1 contains focus keyword",
+        "severity": "high",
+        "status": "pass",
+        "detail": "H1 'Wearable Ai For Field Sales' vs primary keyword 'wearable ai for field sales'",
+        "field": "h1"
+      },
+      {
+        "name": "Exactly one H1 in current HTML",
+        "severity": "medium",
+        "status": "fail",
+        "detail": "Current page has 2 H1 tag(s)",
+        "field": null
+      },
+      {
+        "name": "Canonical URL proposed",
+        "severity": "high",
+        "status": "pass",
+        "detail": "canonical: 'https://darwix.ai/sherpa'",
+        "field": "canonical"
+      },
+      {
+        "name": "Schema markup valid",
+        "severity": "high",
+        "status": "pass",
+        "detail": "3 JSON-LD block(s), all with @type: True",
+        "field": "schema"
+      },
+      {
+        "name": "Organization schema has a logo URL",
+        "severity": "medium",
+        "status": "pass",
+        "detail": "logo: https://darwix.ai/logo.png",
+        "field": null
+      },
+      {
+        "name": "Image alt text",
+        "severity": "medium",
+        "status": "pass",
+        "detail": "16 image(s) missing alt in current HTML; 22 fix(es) proposed",
+        "field": "image_alt_fixes"
+      },
+      {
+        "name": "Meta keywords tag removed",
+        "severity": "low",
+        "status": "pass",
+        "detail": "L1: obsolete meta keywords tag should be dropped in the proposed patch",
+        "field": null
+      },
+      {
+        "name": "Orphan page",
+        "severity": "critical",
+        "status": "pass",
+        "detail": "3 inbound internal link(s) found in server HTML across the crawled site",
+        "field": null
+      },
+      {
+        "name": "Server HTML has real content (not JS-only)",
+        "severity": "high",
+        "status": "pass",
+        "detail": "1213 words in server HTML",
+        "field": null
+      },
+      {
+        "name": "Not accidentally noindexed",
+        "severity": "critical",
+        "status": "pass",
+        "detail": "robots meta: index, follow",
+        "field": null
+      },
+      {
+        "name": "HTTP 200",
+        "severity": "critical",
+        "status": "pass",
+        "detail": "status: 200",
+        "field": null
+      },
+      {
+        "name": "Duplicate content < 85% similarity",
+        "severity": "medium",
+        "status": "pass",
+        "detail": "no near-duplicate found",
+        "field": null
+      },
+      {
+        "name": "SEO Content QA — facts match the brief",
+        "severity": "high",
+        "status": "pass",
+        "detail": "Fact-check skipped — no OPENAI_API_KEY set. (fact-check stub)",
+        "field": null
+      }
+    ],
+    "overall": "fail",
+    "failed_fields": [],
+    "failed_count": 1,
+    "critical_failures": 0
+  },
+  "https://darwix.ai/voiceAgent": {
+    "url": "https://darwix.ai/voiceAgent",
+    "checks": [
+      {
+        "name": "Meta title length",
+        "severity": "high",
+        "status": "pass",
+        "detail": "35 chars (limit 60): 'Ai Voice Agent For Bfsi | Darwix AI'",
+        "field": "title"
+      },
+      {
+        "name": "Meta description length",
+        "severity": "medium",
+        "status": "pass",
+        "detail": "160 chars (target 140-160): \"Darwix AI's AI voice agent for BFSI helps BFSI teams move faster and stay compliant. Built for banks, NBFCs, insurers and wealth managers. Book a demo to see it\"",
+        "field": "meta_description"
+      },
+      {
+        "name": "H1 contains focus keyword",
+        "severity": "high",
+        "status": "pass",
+        "detail": "H1 'Ai Voice Agent For Bfsi' vs primary keyword 'ai voice agent for bfsi'",
+        "field": "h1"
+      },
+      {
+        "name": "Exactly one H1 in current HTML",
+        "severity": "medium",
+        "status": "pass",
+        "detail": "Current page has 1 H1 tag(s)",
+        "field": null
+      },
+      {
+        "name": "Canonical URL proposed",
+        "severity": "high",
+        "status": "pass",
+        "detail": "canonical: 'https://darwix.ai/voice-agent'",
+        "field": "canonical"
+      },
+      {
+        "name": "Schema markup valid",
+        "severity": "high",
+        "status": "pass",
+        "detail": "3 JSON-LD block(s), all with @type: True",
+        "field": "schema"
+      },
+      {
+        "name": "Organization schema has a logo URL",
+        "severity": "medium",
+        "status": "pass",
+        "detail": "logo: https://darwix.ai/logo.png",
+        "field": null
+      },
+      {
+        "name": "Image alt text",
+        "severity": "medium",
+        "status": "pass",
+        "detail": "7 image(s) missing alt in current HTML; 7 fix(es) proposed",
+        "field": "image_alt_fixes"
+      },
+      {
+        "name": "Meta keywords tag removed",
+        "severity": "low",
+        "status": "pass",
+        "detail": "L1: obsolete meta keywords tag should be dropped in the proposed patch",
+        "field": null
+      },
+      {
+        "name": "Orphan page",
+        "severity": "critical",
+        "status": "pass",
+        "detail": "3 inbound internal link(s) found in server HTML across the crawled site",
+        "field": null
+      },
+      {
+        "name": "Server HTML has real content (not JS-only)",
+        "severity": "high",
+        "status": "pass",
+        "detail": "2417 words in server HTML",
+        "field": null
+      },
+      {
+        "name": "Not accidentally noindexed",
+        "severity": "critical",
+        "status": "pass",
+        "detail": "robots meta: index, follow",
+        "field": null
+      },
+      {
+        "name": "HTTP 200",
+        "severity": "critical",
+        "status": "pass",
+        "detail": "status: 200",
+        "field": null
+      },
+      {
+        "name": "Duplicate content < 85% similarity",
+        "severity": "medium",
+        "status": "pass",
+        "detail": "no near-duplicate found",
+        "field": null
+      },
+      {
+        "name": "SEO Content QA — facts match the brief",
+        "severity": "high",
+        "status": "pass",
+        "detail": "Fact-check skipped — no OPENAI_API_KEY set. (fact-check stub)",
+        "field": null
+      }
+    ],
+    "overall": "pass",
+    "failed_fields": [],
+    "failed_count": 0,
+    "critical_failures": 0
+  },
+  "https://darwix.ai/voiceAgent/library": {
+    "url": "https://darwix.ai/voiceAgent/library",
+    "checks": [
+      {
+        "name": "Meta title length",
+        "severity": "high",
+        "status": "pass",
+        "detail": "38 chars (limit 60): 'Voice Agent Sample Library | Darwix AI'",
+        "field": "title"
+      },
+      {
+        "name": "Meta description length",
+        "severity": "medium",
+        "status": "pass",
+        "detail": "160 chars (target 140-160): \"Darwix AI's voice agent sample library helps BFSI teams move faster and stay compliant. Built for banks, NBFCs, insurers and wealth managers. Book a demo to see\"",
+        "field": "meta_description"
+      },
+      {
+        "name": "H1 contains focus keyword",
+        "severity": "high",
+        "status": "pass",
+        "detail": "H1 'Voice Agent Sample Library' vs primary keyword 'voice agent sample library'",
+        "field": "h1"
+      },
+      {
+        "name": "Exactly one H1 in current HTML",
+        "severity": "medium",
+        "status": "fail",
+        "detail": "Current page has 0 H1 tag(s)",
+        "field": null
+      },
+      {
+        "name": "Canonical URL proposed",
+        "severity": "high",
+        "status": "pass",
+        "detail": "canonical: 'https://darwix.ai/voice-agent/library'",
+        "field": "canonical"
+      },
+      {
+        "name": "Schema markup valid",
+        "severity": "high",
+        "status": "pass",
+        "detail": "3 JSON-LD block(s), all with @type: True",
+        "field": "schema"
+      },
+      {
+        "name": "Organization schema has a logo URL",
+        "severity": "medium",
+        "status": "pass",
+        "detail": "logo: https://darwix.ai/logo.png",
+        "field": null
+      },
+      {
+        "name": "Image alt text",
+        "severity": "medium",
+        "status": "pass",
+        "detail": "0 image(s) missing alt in current HTML; 0 fix(es) proposed",
+        "field": "image_alt_fixes"
+      },
+      {
+        "name": "Meta keywords tag removed",
+        "severity": "low",
+        "status": "pass",
+        "detail": "L1: obsolete meta keywords tag should be dropped in the proposed patch",
+        "field": null
+      },
+      {
+        "name": "Orphan page",
+        "severity": "critical",
+        "status": "pass",
+        "detail": "1 inbound internal link(s) found in server HTML across the crawled site",
+        "field": null
+      },
+      {
+        "name": "Server HTML has real content (not JS-only)",
+        "severity": "high",
+        "status": "pass",
+        "detail": "3007 words in server HTML",
+        "field": null
+      },
+      {
+        "name": "Not accidentally noindexed",
+        "severity": "critical",
+        "status": "pass",
+        "detail": "robots meta: index, follow",
+        "field": null
+      },
+      {
+        "name": "HTTP 200",
+        "severity": "critical",
+        "status": "pass",
+        "detail": "status: 200",
+        "field": null
+      },
+      {
+        "name": "Duplicate content < 85% similarity",
+        "severity": "medium",
+        "status": "pass",
+        "detail": "no near-duplicate found",
+        "field": null
+      },
+      {
+        "name": "SEO Content QA — facts match the brief",
+        "severity": "high",
+        "status": "pass",
+        "detail": "Fact-check skipped — no OPENAI_API_KEY set. (fact-check stub)",
+        "field": null
+      }
+    ],
+    "overall": "fail",
+    "failed_fields": [],
+    "failed_count": 1,
+    "critical_failures": 0
+  },
+  "https://darwix.ai/nonvoice-agent": {
+    "url": "https://darwix.ai/nonvoice-agent",
+    "checks": [
+      {
+        "name": "Meta title length",
+        "severity": "high",
+        "status": "pass",
+        "detail": "36 chars (limit 60): 'Bfsi Workflow Automation | Darwix AI'",
+        "field": "title"
+      },
+      {
+        "name": "Meta description length",
+        "severity": "medium",
+        "status": "pass",
+        "detail": "160 chars (target 140-160): \"Darwix AI's BFSI workflow automation helps BFSI teams move faster and stay compliant. Built for banks, NBFCs, insurers and wealth managers. Book a demo to see i\"",
+        "field": "meta_description"
+      },
+      {
+        "name": "H1 contains focus keyword",
+        "severity": "high",
+        "status": "pass",
+        "detail": "H1 'Bfsi Workflow Automation' vs primary keyword 'bfsi workflow automation'",
+        "field": "h1"
+      },
+      {
+        "name": "Exactly one H1 in current HTML",
+        "severity": "medium",
+        "status": "pass",
+        "detail": "Current page has 1 H1 tag(s)",
+        "field": null
+      },
+      {
+        "name": "Canonical URL proposed",
+        "severity": "high",
+        "status": "pass",
+        "detail": "canonical: 'https://darwix.ai/nonvoice-agent'",
+        "field": "canonical"
+      },
+      {
+        "name": "Schema markup valid",
+        "severity": "high",
+        "status": "pass",
+        "detail": "3 JSON-LD block(s), all with @type: True",
+        "field": "schema"
+      },
+      {
+        "name": "Organization schema has a logo URL",
+        "severity": "medium",
+        "status": "pass",
+        "detail": "logo: https://darwix.ai/logo.png",
+        "field": null
+      },
+      {
+        "name": "Image alt text",
+        "severity": "medium",
+        "status": "pass",
+        "detail": "0 image(s) missing alt in current HTML; 0 fix(es) proposed",
+        "field": "image_alt_fixes"
+      },
+      {
+        "name": "Meta keywords tag removed",
+        "severity": "low",
+        "status": "pass",
+        "detail": "L1: obsolete meta keywords tag should be dropped in the proposed patch",
+        "field": null
+      },
+      {
+        "name": "Orphan page",
+        "severity": "critical",
+        "status": "pass",
+        "detail": "3 inbound internal link(s) found in server HTML across the crawled site",
+        "field": null
+      },
+      {
+        "name": "Server HTML has real content (not JS-only)",
+        "severity": "high",
+        "status": "pass",
+        "detail": "975 words in server HTML",
+        "field": null
+      },
+      {
+        "name": "Not accidentally noindexed",
+        "severity": "critical",
+        "status": "pass",
+        "detail": "robots meta: index, follow",
+        "field": null
+      },
+      {
+        "name": "HTTP 200",
+        "severity": "critical",
+        "status": "pass",
+        "detail": "status: 200",
+        "field": null
+      },
+      {
+        "name": "Duplicate content < 85% similarity",
+        "severity": "medium",
+        "status": "pass",
+        "detail": "no near-duplicate found",
+        "field": null
+      },
+      {
+        "name": "SEO Content QA — facts match the brief",
+        "severity": "high",
+        "status": "pass",
+        "detail": "Fact-check skipped — no OPENAI_API_KEY set. (fact-check stub)",
+        "field": null
+      }
+    ],
+    "overall": "pass",
+    "failed_fields": [],
+    "failed_count": 0,
+    "critical_failures": 0
+  },
+  "https://darwix.ai/privacy-policy": {
+    "url": "https://darwix.ai/privacy-policy",
+    "checks": [
+      {
+        "name": "Meta title length",
+        "severity": "high",
+        "status": "pass",
+        "detail": "26 chars (limit 60): 'Privacy Policy | Darwix AI'",
+        "field": "title"
+      },
+      {
+        "name": "Meta description length",
+        "severity": "medium",
+        "status": "pass",
+        "detail": "157 chars (target 140-160): \"Darwix AI's privacy policy helps BFSI teams move faster and stay compliant. Built for banks, NBFCs, insurers and wealth managers. Book a demo to see it live.\"",
+        "field": "meta_description"
+      },
+      {
+        "name": "H1 contains focus keyword",
+        "severity": "high",
+        "status": "pass",
+        "detail": "H1 'Privacy Policy' vs primary keyword 'privacy policy'",
+        "field": "h1"
+      },
+      {
+        "name": "Exactly one H1 in current HTML",
+        "severity": "medium",
+        "status": "pass",
+        "detail": "Current page has 1 H1 tag(s)",
+        "field": null
+      },
+      {
+        "name": "Canonical URL proposed",
+        "severity": "high",
+        "status": "pass",
+        "detail": "canonical: 'https://darwix.ai/privacy-policy'",
+        "field": "canonical"
+      },
+      {
+        "name": "Schema markup valid",
+        "severity": "high",
+        "status": "pass",
+        "detail": "2 JSON-LD block(s), all with @type: True",
+        "field": "schema"
+      },
+      {
+        "name": "Organization schema has a logo URL",
+        "severity": "medium",
+        "status": "pass",
+        "detail": "logo: https://darwix.ai/logo.png",
+        "field": null
+      },
+      {
+        "name": "Image alt text",
+        "severity": "medium",
+        "status": "pass",
+        "detail": "0 image(s) missing alt in current HTML; 0 fix(es) proposed",
+        "field": "image_alt_fixes"
+      },
+      {
+        "name": "Meta keywords tag removed",
+        "severity": "low",
+        "status": "pass",
+        "detail": "L1: obsolete meta keywords tag should be dropped in the proposed patch",
+        "field": null
+      },
+      {
+        "name": "Orphan page",
+        "severity": "critical",
+        "status": "pass",
+        "detail": "20 inbound internal link(s) found in server HTML across the crawled site",
+        "field": null
+      },
+      {
+        "name": "Server HTML has real content (not JS-only)",
+        "severity": "high",
+        "status": "pass",
+        "detail": "422 words in server HTML",
+        "field": null
+      },
+      {
+        "name": "Not accidentally noindexed",
+        "severity": "critical",
+        "status": "pass",
+        "detail": "robots meta: index, follow",
+        "field": null
+      },
+      {
+        "name": "HTTP 200",
+        "severity": "critical",
+        "status": "pass",
+        "detail": "status: 200",
+        "field": null
+      },
+      {
+        "name": "Duplicate content < 85% similarity",
+        "severity": "medium",
+        "status": "pass",
+        "detail": "no near-duplicate found",
+        "field": null
+      },
+      {
+        "name": "SEO Content QA — facts match the brief",
+        "severity": "high",
+        "status": "pass",
+        "detail": "Fact-check skipped — no OPENAI_API_KEY set. (fact-check stub)",
+        "field": null
+      }
+    ],
+    "overall": "pass",
+    "failed_fields": [],
+    "failed_count": 0,
+    "critical_failures": 0
+  },
+  "https://darwix.ai/terms-and-conditions": {
+    "url": "https://darwix.ai/terms-and-conditions",
+    "checks": [
+      {
+        "name": "Meta title length",
+        "severity": "high",
+        "status": "pass",
+        "detail": "30 chars (limit 60): 'Terms & Conditions | Darwix AI'",
+        "field": "title"
+      },
+      {
+        "name": "Meta description length",
+        "severity": "medium",
+        "status": "pass",
+        "detail": "160 chars (target 140-160): \"Darwix AI's terms & conditions helps BFSI teams move faster and stay compliant. Built for banks, NBFCs, insurers and wealth managers. Book a demo to see it live\"",
+        "field": "meta_description"
+      },
+      {
+        "name": "H1 contains focus keyword",
+        "severity": "high",
+        "status": "pass",
+        "detail": "H1 'Terms & Conditions' vs primary keyword 'terms & conditions'",
+        "field": "h1"
+      },
+      {
+        "name": "Exactly one H1 in current HTML",
+        "severity": "medium",
+        "status": "pass",
+        "detail": "Current page has 1 H1 tag(s)",
+        "field": null
+      },
+      {
+        "name": "Canonical URL proposed",
+        "severity": "high",
+        "status": "pass",
+        "detail": "canonical: 'https://darwix.ai/terms-and-conditions'",
+        "field": "canonical"
+      },
+      {
+        "name": "Schema markup valid",
+        "severity": "high",
+        "status": "pass",
+        "detail": "2 JSON-LD block(s), all with @type: True",
+        "field": "schema"
+      },
+      {
+        "name": "Organization schema has a logo URL",
+        "severity": "medium",
+        "status": "pass",
+        "detail": "logo: https://darwix.ai/logo.png",
+        "field": null
+      },
+      {
+        "name": "Image alt text",
+        "severity": "medium",
+        "status": "pass",
+        "detail": "0 image(s) missing alt in current HTML; 0 fix(es) proposed",
+        "field": "image_alt_fixes"
+      },
+      {
+        "name": "Meta keywords tag removed",
+        "severity": "low",
+        "status": "pass",
+        "detail": "L1: obsolete meta keywords tag should be dropped in the proposed patch",
+        "field": null
+      },
+      {
+        "name": "Orphan page",
+        "severity": "critical",
+        "status": "pass",
+        "detail": "20 inbound internal link(s) found in server HTML across the crawled site",
+        "field": null
+      },
+      {
+        "name": "Server HTML has real content (not JS-only)",
+        "severity": "high",
+        "status": "pass",
+        "detail": "440 words in server HTML",
+        "field": null
+      },
+      {
+        "name": "Not accidentally noindexed",
+        "severity": "critical",
+        "status": "pass",
+        "detail": "robots meta: index, follow",
+        "field": null
+      },
+      {
+        "name": "HTTP 200",
+        "severity": "critical",
+        "status": "pass",
+        "detail": "status: 200",
+        "field": null
+      },
+      {
+        "name": "Duplicate content < 85% similarity",
+        "severity": "medium",
+        "status": "pass",
+        "detail": "no near-duplicate found",
+        "field": null
+      },
+      {
+        "name": "SEO Content QA — facts match the brief",
+        "severity": "high",
+        "status": "pass",
+        "detail": "Fact-check skipped — no OPENAI_API_KEY set. (fact-check stub)",
+        "field": null
+      }
+    ],
+    "overall": "pass",
+    "failed_fields": [],
+    "failed_count": 0,
+    "critical_failures": 0
+  },
+  "https://darwix.ai/idn/privacy-policy": {
+    "url": "https://darwix.ai/idn/privacy-policy",
+    "checks": [
+      {
+        "name": "Meta title length",
+        "severity": "high",
+        "status": "pass",
+        "detail": "21 chars (limit 60): 'Darwix Ai | Darwix AI'",
+        "field": "title"
+      },
+      {
+        "name": "Meta description length",
+        "severity": "medium",
+        "status": "pass",
+        "detail": "152 chars (target 140-160): \"Darwix AI's darwix ai helps BFSI teams move faster and stay compliant. Built for banks, NBFCs, insurers and wealth managers. Book a demo to see it live.\"",
+        "field": "meta_description"
+      },
+      {
+        "name": "H1 contains focus keyword",
+        "severity": "high",
+        "status": "pass",
+        "detail": "H1 'Darwix Ai' vs primary keyword 'darwix ai'",
+        "field": "h1"
+      },
+      {
+        "name": "Exactly one H1 in current HTML",
+        "severity": "medium",
+        "status": "pass",
+        "detail": "Current page has 1 H1 tag(s)",
+        "field": null
+      },
+      {
+        "name": "Canonical URL proposed",
+        "severity": "high",
+        "status": "pass",
+        "detail": "canonical: 'https://darwix.ai/idn/privacy-policy'",
+        "field": "canonical"
+      },
+      {
+        "name": "Schema markup valid",
+        "severity": "high",
+        "status": "pass",
+        "detail": "2 JSON-LD block(s), all with @type: True",
+        "field": "schema"
+      },
+      {
+        "name": "Organization schema has a logo URL",
+        "severity": "medium",
+        "status": "pass",
+        "detail": "logo: https://darwix.ai/logo.png",
+        "field": null
+      },
+      {
+        "name": "Image alt text",
+        "severity": "medium",
+        "status": "pass",
+        "detail": "16 image(s) missing alt in current HTML; 22 fix(es) proposed",
+        "field": "image_alt_fixes"
+      },
+      {
+        "name": "Meta keywords tag removed",
+        "severity": "low",
+        "status": "pass",
+        "detail": "L1: obsolete meta keywords tag should be dropped in the proposed patch",
+        "field": null
+      },
+      {
+        "name": "Orphan page",
+        "severity": "critical",
+        "status": "fail",
+        "detail": "0 inbound internal link(s) found in server HTML across the crawled site",
+        "field": null
+      },
+      {
+        "name": "Server HTML has real content (not JS-only)",
+        "severity": "high",
+        "status": "pass",
+        "detail": "1270 words in server HTML",
+        "field": null
+      },
+      {
+        "name": "Not accidentally noindexed",
+        "severity": "critical",
+        "status": "pass",
+        "detail": "robots meta: index, follow",
+        "field": null
+      },
+      {
+        "name": "HTTP 200",
+        "severity": "critical",
+        "status": "pass",
+        "detail": "status: 200",
+        "field": null
+      },
+      {
+        "name": "Duplicate content < 85% similarity",
+        "severity": "medium",
+        "status": "fail",
+        "detail": "100% word overlap with https://darwix.ai",
+        "field": null
+      },
+      {
+        "name": "SEO Content QA — facts match the brief",
+        "severity": "high",
+        "status": "pass",
+        "detail": "Fact-check skipped — no OPENAI_API_KEY set. (fact-check stub)",
+        "field": null
+      }
+    ],
+    "overall": "fail",
+    "failed_fields": [],
+    "failed_count": 2,
+    "critical_failures": 1
+  },
+  "https://darwix.ai/idn/terms-and-conditions": {
+    "url": "https://darwix.ai/idn/terms-and-conditions",
+    "checks": [
+      {
+        "name": "Meta title length",
+        "severity": "high",
+        "status": "pass",
+        "detail": "21 chars (limit 60): 'Darwix Ai | Darwix AI'",
+        "field": "title"
+      },
+      {
+        "name": "Meta description length",
+        "severity": "medium",
+        "status": "pass",
+        "detail": "152 chars (target 140-160): \"Darwix AI's darwix ai helps BFSI teams move faster and stay compliant. Built for banks, NBFCs, insurers and wealth managers. Book a demo to see it live.\"",
+        "field": "meta_description"
+      },
+      {
+        "name": "H1 contains focus keyword",
+        "severity": "high",
+        "status": "pass",
+        "detail": "H1 'Darwix Ai' vs primary keyword 'darwix ai'",
+        "field": "h1"
+      },
+      {
+        "name": "Exactly one H1 in current HTML",
+        "severity": "medium",
+        "status": "pass",
+        "detail": "Current page has 1 H1 tag(s)",
+        "field": null
+      },
+      {
+        "name": "Canonical URL proposed",
+        "severity": "high",
+        "status": "pass",
+        "detail": "canonical: 'https://darwix.ai/idn/terms-and-conditions'",
+        "field": "canonical"
+      },
+      {
+        "name": "Schema markup valid",
+        "severity": "high",
+        "status": "pass",
+        "detail": "2 JSON-LD block(s), all with @type: True",
+        "field": "schema"
+      },
+      {
+        "name": "Organization schema has a logo URL",
+        "severity": "medium",
+        "status": "pass",
+        "detail": "logo: https://darwix.ai/logo.png",
+        "field": null
+      },
+      {
+        "name": "Image alt text",
+        "severity": "medium",
+        "status": "pass",
+        "detail": "16 image(s) missing alt in current HTML; 22 fix(es) proposed",
+        "field": "image_alt_fixes"
+      },
+      {
+        "name": "Meta keywords tag removed",
+        "severity": "low",
+        "status": "pass",
+        "detail": "L1: obsolete meta keywords tag should be dropped in the proposed patch",
+        "field": null
+      },
+      {
+        "name": "Orphan page",
+        "severity": "critical",
+        "status": "fail",
+        "detail": "0 inbound internal link(s) found in server HTML across the crawled site",
+        "field": null
+      },
+      {
+        "name": "Server HTML has real content (not JS-only)",
+        "severity": "high",
+        "status": "pass",
+        "detail": "1270 words in server HTML",
+        "field": null
+      },
+      {
+        "name": "Not accidentally noindexed",
+        "severity": "critical",
+        "status": "pass",
+        "detail": "robots meta: index, follow",
+        "field": null
+      },
+      {
+        "name": "HTTP 200",
+        "severity": "critical",
+        "status": "pass",
+        "detail": "status: 200",
+        "field": null
+      },
+      {
+        "name": "Duplicate content < 85% similarity",
+        "severity": "medium",
+        "status": "fail",
+        "detail": "100% word overlap with https://darwix.ai",
+        "field": null
+      },
+      {
+        "name": "SEO Content QA — facts match the brief",
+        "severity": "high",
+        "status": "pass",
+        "detail": "Fact-check skipped — no OPENAI_API_KEY set. (fact-check stub)",
+        "field": null
+      }
+    ],
+    "overall": "fail",
+    "failed_fields": [],
+    "failed_count": 2,
+    "critical_failures": 1
+  },
+  "https://darwix.ai/pivc": {
+    "url": "https://darwix.ai/pivc",
+    "checks": [
+      {
+        "name": "Meta title length",
+        "severity": "high",
+        "status": "pass",
+        "detail": "36 chars (limit 60): 'Video Pivc For Insurance | Darwix AI'",
+        "field": "title"
+      },
+      {
+        "name": "Meta description length",
+        "severity": "medium",
+        "status": "pass",
+        "detail": "160 chars (target 140-160): \"Darwix AI's video PIVC for insurance helps BFSI teams move faster and stay compliant. Built for banks, NBFCs, insurers and wealth managers. Book a demo to see i\"",
+        "field": "meta_description"
+      },
+      {
+        "name": "H1 contains focus keyword",
+        "severity": "high",
+        "status": "pass",
+        "detail": "H1 'Video Pivc For Insurance' vs primary keyword 'video pivc for insurance'",
+        "field": "h1"
+      },
+      {
+        "name": "Exactly one H1 in current HTML",
+        "severity": "medium",
+        "status": "pass",
+        "detail": "Current page has 1 H1 tag(s)",
+        "field": null
+      },
+      {
+        "name": "Canonical URL proposed",
+        "severity": "high",
+        "status": "pass",
+        "detail": "canonical: 'https://darwix.ai/pivc'",
+        "field": "canonical"
+      },
+      {
+        "name": "Schema markup valid",
+        "severity": "high",
+        "status": "pass",
+        "detail": "3 JSON-LD block(s), all with @type: True",
+        "field": "schema"
+      },
+      {
+        "name": "Organization schema has a logo URL",
+        "severity": "medium",
+        "status": "pass",
+        "detail": "logo: https://darwix.ai/logo.png",
+        "field": null
+      },
+      {
+        "name": "Image alt text",
+        "severity": "medium",
+        "status": "pass",
+        "detail": "0 image(s) missing alt in current HTML; 0 fix(es) proposed",
+        "field": "image_alt_fixes"
+      },
+      {
+        "name": "Meta keywords tag removed",
+        "severity": "low",
+        "status": "pass",
+        "detail": "L1: obsolete meta keywords tag should be dropped in the proposed patch",
+        "field": null
+      },
+      {
+        "name": "Orphan page",
+        "severity": "critical",
+        "status": "fail",
+        "detail": "0 inbound internal link(s) found in server HTML across the crawled site",
+        "field": null
+      },
+      {
+        "name": "Server HTML has real content (not JS-only)",
+        "severity": "high",
+        "status": "pass",
+        "detail": "2095 words in server HTML",
+        "field": null
+      },
+      {
+        "name": "Not accidentally noindexed",
+        "severity": "critical",
+        "status": "pass",
+        "detail": "robots meta: index, follow",
+        "field": null
+      },
+      {
+        "name": "HTTP 200",
+        "severity": "critical",
+        "status": "pass",
+        "detail": "status: 200",
+        "field": null
+      },
+      {
+        "name": "Duplicate content < 85% similarity",
+        "severity": "medium",
+        "status": "pass",
+        "detail": "no near-duplicate found",
+        "field": null
+      },
+      {
+        "name": "SEO Content QA — facts match the brief",
+        "severity": "high",
+        "status": "pass",
+        "detail": "Fact-check skipped — no OPENAI_API_KEY set. (fact-check stub)",
+        "field": null
+      }
+    ],
+    "overall": "fail",
+    "failed_fields": [],
+    "failed_count": 1,
+    "critical_failures": 1
+  },
+  "https://darwix.ai/telemedi-assist": {
+    "url": "https://darwix.ai/telemedi-assist",
+    "checks": [
+      {
+        "name": "Meta title length",
+        "severity": "high",
+        "status": "pass",
+        "detail": "39 chars (limit 60): 'Tele-Medical Examination Ai | Darwix AI'",
+        "field": "title"
+      },
+      {
+        "name": "Meta description length",
+        "severity": "medium",
+        "status": "pass",
+        "detail": "160 chars (target 140-160): \"Darwix AI's tele-medical examination AI helps BFSI teams move faster and stay compliant. Built for banks, NBFCs, insurers and wealth managers. Book a demo to se\"",
+        "field": "meta_description"
+      },
+      {
+        "name": "H1 contains focus keyword",
+        "severity": "high",
+        "status": "pass",
+        "detail": "H1 'Tele-Medical Examination Ai' vs primary keyword 'tele-medical examination ai'",
+        "field": "h1"
+      },
+      {
+        "name": "Exactly one H1 in current HTML",
+        "severity": "medium",
+        "status": "pass",
+        "detail": "Current page has 1 H1 tag(s)",
+        "field": null
+      },
+      {
+        "name": "Canonical URL proposed",
+        "severity": "high",
+        "status": "pass",
+        "detail": "canonical: 'https://darwix.ai/telemedi-assist'",
+        "field": "canonical"
+      },
+      {
+        "name": "Schema markup valid",
+        "severity": "high",
+        "status": "pass",
+        "detail": "3 JSON-LD block(s), all with @type: True",
+        "field": "schema"
+      },
+      {
+        "name": "Organization schema has a logo URL",
+        "severity": "medium",
+        "status": "pass",
+        "detail": "logo: https://darwix.ai/logo.png",
+        "field": null
+      },
+      {
+        "name": "Image alt text",
+        "severity": "medium",
+        "status": "pass",
+        "detail": "0 image(s) missing alt in current HTML; 0 fix(es) proposed",
+        "field": "image_alt_fixes"
+      },
+      {
+        "name": "Meta keywords tag removed",
+        "severity": "low",
+        "status": "pass",
+        "detail": "L1: obsolete meta keywords tag should be dropped in the proposed patch",
+        "field": null
+      },
+      {
+        "name": "Orphan page",
+        "severity": "critical",
+        "status": "fail",
+        "detail": "0 inbound internal link(s) found in server HTML across the crawled site",
+        "field": null
+      },
+      {
+        "name": "Server HTML has real content (not JS-only)",
+        "severity": "high",
+        "status": "pass",
+        "detail": "2198 words in server HTML",
+        "field": null
+      },
+      {
+        "name": "Not accidentally noindexed",
+        "severity": "critical",
+        "status": "pass",
+        "detail": "robots meta: index, follow",
+        "field": null
+      },
+      {
+        "name": "HTTP 200",
+        "severity": "critical",
+        "status": "pass",
+        "detail": "status: 200",
+        "field": null
+      },
+      {
+        "name": "Duplicate content < 85% similarity",
+        "severity": "medium",
+        "status": "pass",
+        "detail": "no near-duplicate found",
+        "field": null
+      },
+      {
+        "name": "SEO Content QA — facts match the brief",
+        "severity": "high",
+        "status": "pass",
+        "detail": "Fact-check skipped — no OPENAI_API_KEY set. (fact-check stub)",
+        "field": null
+      }
+    ],
+    "overall": "fail",
+    "failed_fields": [],
+    "failed_count": 1,
+    "critical_failures": 1
+  },
+  "https://darwix.ai/life-insurance-proposal-automation": {
+    "url": "https://darwix.ai/life-insurance-proposal-automation",
+    "checks": [
+      {
+        "name": "Meta title length",
+        "severity": "high",
+        "status": "pass",
+        "detail": "46 chars (limit 60): 'Life Insurance Proposal Automation | Darwix AI'",
+        "field": "title"
+      },
+      {
+        "name": "Meta description length",
+        "severity": "medium",
+        "status": "pass",
+        "detail": "160 chars (target 140-160): \"Darwix AI's life insurance proposal automation helps BFSI teams move faster and stay compliant. Built for banks, NBFCs, insurers and wealth managers. Book a dem\"",
+        "field": "meta_description"
+      },
+      {
+        "name": "H1 contains focus keyword",
+        "severity": "high",
+        "status": "pass",
+        "detail": "H1 'Life Insurance Proposal Automation' vs primary keyword 'life insurance proposal automation'",
+        "field": "h1"
+      },
+      {
+        "name": "Exactly one H1 in current HTML",
+        "severity": "medium",
+        "status": "pass",
+        "detail": "Current page has 1 H1 tag(s)",
+        "field": null
+      },
+      {
+        "name": "Canonical URL proposed",
+        "severity": "high",
+        "status": "pass",
+        "detail": "canonical: 'https://darwix.ai/life-insurance-proposal-automation'",
+        "field": "canonical"
+      },
+      {
+        "name": "Schema markup valid",
+        "severity": "high",
+        "status": "pass",
+        "detail": "3 JSON-LD block(s), all with @type: True",
+        "field": "schema"
+      },
+      {
+        "name": "Organization schema has a logo URL",
+        "severity": "medium",
+        "status": "pass",
+        "detail": "logo: https://darwix.ai/logo.png",
+        "field": null
+      },
+      {
+        "name": "Image alt text",
+        "severity": "medium",
+        "status": "pass",
+        "detail": "0 image(s) missing alt in current HTML; 0 fix(es) proposed",
+        "field": "image_alt_fixes"
+      },
+      {
+        "name": "Meta keywords tag removed",
+        "severity": "low",
+        "status": "pass",
+        "detail": "L1: obsolete meta keywords tag should be dropped in the proposed patch",
+        "field": null
+      },
+      {
+        "name": "Orphan page",
+        "severity": "critical",
+        "status": "fail",
+        "detail": "0 inbound internal link(s) found in server HTML across the crawled site",
+        "field": null
+      },
+      {
+        "name": "Server HTML has real content (not JS-only)",
+        "severity": "high",
+        "status": "pass",
+        "detail": "2484 words in server HTML",
+        "field": null
+      },
+      {
+        "name": "Not accidentally noindexed",
+        "severity": "critical",
+        "status": "pass",
+        "detail": "robots meta: index, follow",
+        "field": null
+      },
+      {
+        "name": "HTTP 200",
+        "severity": "critical",
+        "status": "pass",
+        "detail": "status: 200",
+        "field": null
+      },
+      {
+        "name": "Duplicate content < 85% similarity",
+        "severity": "medium",
+        "status": "pass",
+        "detail": "no near-duplicate found",
+        "field": null
+      },
+      {
+        "name": "SEO Content QA — facts match the brief",
+        "severity": "high",
+        "status": "pass",
+        "detail": "Fact-check skipped — no OPENAI_API_KEY set. (fact-check stub)",
+        "field": null
+      }
+    ],
+    "overall": "fail",
+    "failed_fields": [],
+    "failed_count": 1,
+    "critical_failures": 1
+  },
+  "https://darwix.ai/auto-pd": {
+    "url": "https://darwix.ai/auto-pd",
+    "checks": [
+      {
+        "name": "Meta title length",
+        "severity": "high",
+        "status": "pass",
+        "detail": "41 chars (limit 60): 'Automated Personal Discussion | Darwix AI'",
+        "field": "title"
+      },
+      {
+        "name": "Meta description length",
+        "severity": "medium",
+        "status": "pass",
+        "detail": "160 chars (target 140-160): \"Darwix AI's automated personal discussion helps BFSI teams move faster and stay compliant. Built for banks, NBFCs, insurers and wealth managers. Book a demo to \"",
+        "field": "meta_description"
+      },
+      {
+        "name": "H1 contains focus keyword",
+        "severity": "high",
+        "status": "pass",
+        "detail": "H1 'Automated Personal Discussion' vs primary keyword 'automated personal discussion'",
+        "field": "h1"
+      },
+      {
+        "name": "Exactly one H1 in current HTML",
+        "severity": "medium",
+        "status": "pass",
+        "detail": "Current page has 1 H1 tag(s)",
+        "field": null
+      },
+      {
+        "name": "Canonical URL proposed",
+        "severity": "high",
+        "status": "pass",
+        "detail": "canonical: 'https://darwix.ai/auto-pd'",
+        "field": "canonical"
+      },
+      {
+        "name": "Schema markup valid",
+        "severity": "high",
+        "status": "pass",
+        "detail": "3 JSON-LD block(s), all with @type: True",
+        "field": "schema"
+      },
+      {
+        "name": "Organization schema has a logo URL",
+        "severity": "medium",
+        "status": "pass",
+        "detail": "logo: https://darwix.ai/logo.png",
+        "field": null
+      },
+      {
+        "name": "Image alt text",
+        "severity": "medium",
+        "status": "pass",
+        "detail": "0 image(s) missing alt in current HTML; 0 fix(es) proposed",
+        "field": "image_alt_fixes"
+      },
+      {
+        "name": "Meta keywords tag removed",
+        "severity": "low",
+        "status": "pass",
+        "detail": "L1: obsolete meta keywords tag should be dropped in the proposed patch",
+        "field": null
+      },
+      {
+        "name": "Orphan page",
+        "severity": "critical",
+        "status": "fail",
+        "detail": "0 inbound internal link(s) found in server HTML across the crawled site",
+        "field": null
+      },
+      {
+        "name": "Server HTML has real content (not JS-only)",
+        "severity": "high",
+        "status": "pass",
+        "detail": "2148 words in server HTML",
+        "field": null
+      },
+      {
+        "name": "Not accidentally noindexed",
+        "severity": "critical",
+        "status": "pass",
+        "detail": "robots meta: index, follow",
+        "field": null
+      },
+      {
+        "name": "HTTP 200",
+        "severity": "critical",
+        "status": "pass",
+        "detail": "status: 200",
+        "field": null
+      },
+      {
+        "name": "Duplicate content < 85% similarity",
+        "severity": "medium",
+        "status": "pass",
+        "detail": "no near-duplicate found",
+        "field": null
+      },
+      {
+        "name": "SEO Content QA — facts match the brief",
+        "severity": "high",
+        "status": "pass",
+        "detail": "Fact-check skipped — no OPENAI_API_KEY set. (fact-check stub)",
+        "field": null
+      }
+    ],
+    "overall": "fail",
+    "failed_fields": [],
+    "failed_count": 1,
+    "critical_failures": 1
+  },
+  "https://darwix.ai/evidence-intelligence": {
+    "url": "https://darwix.ai/evidence-intelligence",
+    "checks": [
+      {
+        "name": "Meta title length",
+        "severity": "high",
+        "status": "pass",
+        "detail": "42 chars (limit 60): 'Document Discrepancy Detection | Darwix AI'",
+        "field": "title"
+      },
+      {
+        "name": "Meta description length",
+        "severity": "medium",
+        "status": "pass",
+        "detail": "160 chars (target 140-160): \"Darwix AI's document discrepancy detection helps BFSI teams move faster and stay compliant. Built for banks, NBFCs, insurers and wealth managers. Book a demo to\"",
+        "field": "meta_description"
+      },
+      {
+        "name": "H1 contains focus keyword",
+        "severity": "high",
+        "status": "pass",
+        "detail": "H1 'Document Discrepancy Detection' vs primary keyword 'document discrepancy detection'",
+        "field": "h1"
+      },
+      {
+        "name": "Exactly one H1 in current HTML",
+        "severity": "medium",
+        "status": "pass",
+        "detail": "Current page has 1 H1 tag(s)",
+        "field": null
+      },
+      {
+        "name": "Canonical URL proposed",
+        "severity": "high",
+        "status": "pass",
+        "detail": "canonical: 'https://darwix.ai/evidence-intelligence'",
+        "field": "canonical"
+      },
+      {
+        "name": "Schema markup valid",
+        "severity": "high",
+        "status": "pass",
+        "detail": "3 JSON-LD block(s), all with @type: True",
+        "field": "schema"
+      },
+      {
+        "name": "Organization schema has a logo URL",
+        "severity": "medium",
+        "status": "pass",
+        "detail": "logo: https://darwix.ai/logo.png",
+        "field": null
+      },
+      {
+        "name": "Image alt text",
+        "severity": "medium",
+        "status": "pass",
+        "detail": "0 image(s) missing alt in current HTML; 0 fix(es) proposed",
+        "field": "image_alt_fixes"
+      },
+      {
+        "name": "Meta keywords tag removed",
+        "severity": "low",
+        "status": "pass",
+        "detail": "L1: obsolete meta keywords tag should be dropped in the proposed patch",
+        "field": null
+      },
+      {
+        "name": "Orphan page",
+        "severity": "critical",
+        "status": "fail",
+        "detail": "0 inbound internal link(s) found in server HTML across the crawled site",
+        "field": null
+      },
+      {
+        "name": "Server HTML has real content (not JS-only)",
+        "severity": "high",
+        "status": "pass",
+        "detail": "1904 words in server HTML",
+        "field": null
+      },
+      {
+        "name": "Not accidentally noindexed",
+        "severity": "critical",
+        "status": "pass",
+        "detail": "robots meta: index, follow",
+        "field": null
+      },
+      {
+        "name": "HTTP 200",
+        "severity": "critical",
+        "status": "pass",
+        "detail": "status: 200",
+        "field": null
+      },
+      {
+        "name": "Duplicate content < 85% similarity",
+        "severity": "medium",
+        "status": "pass",
+        "detail": "no near-duplicate found",
+        "field": null
+      },
+      {
+        "name": "SEO Content QA — facts match the brief",
+        "severity": "high",
+        "status": "pass",
+        "detail": "Fact-check skipped — no OPENAI_API_KEY set. (fact-check stub)",
+        "field": null
+      }
+    ],
+    "overall": "fail",
+    "failed_fields": [],
+    "failed_count": 1,
+    "critical_failures": 1
+  },
+  "https://darwix.ai/retail-asset-evidence-intelligence": {
+    "url": "https://darwix.ai/retail-asset-evidence-intelligence",
+    "checks": [
+      {
+        "name": "Meta title length",
+        "severity": "high",
+        "status": "pass",
+        "detail": "39 chars (limit 60): 'Asset Verification For Arcs | Darwix AI'",
+        "field": "title"
+      },
+      {
+        "name": "Meta description length",
+        "severity": "medium",
+        "status": "pass",
+        "detail": "160 chars (target 140-160): \"Darwix AI's asset verification for ARCs helps BFSI teams move faster and stay compliant. Built for banks, NBFCs, insurers and wealth managers. Book a demo to se\"",
+        "field": "meta_description"
+      },
+      {
+        "name": "H1 contains focus keyword",
+        "severity": "high",
+        "status": "pass",
+        "detail": "H1 'Asset Verification For Arcs' vs primary keyword 'asset verification for arcs'",
+        "field": "h1"
+      },
+      {
+        "name": "Exactly one H1 in current HTML",
+        "severity": "medium",
+        "status": "pass",
+        "detail": "Current page has 1 H1 tag(s)",
+        "field": null
+      },
+      {
+        "name": "Canonical URL proposed",
+        "severity": "high",
+        "status": "pass",
+        "detail": "canonical: 'https://darwix.ai/retail-asset-evidence-intelligence'",
+        "field": "canonical"
+      },
+      {
+        "name": "Schema markup valid",
+        "severity": "high",
+        "status": "pass",
+        "detail": "3 JSON-LD block(s), all with @type: True",
+        "field": "schema"
+      },
+      {
+        "name": "Organization schema has a logo URL",
+        "severity": "medium",
+        "status": "pass",
+        "detail": "logo: https://darwix.ai/logo.png",
+        "field": null
+      },
+      {
+        "name": "Image alt text",
+        "severity": "medium",
+        "status": "pass",
+        "detail": "0 image(s) missing alt in current HTML; 0 fix(es) proposed",
+        "field": "image_alt_fixes"
+      },
+      {
+        "name": "Meta keywords tag removed",
+        "severity": "low",
+        "status": "pass",
+        "detail": "L1: obsolete meta keywords tag should be dropped in the proposed patch",
+        "field": null
+      },
+      {
+        "name": "Orphan page",
+        "severity": "critical",
+        "status": "fail",
+        "detail": "0 inbound internal link(s) found in server HTML across the crawled site",
+        "field": null
+      },
+      {
+        "name": "Server HTML has real content (not JS-only)",
+        "severity": "high",
+        "status": "pass",
+        "detail": "2193 words in server HTML",
+        "field": null
+      },
+      {
+        "name": "Not accidentally noindexed",
+        "severity": "critical",
+        "status": "pass",
+        "detail": "robots meta: index, follow",
+        "field": null
+      },
+      {
+        "name": "HTTP 200",
+        "severity": "critical",
+        "status": "pass",
+        "detail": "status: 200",
+        "field": null
+      },
+      {
+        "name": "Duplicate content < 85% similarity",
+        "severity": "medium",
+        "status": "pass",
+        "detail": "no near-duplicate found",
+        "field": null
+      },
+      {
+        "name": "SEO Content QA — facts match the brief",
+        "severity": "high",
+        "status": "pass",
+        "detail": "Fact-check skipped — no OPENAI_API_KEY set. (fact-check stub)",
+        "field": null
+      }
+    ],
+    "overall": "fail",
+    "failed_fields": [],
+    "failed_count": 1,
+    "critical_failures": 1
+  },
+  "https://darwix.ai/pre-meet-intelligence": {
+    "url": "https://darwix.ai/pre-meet-intelligence",
+    "checks": [
+      {
+        "name": "Meta title length",
+        "severity": "high",
+        "status": "pass",
+        "detail": "45 chars (limit 60): 'Client Briefs For Wealth Managers | Darwix AI'",
+        "field": "title"
+      },
+      {
+        "name": "Meta description length",
+        "severity": "medium",
+        "status": "pass",
+        "detail": "160 chars (target 140-160): \"Darwix AI's client briefs for wealth managers helps BFSI teams move faster and stay compliant. Built for banks, NBFCs, insurers and wealth managers. Book a demo\"",
+        "field": "meta_description"
+      },
+      {
+        "name": "H1 contains focus keyword",
+        "severity": "high",
+        "status": "pass",
+        "detail": "H1 'Client Briefs For Wealth Managers' vs primary keyword 'client briefs for wealth managers'",
+        "field": "h1"
+      },
+      {
+        "name": "Exactly one H1 in current HTML",
+        "severity": "medium",
+        "status": "pass",
+        "detail": "Current page has 1 H1 tag(s)",
+        "field": null
+      },
+      {
+        "name": "Canonical URL proposed",
+        "severity": "high",
+        "status": "pass",
+        "detail": "canonical: 'https://darwix.ai/pre-meet-intelligence'",
+        "field": "canonical"
+      },
+      {
+        "name": "Schema markup valid",
+        "severity": "high",
+        "status": "pass",
+        "detail": "3 JSON-LD block(s), all with @type: True",
+        "field": "schema"
+      },
+      {
+        "name": "Organization schema has a logo URL",
+        "severity": "medium",
+        "status": "pass",
+        "detail": "logo: https://darwix.ai/logo.png",
+        "field": null
+      },
+      {
+        "name": "Image alt text",
+        "severity": "medium",
+        "status": "pass",
+        "detail": "0 image(s) missing alt in current HTML; 0 fix(es) proposed",
+        "field": "image_alt_fixes"
+      },
+      {
+        "name": "Meta keywords tag removed",
+        "severity": "low",
+        "status": "pass",
+        "detail": "L1: obsolete meta keywords tag should be dropped in the proposed patch",
+        "field": null
+      },
+      {
+        "name": "Orphan page",
+        "severity": "critical",
+        "status": "fail",
+        "detail": "0 inbound internal link(s) found in server HTML across the crawled site",
+        "field": null
+      },
+      {
+        "name": "Server HTML has real content (not JS-only)",
+        "severity": "high",
+        "status": "pass",
+        "detail": "2235 words in server HTML",
+        "field": null
+      },
+      {
+        "name": "Not accidentally noindexed",
+        "severity": "critical",
+        "status": "pass",
+        "detail": "robots meta: index, follow",
+        "field": null
+      },
+      {
+        "name": "HTTP 200",
+        "severity": "critical",
+        "status": "pass",
+        "detail": "status: 200",
+        "field": null
+      },
+      {
+        "name": "Duplicate content < 85% similarity",
+        "severity": "medium",
+        "status": "pass",
+        "detail": "no near-duplicate found",
+        "field": null
+      },
+      {
+        "name": "SEO Content QA — facts match the brief",
+        "severity": "high",
+        "status": "pass",
+        "detail": "Fact-check skipped — no OPENAI_API_KEY set. (fact-check stub)",
+        "field": null
+      }
+    ],
+    "overall": "fail",
+    "failed_fields": [],
+    "failed_count": 1,
+    "critical_failures": 1
+  },
+  "https://darwix.ai/alert-intelligence": {
+    "url": "https://darwix.ai/alert-intelligence",
+    "checks": [
+      {
+        "name": "Meta title length",
+        "severity": "high",
+        "status": "pass",
+        "detail": "35 chars (limit 60): 'Proactive Client Alerts | Darwix AI'",
+        "field": "title"
+      },
+      {
+        "name": "Meta description length",
+        "severity": "medium",
+        "status": "pass",
+        "detail": "160 chars (target 140-160): \"Darwix AI's proactive client alerts helps BFSI teams move faster and stay compliant. Built for banks, NBFCs, insurers and wealth managers. Book a demo to see it\"",
+        "field": "meta_description"
+      },
+      {
+        "name": "H1 contains focus keyword",
+        "severity": "high",
+        "status": "pass",
+        "detail": "H1 'Proactive Client Alerts' vs primary keyword 'proactive client alerts'",
+        "field": "h1"
+      },
+      {
+        "name": "Exactly one H1 in current HTML",
+        "severity": "medium",
+        "status": "pass",
+        "detail": "Current page has 1 H1 tag(s)",
+        "field": null
+      },
+      {
+        "name": "Canonical URL proposed",
+        "severity": "high",
+        "status": "pass",
+        "detail": "canonical: 'https://darwix.ai/alert-intelligence'",
+        "field": "canonical"
+      },
+      {
+        "name": "Schema markup valid",
+        "severity": "high",
+        "status": "pass",
+        "detail": "3 JSON-LD block(s), all with @type: True",
+        "field": "schema"
+      },
+      {
+        "name": "Organization schema has a logo URL",
+        "severity": "medium",
+        "status": "pass",
+        "detail": "logo: https://darwix.ai/logo.png",
+        "field": null
+      },
+      {
+        "name": "Image alt text",
+        "severity": "medium",
+        "status": "pass",
+        "detail": "0 image(s) missing alt in current HTML; 0 fix(es) proposed",
+        "field": "image_alt_fixes"
+      },
+      {
+        "name": "Meta keywords tag removed",
+        "severity": "low",
+        "status": "pass",
+        "detail": "L1: obsolete meta keywords tag should be dropped in the proposed patch",
+        "field": null
+      },
+      {
+        "name": "Orphan page",
+        "severity": "critical",
+        "status": "fail",
+        "detail": "0 inbound internal link(s) found in server HTML across the crawled site",
+        "field": null
+      },
+      {
+        "name": "Server HTML has real content (not JS-only)",
+        "severity": "high",
+        "status": "pass",
+        "detail": "2534 words in server HTML",
+        "field": null
+      },
+      {
+        "name": "Not accidentally noindexed",
+        "severity": "critical",
+        "status": "pass",
+        "detail": "robots meta: index, follow",
+        "field": null
+      },
+      {
+        "name": "HTTP 200",
+        "severity": "critical",
+        "status": "pass",
+        "detail": "status: 200",
+        "field": null
+      },
+      {
+        "name": "Duplicate content < 85% similarity",
+        "severity": "medium",
+        "status": "pass",
+        "detail": "no near-duplicate found",
+        "field": null
+      },
+      {
+        "name": "SEO Content QA — facts match the brief",
+        "severity": "high",
+        "status": "pass",
+        "detail": "Fact-check skipped — no OPENAI_API_KEY set. (fact-check stub)",
+        "field": null
+      }
+    ],
+    "overall": "fail",
+    "failed_fields": [],
+    "failed_count": 1,
+    "critical_failures": 1
+  },
+  "https://darwix.ai/landingsherpa": {
+    "url": "https://darwix.ai/landingsherpa",
+    "checks": [
+      {
+        "name": "Meta title length",
+        "severity": "high",
+        "status": "pass",
+        "detail": "36 chars (limit 60): 'Sherpa Setup And Support | Darwix AI'",
+        "field": "title"
+      },
+      {
+        "name": "Meta description length",
+        "severity": "medium",
+        "status": "pass",
+        "detail": "160 chars (target 140-160): \"Darwix AI's sherpa setup and support helps BFSI teams move faster and stay compliant. Built for banks, NBFCs, insurers and wealth managers. Book a demo to see i\"",
+        "field": "meta_description"
+      },
+      {
+        "name": "H1 contains focus keyword",
+        "severity": "high",
+        "status": "pass",
+        "detail": "H1 'Sherpa Setup And Support' vs primary keyword 'sherpa setup and support'",
+        "field": "h1"
+      },
+      {
+        "name": "Exactly one H1 in current HTML",
+        "severity": "medium",
+        "status": "pass",
+        "detail": "Current page has 1 H1 tag(s)",
+        "field": null
+      },
+      {
+        "name": "Canonical URL proposed",
+        "severity": "high",
+        "status": "pass",
+        "detail": "canonical: 'https://darwix.ai/landingsherpa'",
+        "field": "canonical"
+      },
+      {
+        "name": "Schema markup valid",
+        "severity": "high",
+        "status": "pass",
+        "detail": "2 JSON-LD block(s), all with @type: True",
+        "field": "schema"
+      },
+      {
+        "name": "Organization schema has a logo URL",
+        "severity": "medium",
+        "status": "pass",
+        "detail": "logo: https://darwix.ai/logo.png",
+        "field": null
+      },
+      {
+        "name": "Image alt text",
+        "severity": "medium",
+        "status": "pass",
+        "detail": "0 image(s) missing alt in current HTML; 0 fix(es) proposed",
+        "field": "image_alt_fixes"
+      },
+      {
+        "name": "Meta keywords tag removed",
+        "severity": "low",
+        "status": "pass",
+        "detail": "L1: obsolete meta keywords tag should be dropped in the proposed patch",
+        "field": null
+      },
+      {
+        "name": "Orphan page",
+        "severity": "critical",
+        "status": "fail",
+        "detail": "0 inbound internal link(s) found in server HTML across the crawled site",
+        "field": null
+      },
+      {
+        "name": "Server HTML has real content (not JS-only)",
+        "severity": "high",
+        "status": "pass",
+        "detail": "1000 words in server HTML",
+        "field": null
+      },
+      {
+        "name": "Not accidentally noindexed",
+        "severity": "critical",
+        "status": "pass",
+        "detail": "robots meta: index, follow",
+        "field": null
+      },
+      {
+        "name": "HTTP 200",
+        "severity": "critical",
+        "status": "pass",
+        "detail": "status: 200",
+        "field": null
+      },
+      {
+        "name": "Duplicate content < 85% similarity",
+        "severity": "medium",
+        "status": "pass",
+        "detail": "no near-duplicate found",
+        "field": null
+      },
+      {
+        "name": "SEO Content QA — facts match the brief",
+        "severity": "high",
+        "status": "pass",
+        "detail": "Fact-check skipped — no OPENAI_API_KEY set. (fact-check stub)",
+        "field": null
+      }
+    ],
+    "overall": "fail",
+    "failed_fields": [],
+    "failed_count": 1,
+    "critical_failures": 1
+  }
+}
