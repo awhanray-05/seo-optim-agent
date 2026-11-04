@@ -135,23 +135,48 @@ def run() -> dict:
     github_result = None
     if github_publisher.is_configured():
         branch = f"seo-automation/{today}"
-        diff_files_today = [e["diff_file"] for e in publish_log.values() if e.get("published_at") == today]
-        files = {name: (PACKAGE_DIR / name).read_text(encoding="utf-8")
-                 for name in [*diff_files_today, "sitemap.xml", "redirect_map.json"]}
-        github_result = github_publisher.publish_package(
-            branch, files,
-            pr_title=f"SEO automation: {staged} page(s) staged, {len(redirects)} redirect(s) — {today}",
-            pr_body=(f"Automated run of the SEO pipeline staged {staged} approved page(s) and "
-                     f"proposed {len(redirects)} redirect rule(s). Files under "
-                     f"`{config.GITHUB_CONTENT_PREFIX}/` are the exact field-level diffs — review "
-                     f"before merging; nothing here has touched the live branch."),
+
+        # Build page_diffs from approved publish_package JSON files
+        page_diffs: list[dict] = []
+        diff_files_today = [e["diff_file"] for e in publish_log.values()
+                            if e.get("published_at") == today]
+        for fname in diff_files_today:
+            fpath = PACKAGE_DIR / fname
+            if fpath.exists():
+                try:
+                    page_diffs.append(json.loads(fpath.read_text(encoding="utf-8")))
+                except Exception:
+                    pass
+
+        # Collect schema blocks from page_db.proposed.schema
+        schemas_by_url: dict[str, list[dict]] = {}
+        for url, rec in page_db.items():
+            proposed_schemas = rec.get("proposed", {}).get("schema", [])
+            if proposed_schemas and url in approved:
+                schemas_by_url[url] = proposed_schemas
+
+        # Call the REAL source-file publisher
+        github_result = github_publisher.publish_seo_changes(
+            branch=branch,
+            page_diffs=page_diffs,
+            redirect_map=redirects,
+            schemas_by_url=schemas_by_url if schemas_by_url else None,
         )
+
         if github_result.get("ok"):
-            stores.append_audit("publish.agent",
-                                 f"Opened/updated GitHub PR #{github_result.get('pr_number')} on "
-                                 f"{config.GITHUB_REPO}", github_result.get("pr_url") or branch)
+            n_files = len(github_result.get("files_pushed", []))
+            stores.append_audit(
+                "publish.agent",
+                f"Opened/updated GitHub PR #{github_result.get('pr_number')} on "
+                f"{config.GITHUB_REPO} — {n_files} source file(s) edited",
+                github_result.get("pr_url") or branch,
+            )
         else:
-            stores.append_audit("publish.agent", f"GitHub publish failed: {github_result.get('error')}", branch)
+            stores.append_audit(
+                "publish.agent",
+                f"GitHub publish failed: {github_result.get('error')}",
+                branch,
+            )
 
     gsc_result = google_services.submit_sitemap() if google_services.gsc_is_configured() else None
 
