@@ -3,7 +3,7 @@
     "s": "High",
     "c": "#D93A3A",
     "t": "11 page(s) have zero inbound internal links in server HTML",
-    "p": "https://darwix.ai/idn/privacy-policy, https://darwix.ai/idn/terms-and-conditions, https://darwix.ai/pivc + 8 more",
+    "p": "https://testing.darwix.ai/idn/privacy-policy, https://testing.darwix.ai/idn/terms-and-conditions, https://testing.darwix.ai/pivc + 8 more",
     "o": "Technical SEO QA",
     "term": "Orphan Pages"
   },
@@ -11,7 +11,7 @@
     "s": "High",
     "c": "#D93A3A",
     "t": "21 page(s) have no server-rendered schema markup",
-    "p": "https://darwix.ai, https://darwix.ai/about, https://darwix.ai/compliance + 18 more",
+    "p": "https://testing.darwix.ai, https://testing.darwix.ai/about, https://testing.darwix.ai/compliance + 18 more",
     "o": "Page Generation",
     "term": "Schema Markup"
   },
@@ -27,7 +27,7 @@
     "s": "Medium",
     "c": "#E87E22",
     "t": "3 page(s) have titles/descriptions overlapping another page by 85%+",
-    "p": "https://darwix.ai, https://darwix.ai/idn/privacy-policy, https://darwix.ai/idn/terms-and-conditions",
+    "p": "https://testing.darwix.ai, https://testing.darwix.ai/idn/privacy-policy, https://testing.darwix.ai/idn/terms-and-conditions",
     "o": "Technical SEO QA",
     "term": "Duplicate Content"
   },
@@ -59,7 +59,7 @@
     "s": "Low",
     "c": "#949395",
     "t": "11 page(s) still carry the obsolete meta-keywords tag",
-    "p": "https://darwix.ai, https://darwix.ai/about, https://darwix.ai/compliance",
+    "p": "https://testing.darwix.ai, https://testing.darwix.ai/about, https://testing.darwix.ai/compliance",
     "o": "Page Generation",
     "term": "Meta keywords"
   }

@@ -77,24 +77,28 @@ def _stub_copy(primary_kw: str, link_candidates: list[str]) -> dict:
 def _normalize_slug(url: str) -> str:
     """M2 fix: lowercase, hyphenated URL — the audit flags /voiceAgent as the
     camelCase outlier. This doesn't rename the live page; it's the canonical
-    Agent 4 will propose a redirect map for."""
+    Agent 4 will propose a redirect map for. Targets canonical PROD_SITE_ROOT."""
     p = urlparse(url)
     path = p.path
     if path in ("", "/"):
-        return f"{p.scheme}://{p.netloc}/"
+        return f"{config.PROD_SITE_ROOT}/"
     slug = re.sub(r"(?<!^)(?=[A-Z])", "-", path).lower()
     slug = re.sub(r"-+", "-", slug)
-    return f"{p.scheme}://{p.netloc}{slug}"
+    return f"{config.PROD_SITE_ROOT}{slug}"
 
 
 def _page_type(url: str) -> str:
-    if url.rstrip("/") == "https://darwix.ai":
+    path = urlparse(url).path.rstrip("/")
+    if not path:
         return "home"
     if url in RELATED_SOLUTIONS or url in PARENT_PRODUCT:
         return "solution"
-    if any(seg in url for seg in ("/sherpa", "/voiceAgent", "/nonvoice-agent", "/nova")):
+    for sol in RELATED_SOLUTIONS:
+        if urlparse(sol).path.rstrip("/") == path:
+            return "solution"
+    if any(seg in path for seg in ("/sherpa", "/voiceAgent", "/nonvoice-agent", "/nova")):
         return "product"
-    if "/about" in url:
+    if "/about" in path:
         return "about"
     return "other"
 

@@ -137,13 +137,14 @@ def qa_page(url: str, rec: dict, inbound_count: int, all_texts: dict[str, set[st
 
     my_words = all_texts.get(url, set())
     dup_of = None
-    for other_url, words in all_texts.items():
-        if other_url == url:
-            continue
-        sim = _jaccard(my_words, words)
-        if sim >= DUPLICATE_THRESHOLD:
-            dup_of = (other_url, round(sim, 2))
-            break
+    if len(my_words) >= 6:
+        for other_url, words in all_texts.items():
+            if other_url == url or len(words) < 6:
+                continue
+            sim = _jaccard(my_words, words)
+            if sim >= DUPLICATE_THRESHOLD:
+                dup_of = (other_url, round(sim, 2))
+                break
     checks.append(_check("Duplicate content < 85% similarity", "medium", dup_of is None,
                           f"{dup_of[1]*100:.0f}% word overlap with {dup_of[0]}" if dup_of else "no near-duplicate found"))
 

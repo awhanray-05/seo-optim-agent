@@ -19,11 +19,15 @@ DATA_DIR = ROOT / "data"
 DASHBOARD_DIR = ROOT / "dashboard"
 DOCS_DIR = ROOT / "docs"
 
-SITE_ROOT = "https://darwix.ai"
-SITEMAP_URL = f"{SITE_ROOT}/sitemap.xml"
-ROBOTS_URL = f"{SITE_ROOT}/robots.txt"
+# Production website domain (used for canonical tags, schema, and live submission)
+PROD_SITE_ROOT = "https://darwix.ai"
 
-USER_AGENT = "DarwixSEOAutomationBot/1.0 (+https://darwix.ai; SEO audit pipeline)"
+# Crawl target — can be overridden in .env (e.g. SITE_ROOT=https://testing.darwix.ai)
+SITE_ROOT = (os.environ.get("SITE_ROOT") or PROD_SITE_ROOT).strip().rstrip("/")
+SITEMAP_URL = (os.environ.get("SITEMAP_URL") or f"{SITE_ROOT}/sitemap.xml").strip()
+ROBOTS_URL = (os.environ.get("ROBOTS_URL") or f"{SITE_ROOT}/robots.txt").strip()
+
+USER_AGENT = f"DarwixSEOAutomationBot/1.0 (+{SITE_ROOT}; SEO audit pipeline)"
 REQUEST_TIMEOUT = 20
 
 # The single contact address the audit (M4) says the site should standardise
@@ -72,25 +76,25 @@ AGENTS = [
 AGENT_BY_ID = {a["id"]: a for a in AGENTS}
 
 # OpenAI model to use for every LLM-backed step in the pipeline. Override
-# with OPENAI_MODEL in .env (e.g. "gpt-5.1-mini" for a cheaper/faster run).
-LLM_MODEL = os.environ.get("OPENAI_MODEL", "gpt-5.1")
+# with OPENAI_MODEL in .env (e.g. "gpt-4o-mini" for a cheaper/faster run, or "gpt-4o").
+LLM_MODEL = os.environ.get("OPENAI_MODEL", "gpt-4o-mini").strip() or "gpt-4o-mini"
 
-OPENAI_API_KEY = os.environ.get("OPENAI_API_KEY")
+OPENAI_API_KEY = (os.environ.get("OPENAI_API_KEY") or "").strip() or None
 
 # Groq — a free-tier fallback LLM provider for testing when no OpenAI key
 # is configured. Used only if OPENAI_API_KEY is unset; see pipeline/llm.py.
 # Get a free key at https://console.groq.com/keys (no credit card required).
-GROQ_API_KEY = os.environ.get("GROQ_API_KEY")
-GROQ_MODEL = os.environ.get("GROQ_MODEL", "openai/gpt-oss-120b")
+GROQ_API_KEY = (os.environ.get("GROQ_API_KEY") or "").strip() or None
+GROQ_MODEL = (os.environ.get("GROQ_MODEL", "openai/gpt-oss-120b") or "").strip()
 
 # GitHub CMS publishing (Agent 4) — pushes the staged publish package as a
 # PR instead of just writing it to data/publish_package/. See
 # pipeline/github_publisher.py. Unset -> agent4 stays in local-staging-only
 # mode, same as before this was wired up.
-GITHUB_TOKEN = os.environ.get("GITHUB_TOKEN")
-GITHUB_REPO = os.environ.get("GITHUB_REPO")  # "owner/repo"
-GITHUB_DEFAULT_BRANCH = os.environ.get("GITHUB_DEFAULT_BRANCH", "main")
-GITHUB_CONTENT_PREFIX = os.environ.get("GITHUB_CONTENT_PREFIX", "seo-automation/publish_package")
+GITHUB_TOKEN = (os.environ.get("GITHUB_TOKEN") or "").strip() or None
+GITHUB_REPO = (os.environ.get("GITHUB_REPO") or "").strip() or None  # "owner/repo"
+GITHUB_DEFAULT_BRANCH = (os.environ.get("GITHUB_DEFAULT_BRANCH", "main") or "").strip()
+GITHUB_CONTENT_PREFIX = (os.environ.get("GITHUB_CONTENT_PREFIX", "seo-automation/publish_package") or "").strip()
 
 # Google services (dashboard's Search Console / PageSpeed / CrUX / GA4
 # panels + real sitemap submission). See pipeline/google_services.py. Any

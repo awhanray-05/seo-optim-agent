@@ -1,12 +1,97 @@
 [
   {
-    "from": "https://darwix.ai/voiceAgent",
+    "from": "https://testing.darwix.ai",
+    "to": "https://darwix.ai/",
+    "type": 301
+  },
+  {
+    "from": "https://testing.darwix.ai/about",
+    "to": "https://darwix.ai/about",
+    "type": 301
+  },
+  {
+    "from": "https://testing.darwix.ai/compliance",
+    "to": "https://darwix.ai/compliance",
+    "type": 301
+  },
+  {
+    "from": "https://testing.darwix.ai/nova",
+    "to": "https://darwix.ai/nova",
+    "type": 301
+  },
+  {
+    "from": "https://testing.darwix.ai/sherpa",
+    "to": "https://darwix.ai/sherpa",
+    "type": 301
+  },
+  {
+    "from": "https://testing.darwix.ai/voiceAgent",
     "to": "https://darwix.ai/voice-agent",
     "type": 301
   },
   {
-    "from": "https://darwix.ai/voiceAgent/library",
+    "from": "https://testing.darwix.ai/voiceAgent/library",
     "to": "https://darwix.ai/voice-agent/library",
+    "type": 301
+  },
+  {
+    "from": "https://testing.darwix.ai/nonvoice-agent",
+    "to": "https://darwix.ai/nonvoice-agent",
+    "type": 301
+  },
+  {
+    "from": "https://testing.darwix.ai/privacy-policy",
+    "to": "https://darwix.ai/privacy-policy",
+    "type": 301
+  },
+  {
+    "from": "https://testing.darwix.ai/terms-and-conditions",
+    "to": "https://darwix.ai/terms-and-conditions",
+    "type": 301
+  },
+  {
+    "from": "https://testing.darwix.ai/pivc",
+    "to": "https://darwix.ai/pivc",
+    "type": 301
+  },
+  {
+    "from": "https://testing.darwix.ai/telemedi-assist",
+    "to": "https://darwix.ai/telemedi-assist",
+    "type": 301
+  },
+  {
+    "from": "https://testing.darwix.ai/life-insurance-proposal-automation",
+    "to": "https://darwix.ai/life-insurance-proposal-automation",
+    "type": 301
+  },
+  {
+    "from": "https://testing.darwix.ai/auto-pd",
+    "to": "https://darwix.ai/auto-pd",
+    "type": 301
+  },
+  {
+    "from": "https://testing.darwix.ai/evidence-intelligence",
+    "to": "https://darwix.ai/evidence-intelligence",
+    "type": 301
+  },
+  {
+    "from": "https://testing.darwix.ai/retail-asset-evidence-intelligence",
+    "to": "https://darwix.ai/retail-asset-evidence-intelligence",
+    "type": 301
+  },
+  {
+    "from": "https://testing.darwix.ai/pre-meet-intelligence",
+    "to": "https://darwix.ai/pre-meet-intelligence",
+    "type": 301
+  },
+  {
+    "from": "https://testing.darwix.ai/alert-intelligence",
+    "to": "https://darwix.ai/alert-intelligence",
+    "type": 301
+  },
+  {
+    "from": "https://testing.darwix.ai/landingsherpa",
+    "to": "https://darwix.ai/landingsherpa",
     "type": 301
   }
 ]

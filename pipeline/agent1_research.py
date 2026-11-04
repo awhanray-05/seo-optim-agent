@@ -13,6 +13,8 @@ didn't already cover.
 """
 from __future__ import annotations
 
+from urllib.parse import urlparse
+
 from . import config, llm, stores
 from .crawler import PageSnapshot
 
@@ -177,7 +179,17 @@ def _stub_brief(url: str, theme: dict) -> dict:
     }
 
 
+def _norm_prod_url(url: str) -> str:
+    """Normalize url to https://darwix.ai/<path> for looking up audit taxonomy/themes."""
+    p = urlparse(url)
+    path = p.path.rstrip("/")
+    return f"{config.PROD_SITE_ROOT}{path}" if path else config.PROD_SITE_ROOT
+
+
 def _theme_for(url: str, snap: PageSnapshot) -> dict:
+    norm = _norm_prod_url(url)
+    if norm in KNOWN_THEMES:
+        return KNOWN_THEMES[norm]
     if url in KNOWN_THEMES:
         return KNOWN_THEMES[url]
     # Unknown page (new product/solution not in the audit): derive a rough
@@ -192,7 +204,9 @@ def build_brief(url: str, snap: PageSnapshot, theme: dict) -> tuple[dict, bool]:
         "Darwix AI is a BFSI (banking, financial services, insurance) agentic AI platform. "
         "Write a content brief for one page that a Page Generation agent will turn into copy. "
         "Keep the primary keyword as given — do not change it. Ground everything in BFSI use "
-        "cases (lenders, insurers, wealth managers, banks, NBFCs). Be concrete, not generic."
+        "cases (lenders, insurers, wealth managers, banks, NBFCs). Be concrete, not generic. "
+        "Keep the brief concise: outline_h2s must be short section titles, key_points should be short bullet points, "
+        "and notes_for_generation must be under 150 words."
     )
     user = (
         f"URL: {url}\n"
@@ -222,10 +236,23 @@ def run(snapshots: dict[str, PageSnapshot]) -> dict:
     stores.init_entity_list()
     keyword_map = stores.load("keyword_map", {})
     sitemap_tree = stores.load("sitemap_tree", {})
+
+    # Prune page_db and qa_reports to only current crawl targets (or same netloc)
+    # to avoid mixing staging and production domains in duplicate checks.
+    current_netlocs = {urlparse(u).netloc for u in snapshots} if snapshots else {urlparse(config.SITE_ROOT).netloc}
+    raw_db = stores.load("page_db", {})
+    page_db = {u: r for u, r in raw_db.items() if urlparse(u).netloc in current_netlocs}
+    stores.save("page_db", page_db)
+
+    raw_qa = stores.load("qa_reports", {})
+    qa_reports = {u: r for u, r in raw_qa.items() if urlparse(u).netloc in current_netlocs}
+    stores.save("qa_reports", qa_reports)
+
     live_count = 0
     briefs_written = 0
 
     for url, snap in snapshots.items():
+        norm = _norm_prod_url(url)
         theme = _theme_for(url, snap)
         brief, was_live = build_brief(url, snap, theme)
         live_count += int(was_live)
@@ -236,9 +263,9 @@ def run(snapshots: dict[str, PageSnapshot]) -> dict:
             "secondary": theme.get("secondary", []),
         }
         sitemap_tree[url] = {
-            "parent": NAV_STRUCTURE.get(url, "Unclassified — orphaned from nav" if url not in NAV_STRUCTURE else "Unknown"),
-            "related_solutions": RELATED_SOLUTIONS.get(url, []),
-            "parent_product": PARENT_PRODUCT.get(url),
+            "parent": NAV_STRUCTURE.get(norm, NAV_STRUCTURE.get(url, "Unclassified — orphaned from nav" if url not in NAV_STRUCTURE else "Unknown")),
+            "related_solutions": RELATED_SOLUTIONS.get(norm, RELATED_SOLUTIONS.get(url, [])),
+            "parent_product": PARENT_PRODUCT.get(norm, PARENT_PRODUCT.get(url)),
         }
 
         stores.update_page(url, {

@@ -125,5 +125,132 @@
     "parent": "Unclassified — orphaned from nav",
     "related_solutions": [],
     "parent_product": null
+  },
+  "https://testing.darwix.ai": {
+    "parent": "Home",
+    "related_solutions": [],
+    "parent_product": null
+  },
+  "https://testing.darwix.ai/about": {
+    "parent": "About",
+    "related_solutions": [],
+    "parent_product": null
+  },
+  "https://testing.darwix.ai/compliance": {
+    "parent": "Compliance",
+    "related_solutions": [],
+    "parent_product": null
+  },
+  "https://testing.darwix.ai/nova": {
+    "parent": "Products",
+    "related_solutions": [],
+    "parent_product": null
+  },
+  "https://testing.darwix.ai/sherpa": {
+    "parent": "Products",
+    "related_solutions": [],
+    "parent_product": null
+  },
+  "https://testing.darwix.ai/voiceAgent": {
+    "parent": "Products",
+    "related_solutions": [],
+    "parent_product": null
+  },
+  "https://testing.darwix.ai/voiceAgent/library": {
+    "parent": "Products / Voice Automation",
+    "related_solutions": [],
+    "parent_product": null
+  },
+  "https://testing.darwix.ai/nonvoice-agent": {
+    "parent": "Products",
+    "related_solutions": [],
+    "parent_product": null
+  },
+  "https://testing.darwix.ai/privacy-policy": {
+    "parent": "Legal",
+    "related_solutions": [],
+    "parent_product": null
+  },
+  "https://testing.darwix.ai/terms-and-conditions": {
+    "parent": "Legal",
+    "related_solutions": [],
+    "parent_product": null
+  },
+  "https://testing.darwix.ai/idn/privacy-policy": {
+    "parent": "Unclassified — orphaned from nav",
+    "related_solutions": [],
+    "parent_product": null
+  },
+  "https://testing.darwix.ai/idn/terms-and-conditions": {
+    "parent": "Unclassified — orphaned from nav",
+    "related_solutions": [],
+    "parent_product": null
+  },
+  "https://testing.darwix.ai/pivc": {
+    "parent": "Solutions / Insurance",
+    "related_solutions": [
+      "https://darwix.ai/telemedi-assist",
+      "https://darwix.ai/life-insurance-proposal-automation"
+    ],
+    "parent_product": "https://darwix.ai/voiceAgent"
+  },
+  "https://testing.darwix.ai/telemedi-assist": {
+    "parent": "Solutions / Insurance",
+    "related_solutions": [
+      "https://darwix.ai/pivc",
+      "https://darwix.ai/life-insurance-proposal-automation"
+    ],
+    "parent_product": "https://darwix.ai/voiceAgent"
+  },
+  "https://testing.darwix.ai/life-insurance-proposal-automation": {
+    "parent": "Solutions / Insurance",
+    "related_solutions": [
+      "https://darwix.ai/pivc",
+      "https://darwix.ai/telemedi-assist"
+    ],
+    "parent_product": "https://darwix.ai/voiceAgent"
+  },
+  "https://testing.darwix.ai/auto-pd": {
+    "parent": "Solutions / Lending",
+    "related_solutions": [
+      "https://darwix.ai/evidence-intelligence",
+      "https://darwix.ai/retail-asset-evidence-intelligence"
+    ],
+    "parent_product": "https://darwix.ai/nonvoice-agent"
+  },
+  "https://testing.darwix.ai/evidence-intelligence": {
+    "parent": "Solutions / Lending",
+    "related_solutions": [
+      "https://darwix.ai/auto-pd",
+      "https://darwix.ai/retail-asset-evidence-intelligence"
+    ],
+    "parent_product": "https://darwix.ai/nonvoice-agent"
+  },
+  "https://testing.darwix.ai/retail-asset-evidence-intelligence": {
+    "parent": "Solutions / Lending",
+    "related_solutions": [
+      "https://darwix.ai/auto-pd",
+      "https://darwix.ai/evidence-intelligence"
+    ],
+    "parent_product": "https://darwix.ai/nonvoice-agent"
+  },
+  "https://testing.darwix.ai/pre-meet-intelligence": {
+    "parent": "Solutions / Wealth management",
+    "related_solutions": [
+      "https://darwix.ai/alert-intelligence"
+    ],
+    "parent_product": "https://darwix.ai/nonvoice-agent"
+  },
+  "https://testing.darwix.ai/alert-intelligence": {
+    "parent": "Solutions / Wealth management",
+    "related_solutions": [
+      "https://darwix.ai/pre-meet-intelligence"
+    ],
+    "parent_product": "https://darwix.ai/nonvoice-agent"
+  },
+  "https://testing.darwix.ai/landingsherpa": {
+    "parent": "Unclassified — orphaned from nav",
+    "related_solutions": [],
+    "parent_product": null
   }
 }

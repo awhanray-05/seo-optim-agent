@@ -1,26 +1,26 @@
 {
-  "https://darwix.ai": {
-    "url": "https://darwix.ai",
+  "https://testing.darwix.ai": {
+    "url": "https://testing.darwix.ai",
     "checks": [
       {
         "name": "Meta title length",
         "severity": "high",
         "status": "pass",
-        "detail": "32 chars (limit 60): 'Ai Platform For Bfsi | Darwix AI'",
+        "detail": "56 chars (limit 60): 'AI Platform for BFSI: Revolutionizing Financial Services'",
         "field": "title"
       },
       {
         "name": "Meta description length",
         "severity": "medium",
         "status": "pass",
-        "detail": "160 chars (target 140-160): \"Darwix AI's AI platform for BFSI helps BFSI teams move faster and stay compliant. Built for banks, NBFCs, insurers and wealth managers. Book a demo to see it li\"",
+        "detail": "136 chars (target 140-160): 'Discover how an AI platform for BFSI enhances efficiency, customer experiences, and more in the banking and financial services industry.'",
         "field": "meta_description"
       },
       {
         "name": "H1 contains focus keyword",
         "severity": "high",
         "status": "pass",
-        "detail": "H1 'Ai Platform For Bfsi' vs primary keyword 'ai platform for bfsi'",
+        "detail": "H1 'Understanding the AI Platform for BFSI' vs primary keyword 'ai platform for bfsi'",
         "field": "h1"
       },
       {
@@ -97,14 +97,14 @@
         "name": "Duplicate content < 85% similarity",
         "severity": "medium",
         "status": "fail",
-        "detail": "100% word overlap with https://darwix.ai/idn/privacy-policy",
+        "detail": "100% word overlap with https://testing.darwix.ai/idn/privacy-policy",
         "field": null
       },
       {
         "name": "SEO Content QA — facts match the brief",
         "severity": "high",
         "status": "pass",
-        "detail": "Fact-check skipped — no OPENAI_API_KEY set. (fact-check stub)",
+        "detail": "",
         "field": null
       }
     ],
@@ -113,28 +113,28 @@
     "failed_count": 1,
     "critical_failures": 0
   },
-  "https://darwix.ai/about": {
-    "url": "https://darwix.ai/about",
+  "https://testing.darwix.ai/about": {
+    "url": "https://testing.darwix.ai/about",
     "checks": [
       {
         "name": "Meta title length",
         "severity": "high",
         "status": "pass",
-        "detail": "27 chars (limit 60): 'About Darwix Ai | Darwix AI'",
+        "detail": "47 chars (limit 60): 'About Darwix AI - Innovative Solutions for BFSI'",
         "field": "title"
       },
       {
         "name": "Meta description length",
         "severity": "medium",
         "status": "pass",
-        "detail": "158 chars (target 140-160): \"Darwix AI's about Darwix AI helps BFSI teams move faster and stay compliant. Built for banks, NBFCs, insurers and wealth managers. Book a demo to see it live.\"",
+        "detail": "131 chars (target 140-160): \"Discover Darwix AI's mission to empower the BFSI sector with innovative solutions and expert leadership for streamlined operations.\"",
         "field": "meta_description"
       },
       {
         "name": "H1 contains focus keyword",
         "severity": "high",
         "status": "pass",
-        "detail": "H1 'About Darwix Ai' vs primary keyword 'about darwix ai'",
+        "detail": "H1 'About Darwix AI' vs primary keyword 'about darwix ai'",
         "field": "h1"
       },
       {
@@ -218,7 +218,7 @@
         "name": "SEO Content QA — facts match the brief",
         "severity": "high",
         "status": "pass",
-        "detail": "Fact-check skipped — no OPENAI_API_KEY set. (fact-check stub)",
+        "detail": "",
         "field": null
       }
     ],
@@ -227,28 +227,28 @@
     "failed_count": 0,
     "critical_failures": 0
   },
-  "https://darwix.ai/compliance": {
-    "url": "https://darwix.ai/compliance",
+  "https://testing.darwix.ai/compliance": {
+    "url": "https://testing.darwix.ai/compliance",
     "checks": [
       {
         "name": "Meta title length",
         "severity": "high",
         "status": "pass",
-        "detail": "28 chars (limit 60): 'Rbi-Compliant Ai | Darwix AI'",
+        "detail": "46 chars (limit 60): 'RBI-compliant AI: Enhancing Compliance in BFSI'",
         "field": "title"
       },
       {
         "name": "Meta description length",
         "severity": "medium",
         "status": "pass",
-        "detail": "159 chars (target 140-160): \"Darwix AI's RBI-compliant AI helps BFSI teams move faster and stay compliant. Built for banks, NBFCs, insurers and wealth managers. Book a demo to see it live.\"",
+        "detail": "135 chars (target 140-160): 'Explore how RBI-compliant AI solutions streamline operations in BFSI, ensuring regulatory adherence and enhancing customer experiences.'",
         "field": "meta_description"
       },
       {
         "name": "H1 contains focus keyword",
         "severity": "high",
         "status": "pass",
-        "detail": "H1 'Rbi-Compliant Ai' vs primary keyword 'rbi-compliant ai'",
+        "detail": "H1 'Understanding RBI-compliant AI in BFSI' vs primary keyword 'rbi-compliant ai'",
         "field": "h1"
       },
       {
@@ -332,7 +332,7 @@
         "name": "SEO Content QA — facts match the brief",
         "severity": "high",
         "status": "pass",
-        "detail": "Fact-check skipped — no OPENAI_API_KEY set. (fact-check stub)",
+        "detail": "",
         "field": null
       }
     ],
@@ -341,28 +341,28 @@
     "failed_count": 0,
     "critical_failures": 0
   },
-  "https://darwix.ai/nova": {
-    "url": "https://darwix.ai/nova",
+  "https://testing.darwix.ai/nova": {
+    "url": "https://testing.darwix.ai/nova",
     "checks": [
       {
         "name": "Meta title length",
         "severity": "high",
         "status": "pass",
-        "detail": "33 chars (limit 60): 'In-Store Ai Assistant | Darwix AI'",
+        "detail": "55 chars (limit 60): 'In-Store AI Assistant: Transforming Customer Experience'",
         "field": "title"
       },
       {
         "name": "Meta description length",
         "severity": "medium",
         "status": "pass",
-        "detail": "160 chars (target 140-160): \"Darwix AI's in-store AI assistant helps BFSI teams move faster and stay compliant. Built for banks, NBFCs, insurers and wealth managers. Book a demo to see it l\"",
+        "detail": "134 chars (target 140-160): 'Discover how an in-store AI assistant enhances customer experience in retail and BFSI sectors through improved service and efficiency.'",
         "field": "meta_description"
       },
       {
         "name": "H1 contains focus keyword",
         "severity": "high",
         "status": "pass",
-        "detail": "H1 'In-Store Ai Assistant' vs primary keyword 'in-store ai assistant'",
+        "detail": "H1 'In-Store AI Assistant: Revolutionizing Retail and BFSI Services' vs primary keyword 'in-store ai assistant'",
         "field": "h1"
       },
       {
@@ -446,7 +446,7 @@
         "name": "SEO Content QA — facts match the brief",
         "severity": "high",
         "status": "pass",
-        "detail": "Fact-check skipped — no OPENAI_API_KEY set. (fact-check stub)",
+        "detail": "The proposed copy aligns with the brief's key points and does not include any unsupported claims. It uses generic marketing language to convey the transformation and benefits of in-store AI assistants without asserting specific numbers, customer names, or capabilities not mentioned in the brief.",
         "field": null
       }
     ],
@@ -455,28 +455,28 @@
     "failed_count": 0,
     "critical_failures": 0
   },
-  "https://darwix.ai/sherpa": {
-    "url": "https://darwix.ai/sherpa",
+  "https://testing.darwix.ai/sherpa": {
+    "url": "https://testing.darwix.ai/sherpa",
     "checks": [
       {
         "name": "Meta title length",
         "severity": "high",
         "status": "pass",
-        "detail": "39 chars (limit 60): 'Wearable Ai For Field Sales | Darwix AI'",
+        "detail": "49 chars (limit 60): 'Wearable AI for Field Sales: Boosting Performance'",
         "field": "title"
       },
       {
         "name": "Meta description length",
         "severity": "medium",
         "status": "pass",
-        "detail": "160 chars (target 140-160): \"Darwix AI's wearable AI for field sales helps BFSI teams move faster and stay compliant. Built for banks, NBFCs, insurers and wealth managers. Book a demo to se\"",
+        "detail": "162 chars (target 140-160): 'Discover how wearable AI enhances field sales for BFSI teams through real-time coaching and insights, transforming customer interactions and improving compliance.'",
         "field": "meta_description"
       },
       {
         "name": "H1 contains focus keyword",
         "severity": "high",
         "status": "pass",
-        "detail": "H1 'Wearable Ai For Field Sales' vs primary keyword 'wearable ai for field sales'",
+        "detail": "H1 'Wearable AI for Field Sales: Revolutionizing Your Approach' vs primary keyword 'wearable ai for field sales'",
         "field": "h1"
       },
       {
@@ -560,7 +560,7 @@
         "name": "SEO Content QA — facts match the brief",
         "severity": "high",
         "status": "pass",
-        "detail": "Fact-check skipped — no OPENAI_API_KEY set. (fact-check stub)",
+        "detail": "",
         "field": null
       }
     ],
@@ -569,28 +569,28 @@
     "failed_count": 1,
     "critical_failures": 0
   },
-  "https://darwix.ai/voiceAgent": {
-    "url": "https://darwix.ai/voiceAgent",
+  "https://testing.darwix.ai/voiceAgent": {
+    "url": "https://testing.darwix.ai/voiceAgent",
     "checks": [
       {
         "name": "Meta title length",
         "severity": "high",
         "status": "pass",
-        "detail": "35 chars (limit 60): 'Ai Voice Agent For Bfsi | Darwix AI'",
+        "detail": "57 chars (limit 60): 'AI Voice Agent for BFSI - Transform Customer Interactions'",
         "field": "title"
       },
       {
         "name": "Meta description length",
         "severity": "medium",
         "status": "pass",
-        "detail": "160 chars (target 140-160): \"Darwix AI's AI voice agent for BFSI helps BFSI teams move faster and stay compliant. Built for banks, NBFCs, insurers and wealth managers. Book a demo to see it\"",
+        "detail": "135 chars (target 140-160): 'Discover how AI voice agents can streamline communication for BFSI sectors, improving operational efficiency and customer satisfaction.'",
         "field": "meta_description"
       },
       {
         "name": "H1 contains focus keyword",
         "severity": "high",
         "status": "pass",
-        "detail": "H1 'Ai Voice Agent For Bfsi' vs primary keyword 'ai voice agent for bfsi'",
+        "detail": "H1 'AI Voice Agent for BFSI: Revolutionizing Customer Communication' vs primary keyword 'ai voice agent for bfsi'",
         "field": "h1"
       },
       {
@@ -674,7 +674,7 @@
         "name": "SEO Content QA — facts match the brief",
         "severity": "high",
         "status": "pass",
-        "detail": "Fact-check skipped — no OPENAI_API_KEY set. (fact-check stub)",
+        "detail": "",
         "field": null
       }
     ],
@@ -683,28 +683,28 @@
     "failed_count": 0,
     "critical_failures": 0
   },
-  "https://darwix.ai/voiceAgent/library": {
-    "url": "https://darwix.ai/voiceAgent/library",
+  "https://testing.darwix.ai/voiceAgent/library": {
+    "url": "https://testing.darwix.ai/voiceAgent/library",
     "checks": [
       {
         "name": "Meta title length",
         "severity": "high",
         "status": "pass",
-        "detail": "38 chars (limit 60): 'Voice Agent Sample Library | Darwix AI'",
+        "detail": "39 chars (limit 60): 'Voice Agent Sample Library for BFSI Use'",
         "field": "title"
       },
       {
         "name": "Meta description length",
         "severity": "medium",
         "status": "pass",
-        "detail": "160 chars (target 140-160): \"Darwix AI's voice agent sample library helps BFSI teams move faster and stay compliant. Built for banks, NBFCs, insurers and wealth managers. Book a demo to see\"",
+        "detail": "132 chars (target 140-160): 'Discover the voice agent sample library tailored for BFSI applications, with demos and transcripts to enhance your customer service.'",
         "field": "meta_description"
       },
       {
         "name": "H1 contains focus keyword",
         "severity": "high",
         "status": "pass",
-        "detail": "H1 'Voice Agent Sample Library' vs primary keyword 'voice agent sample library'",
+        "detail": "H1 'Voice Agent Sample Library: Enhance BFSI Applications' vs primary keyword 'voice agent sample library'",
         "field": "h1"
       },
       {
@@ -788,7 +788,7 @@
         "name": "SEO Content QA — facts match the brief",
         "severity": "high",
         "status": "pass",
-        "detail": "Fact-check skipped — no OPENAI_API_KEY set. (fact-check stub)",
+        "detail": "",
         "field": null
       }
     ],
@@ -797,28 +797,28 @@
     "failed_count": 1,
     "critical_failures": 0
   },
-  "https://darwix.ai/nonvoice-agent": {
-    "url": "https://darwix.ai/nonvoice-agent",
+  "https://testing.darwix.ai/nonvoice-agent": {
+    "url": "https://testing.darwix.ai/nonvoice-agent",
     "checks": [
       {
         "name": "Meta title length",
         "severity": "high",
         "status": "pass",
-        "detail": "36 chars (limit 60): 'Bfsi Workflow Automation | Darwix AI'",
+        "detail": "47 chars (limit 60): 'BFSI Workflow Automation for Financial Services'",
         "field": "title"
       },
       {
         "name": "Meta description length",
         "severity": "medium",
         "status": "pass",
-        "detail": "160 chars (target 140-160): \"Darwix AI's BFSI workflow automation helps BFSI teams move faster and stay compliant. Built for banks, NBFCs, insurers and wealth managers. Book a demo to see i\"",
+        "detail": "141 chars (target 140-160): 'Discover how BFSI workflow automation enhances efficiency and reduces costs in financial services through AI agents and seamless integration.'",
         "field": "meta_description"
       },
       {
         "name": "H1 contains focus keyword",
         "severity": "high",
         "status": "pass",
-        "detail": "H1 'Bfsi Workflow Automation' vs primary keyword 'bfsi workflow automation'",
+        "detail": "H1 'Understanding BFSI Workflow Automation' vs primary keyword 'bfsi workflow automation'",
         "field": "h1"
       },
       {
@@ -902,7 +902,7 @@
         "name": "SEO Content QA — facts match the brief",
         "severity": "high",
         "status": "pass",
-        "detail": "Fact-check skipped — no OPENAI_API_KEY set. (fact-check stub)",
+        "detail": "",
         "field": null
       }
     ],
@@ -911,28 +911,28 @@
     "failed_count": 0,
     "critical_failures": 0
   },
-  "https://darwix.ai/privacy-policy": {
-    "url": "https://darwix.ai/privacy-policy",
+  "https://testing.darwix.ai/privacy-policy": {
+    "url": "https://testing.darwix.ai/privacy-policy",
     "checks": [
       {
         "name": "Meta title length",
         "severity": "high",
         "status": "pass",
-        "detail": "26 chars (limit 60): 'Privacy Policy | Darwix AI'",
+        "detail": "50 chars (limit 60): 'Privacy Policy: Data Protection in BFSI Compliance'",
         "field": "title"
       },
       {
         "name": "Meta description length",
         "severity": "medium",
         "status": "pass",
-        "detail": "157 chars (target 140-160): \"Darwix AI's privacy policy helps BFSI teams move faster and stay compliant. Built for banks, NBFCs, insurers and wealth managers. Book a demo to see it live.\"",
+        "detail": "123 chars (target 140-160): 'Learn about our privacy policy, data collection practices, user rights, and how we ensure compliance with BFSI regulations.'",
         "field": "meta_description"
       },
       {
         "name": "H1 contains focus keyword",
         "severity": "high",
         "status": "pass",
-        "detail": "H1 'Privacy Policy' vs primary keyword 'privacy policy'",
+        "detail": "H1 'Understanding Our Privacy Policy' vs primary keyword 'privacy policy'",
         "field": "h1"
       },
       {
@@ -1016,7 +1016,7 @@
         "name": "SEO Content QA — facts match the brief",
         "severity": "high",
         "status": "pass",
-        "detail": "Fact-check skipped — no OPENAI_API_KEY set. (fact-check stub)",
+        "detail": "",
         "field": null
       }
     ],
@@ -1025,28 +1025,28 @@
     "failed_count": 0,
     "critical_failures": 0
   },
-  "https://darwix.ai/terms-and-conditions": {
-    "url": "https://darwix.ai/terms-and-conditions",
+  "https://testing.darwix.ai/terms-and-conditions": {
+    "url": "https://testing.darwix.ai/terms-and-conditions",
     "checks": [
       {
         "name": "Meta title length",
         "severity": "high",
         "status": "pass",
-        "detail": "30 chars (limit 60): 'Terms & Conditions | Darwix AI'",
+        "detail": "41 chars (limit 60): 'Terms & Conditions for BFSI Professionals'",
         "field": "title"
       },
       {
         "name": "Meta description length",
         "severity": "medium",
         "status": "pass",
-        "detail": "160 chars (target 140-160): \"Darwix AI's terms & conditions helps BFSI teams move faster and stay compliant. Built for banks, NBFCs, insurers and wealth managers. Book a demo to see it live\"",
+        "detail": "125 chars (target 140-160): 'Explore the terms & conditions for using Darwix AI, including compliance policies, service limitations, and user obligations.'",
         "field": "meta_description"
       },
       {
         "name": "H1 contains focus keyword",
         "severity": "high",
         "status": "pass",
-        "detail": "H1 'Terms & Conditions' vs primary keyword 'terms & conditions'",
+        "detail": "H1 'Terms & Conditions of the Darwix AI Platform' vs primary keyword 'terms & conditions'",
         "field": "h1"
       },
       {
@@ -1130,7 +1130,7 @@
         "name": "SEO Content QA — facts match the brief",
         "severity": "high",
         "status": "pass",
-        "detail": "Fact-check skipped — no OPENAI_API_KEY set. (fact-check stub)",
+        "detail": "",
         "field": null
       }
     ],
@@ -1139,28 +1139,28 @@
     "failed_count": 0,
     "critical_failures": 0
   },
-  "https://darwix.ai/idn/privacy-policy": {
-    "url": "https://darwix.ai/idn/privacy-policy",
+  "https://testing.darwix.ai/idn/privacy-policy": {
+    "url": "https://testing.darwix.ai/idn/privacy-policy",
     "checks": [
       {
         "name": "Meta title length",
         "severity": "high",
         "status": "pass",
-        "detail": "21 chars (limit 60): 'Darwix Ai | Darwix AI'",
+        "detail": "53 chars (limit 60): 'Darwix AI: Revolutionizing BFSI with Voice Automation'",
         "field": "title"
       },
       {
         "name": "Meta description length",
         "severity": "medium",
         "status": "pass",
-        "detail": "152 chars (target 140-160): \"Darwix AI's darwix ai helps BFSI teams move faster and stay compliant. Built for banks, NBFCs, insurers and wealth managers. Book a demo to see it live.\"",
+        "detail": "139 chars (target 140-160): 'Discover how Darwix AI integrates voice automation to optimize financial services and enhance customer interactions while ensuring privacy.'",
         "field": "meta_description"
       },
       {
         "name": "H1 contains focus keyword",
         "severity": "high",
         "status": "pass",
-        "detail": "H1 'Darwix Ai' vs primary keyword 'darwix ai'",
+        "detail": "H1 'Understanding Darwix AI in Financial Services' vs primary keyword 'darwix ai'",
         "field": "h1"
       },
       {
@@ -1237,14 +1237,14 @@
         "name": "Duplicate content < 85% similarity",
         "severity": "medium",
         "status": "fail",
-        "detail": "100% word overlap with https://darwix.ai",
+        "detail": "100% word overlap with https://testing.darwix.ai",
         "field": null
       },
       {
         "name": "SEO Content QA — facts match the brief",
         "severity": "high",
         "status": "pass",
-        "detail": "Fact-check skipped — no OPENAI_API_KEY set. (fact-check stub)",
+        "detail": "",
         "field": null
       }
     ],
@@ -1253,28 +1253,28 @@
     "failed_count": 2,
     "critical_failures": 1
   },
-  "https://darwix.ai/idn/terms-and-conditions": {
-    "url": "https://darwix.ai/idn/terms-and-conditions",
+  "https://testing.darwix.ai/idn/terms-and-conditions": {
+    "url": "https://testing.darwix.ai/idn/terms-and-conditions",
     "checks": [
       {
         "name": "Meta title length",
         "severity": "high",
         "status": "pass",
-        "detail": "21 chars (limit 60): 'Darwix Ai | Darwix AI'",
+        "detail": "39 chars (limit 60): 'Darwix AI: Transforming BFSI Operations'",
         "field": "title"
       },
       {
         "name": "Meta description length",
         "severity": "medium",
         "status": "pass",
-        "detail": "152 chars (target 140-160): \"Darwix AI's darwix ai helps BFSI teams move faster and stay compliant. Built for banks, NBFCs, insurers and wealth managers. Book a demo to see it live.\"",
+        "detail": "129 chars (target 140-160): 'Discover how Darwix AI enhances financial services with voice automation, data insights, and compliance support for BFSI sectors.'",
         "field": "meta_description"
       },
       {
         "name": "H1 contains focus keyword",
         "severity": "high",
         "status": "pass",
-        "detail": "H1 'Darwix Ai' vs primary keyword 'darwix ai'",
+        "detail": "H1 'Introduction to Darwix AI in BFSI' vs primary keyword 'darwix ai'",
         "field": "h1"
       },
       {
@@ -1351,14 +1351,14 @@
         "name": "Duplicate content < 85% similarity",
         "severity": "medium",
         "status": "fail",
-        "detail": "100% word overlap with https://darwix.ai",
+        "detail": "100% word overlap with https://testing.darwix.ai",
         "field": null
       },
       {
         "name": "SEO Content QA — facts match the brief",
         "severity": "high",
         "status": "pass",
-        "detail": "Fact-check skipped — no OPENAI_API_KEY set. (fact-check stub)",
+        "detail": "",
         "field": null
       }
     ],
@@ -1367,28 +1367,28 @@
     "failed_count": 2,
     "critical_failures": 1
   },
-  "https://darwix.ai/pivc": {
-    "url": "https://darwix.ai/pivc",
+  "https://testing.darwix.ai/pivc": {
+    "url": "https://testing.darwix.ai/pivc",
     "checks": [
       {
         "name": "Meta title length",
         "severity": "high",
         "status": "pass",
-        "detail": "36 chars (limit 60): 'Video Pivc For Insurance | Darwix AI'",
+        "detail": "56 chars (limit 60): 'Video PIVC for Insurance: Enhance Verification Processes'",
         "field": "title"
       },
       {
         "name": "Meta description length",
         "severity": "medium",
         "status": "pass",
-        "detail": "160 chars (target 140-160): \"Darwix AI's video PIVC for insurance helps BFSI teams move faster and stay compliant. Built for banks, NBFCs, insurers and wealth managers. Book a demo to see i\"",
+        "detail": "131 chars (target 140-160): 'Learn how video PIVC technology is transforming insurance with enhanced verification, consent assurance and mis-selling prevention.'",
         "field": "meta_description"
       },
       {
         "name": "H1 contains focus keyword",
         "severity": "high",
         "status": "pass",
-        "detail": "H1 'Video Pivc For Insurance' vs primary keyword 'video pivc for insurance'",
+        "detail": "H1 'Understanding Video PIVC for Insurance' vs primary keyword 'video pivc for insurance'",
         "field": "h1"
       },
       {
@@ -1472,7 +1472,7 @@
         "name": "SEO Content QA — facts match the brief",
         "severity": "high",
         "status": "pass",
-        "detail": "Fact-check skipped — no OPENAI_API_KEY set. (fact-check stub)",
+        "detail": "",
         "field": null
       }
     ],
@@ -1481,28 +1481,28 @@
     "failed_count": 1,
     "critical_failures": 1
   },
-  "https://darwix.ai/telemedi-assist": {
-    "url": "https://darwix.ai/telemedi-assist",
+  "https://testing.darwix.ai/telemedi-assist": {
+    "url": "https://testing.darwix.ai/telemedi-assist",
     "checks": [
       {
         "name": "Meta title length",
         "severity": "high",
         "status": "pass",
-        "detail": "39 chars (limit 60): 'Tele-Medical Examination Ai | Darwix AI'",
+        "detail": "51 chars (limit 60): 'Tele-Medical Examination AI: Transforming Insurance'",
         "field": "title"
       },
       {
         "name": "Meta description length",
         "severity": "medium",
         "status": "pass",
-        "detail": "160 chars (target 140-160): \"Darwix AI's tele-medical examination AI helps BFSI teams move faster and stay compliant. Built for banks, NBFCs, insurers and wealth managers. Book a demo to se\"",
+        "detail": "155 chars (target 140-160): 'Discover how tele-medical examination AI enhances insurance underwriting, improves patient experiences, and streamlines processes for lenders and insurers.'",
         "field": "meta_description"
       },
       {
         "name": "H1 contains focus keyword",
         "severity": "high",
         "status": "pass",
-        "detail": "H1 'Tele-Medical Examination Ai' vs primary keyword 'tele-medical examination ai'",
+        "detail": "H1 'What is Tele-Medical Examination AI?' vs primary keyword 'tele-medical examination ai'",
         "field": "h1"
       },
       {
@@ -1586,7 +1586,7 @@
         "name": "SEO Content QA — facts match the brief",
         "severity": "high",
         "status": "pass",
-        "detail": "Fact-check skipped — no OPENAI_API_KEY set. (fact-check stub)",
+        "detail": "",
         "field": null
       }
     ],
@@ -1595,28 +1595,28 @@
     "failed_count": 1,
     "critical_failures": 1
   },
-  "https://darwix.ai/life-insurance-proposal-automation": {
-    "url": "https://darwix.ai/life-insurance-proposal-automation",
+  "https://testing.darwix.ai/life-insurance-proposal-automation": {
+    "url": "https://testing.darwix.ai/life-insurance-proposal-automation",
     "checks": [
       {
         "name": "Meta title length",
         "severity": "high",
         "status": "pass",
-        "detail": "46 chars (limit 60): 'Life Insurance Proposal Automation | Darwix AI'",
+        "detail": "49 chars (limit 60): 'Life Insurance Proposal Automation for Efficiency'",
         "field": "title"
       },
       {
         "name": "Meta description length",
         "severity": "medium",
         "status": "pass",
-        "detail": "160 chars (target 140-160): \"Darwix AI's life insurance proposal automation helps BFSI teams move faster and stay compliant. Built for banks, NBFCs, insurers and wealth managers. Book a dem\"",
+        "detail": "138 chars (target 140-160): 'Discover how life insurance proposal automation enhances efficiency, speeds up approval, and improves customer experience in BFSI sectors.'",
         "field": "meta_description"
       },
       {
         "name": "H1 contains focus keyword",
         "severity": "high",
         "status": "pass",
-        "detail": "H1 'Life Insurance Proposal Automation' vs primary keyword 'life insurance proposal automation'",
+        "detail": "H1 'Life Insurance Proposal Automation: Streamline Your Processes' vs primary keyword 'life insurance proposal automation'",
         "field": "h1"
       },
       {
@@ -1700,7 +1700,7 @@
         "name": "SEO Content QA — facts match the brief",
         "severity": "high",
         "status": "pass",
-        "detail": "Fact-check skipped — no OPENAI_API_KEY set. (fact-check stub)",
+        "detail": "",
         "field": null
       }
     ],
@@ -1709,28 +1709,28 @@
     "failed_count": 1,
     "critical_failures": 1
   },
-  "https://darwix.ai/auto-pd": {
-    "url": "https://darwix.ai/auto-pd",
+  "https://testing.darwix.ai/auto-pd": {
+    "url": "https://testing.darwix.ai/auto-pd",
     "checks": [
       {
         "name": "Meta title length",
         "severity": "high",
         "status": "pass",
-        "detail": "41 chars (limit 60): 'Automated Personal Discussion | Darwix AI'",
+        "detail": "54 chars (limit 60): 'Automated Personal Discussion for Financial Efficiency'",
         "field": "title"
       },
       {
         "name": "Meta description length",
         "severity": "medium",
         "status": "pass",
-        "detail": "160 chars (target 140-160): \"Darwix AI's automated personal discussion helps BFSI teams move faster and stay compliant. Built for banks, NBFCs, insurers and wealth managers. Book a demo to \"",
+        "detail": "152 chars (target 140-160): 'Discover how automated personal discussion streamlines processes for lenders, insurers, and wealth managers, enhancing customer experience and accuracy.'",
         "field": "meta_description"
       },
       {
         "name": "H1 contains focus keyword",
         "severity": "high",
         "status": "pass",
-        "detail": "H1 'Automated Personal Discussion' vs primary keyword 'automated personal discussion'",
+        "detail": "H1 'Understanding Automated Personal Discussion' vs primary keyword 'automated personal discussion'",
         "field": "h1"
       },
       {
@@ -1814,7 +1814,7 @@
         "name": "SEO Content QA — facts match the brief",
         "severity": "high",
         "status": "pass",
-        "detail": "Fact-check skipped — no OPENAI_API_KEY set. (fact-check stub)",
+        "detail": "",
         "field": null
       }
     ],
@@ -1823,28 +1823,28 @@
     "failed_count": 1,
     "critical_failures": 1
   },
-  "https://darwix.ai/evidence-intelligence": {
-    "url": "https://darwix.ai/evidence-intelligence",
+  "https://testing.darwix.ai/evidence-intelligence": {
+    "url": "https://testing.darwix.ai/evidence-intelligence",
     "checks": [
       {
         "name": "Meta title length",
         "severity": "high",
         "status": "pass",
-        "detail": "42 chars (limit 60): 'Document Discrepancy Detection | Darwix AI'",
+        "detail": "38 chars (limit 60): 'Document Discrepancy Detection in BFSI'",
         "field": "title"
       },
       {
         "name": "Meta description length",
         "severity": "medium",
         "status": "pass",
-        "detail": "160 chars (target 140-160): \"Darwix AI's document discrepancy detection helps BFSI teams move faster and stay compliant. Built for banks, NBFCs, insurers and wealth managers. Book a demo to\"",
+        "detail": "134 chars (target 140-160): 'Learn how document discrepancy detection streamlines KYC and claims processes in the BFSI sector for better efficiency and compliance.'",
         "field": "meta_description"
       },
       {
         "name": "H1 contains focus keyword",
         "severity": "high",
         "status": "pass",
-        "detail": "H1 'Document Discrepancy Detection' vs primary keyword 'document discrepancy detection'",
+        "detail": "H1 'Understanding Document Discrepancy Detection in BFSI' vs primary keyword 'document discrepancy detection'",
         "field": "h1"
       },
       {
@@ -1928,7 +1928,7 @@
         "name": "SEO Content QA — facts match the brief",
         "severity": "high",
         "status": "pass",
-        "detail": "Fact-check skipped — no OPENAI_API_KEY set. (fact-check stub)",
+        "detail": "",
         "field": null
       }
     ],
@@ -1937,28 +1937,28 @@
     "failed_count": 1,
     "critical_failures": 1
   },
-  "https://darwix.ai/retail-asset-evidence-intelligence": {
-    "url": "https://darwix.ai/retail-asset-evidence-intelligence",
+  "https://testing.darwix.ai/retail-asset-evidence-intelligence": {
+    "url": "https://testing.darwix.ai/retail-asset-evidence-intelligence",
     "checks": [
       {
         "name": "Meta title length",
         "severity": "high",
         "status": "pass",
-        "detail": "39 chars (limit 60): 'Asset Verification For Arcs | Darwix AI'",
+        "detail": "60 chars (limit 60): 'Asset Verification for ARCs: Key Insights and Best Practices'",
         "field": "title"
       },
       {
         "name": "Meta description length",
         "severity": "medium",
         "status": "pass",
-        "detail": "160 chars (target 140-160): \"Darwix AI's asset verification for ARCs helps BFSI teams move faster and stay compliant. Built for banks, NBFCs, insurers and wealth managers. Book a demo to se\"",
+        "detail": "154 chars (target 140-160): 'Explore the significance of asset verification for ARCs in the BFSI sector. Learn about challenges, AI tools, and best practices for effective compliance.'",
         "field": "meta_description"
       },
       {
         "name": "H1 contains focus keyword",
         "severity": "high",
         "status": "pass",
-        "detail": "H1 'Asset Verification For Arcs' vs primary keyword 'asset verification for arcs'",
+        "detail": "H1 'Understanding Asset Verification for ARCs' vs primary keyword 'asset verification for arcs'",
         "field": "h1"
       },
       {
@@ -2042,7 +2042,7 @@
         "name": "SEO Content QA — facts match the brief",
         "severity": "high",
         "status": "pass",
-        "detail": "Fact-check skipped — no OPENAI_API_KEY set. (fact-check stub)",
+        "detail": "",
         "field": null
       }
     ],
@@ -2051,28 +2051,28 @@
     "failed_count": 1,
     "critical_failures": 1
   },
-  "https://darwix.ai/pre-meet-intelligence": {
-    "url": "https://darwix.ai/pre-meet-intelligence",
+  "https://testing.darwix.ai/pre-meet-intelligence": {
+    "url": "https://testing.darwix.ai/pre-meet-intelligence",
     "checks": [
       {
         "name": "Meta title length",
         "severity": "high",
         "status": "pass",
-        "detail": "45 chars (limit 60): 'Client Briefs For Wealth Managers | Darwix AI'",
+        "detail": "53 chars (limit 60): 'Client Briefs for Wealth Managers: Enhancing Meetings'",
         "field": "title"
       },
       {
         "name": "Meta description length",
         "severity": "medium",
         "status": "pass",
-        "detail": "160 chars (target 140-160): \"Darwix AI's client briefs for wealth managers helps BFSI teams move faster and stay compliant. Built for banks, NBFCs, insurers and wealth managers. Book a demo\"",
+        "detail": "138 chars (target 140-160): 'Discover how client briefs for wealth managers can improve meeting success and efficiency. Learn about RM meeting preparation AI benefits.'",
         "field": "meta_description"
       },
       {
         "name": "H1 contains focus keyword",
         "severity": "high",
         "status": "pass",
-        "detail": "H1 'Client Briefs For Wealth Managers' vs primary keyword 'client briefs for wealth managers'",
+        "detail": "H1 'Client Briefs for Wealth Managers: Importance and Benefits' vs primary keyword 'client briefs for wealth managers'",
         "field": "h1"
       },
       {
@@ -2156,7 +2156,7 @@
         "name": "SEO Content QA — facts match the brief",
         "severity": "high",
         "status": "pass",
-        "detail": "Fact-check skipped — no OPENAI_API_KEY set. (fact-check stub)",
+        "detail": "",
         "field": null
       }
     ],
@@ -2165,28 +2165,28 @@
     "failed_count": 1,
     "critical_failures": 1
   },
-  "https://darwix.ai/alert-intelligence": {
-    "url": "https://darwix.ai/alert-intelligence",
+  "https://testing.darwix.ai/alert-intelligence": {
+    "url": "https://testing.darwix.ai/alert-intelligence",
     "checks": [
       {
         "name": "Meta title length",
         "severity": "high",
         "status": "pass",
-        "detail": "35 chars (limit 60): 'Proactive Client Alerts | Darwix AI'",
+        "detail": "50 chars (limit 60): 'Proactive Client Alerts: Enhance Wealth Management'",
         "field": "title"
       },
       {
         "name": "Meta description length",
         "severity": "medium",
         "status": "pass",
-        "detail": "160 chars (target 140-160): \"Darwix AI's proactive client alerts helps BFSI teams move faster and stay compliant. Built for banks, NBFCs, insurers and wealth managers. Book a demo to see it\"",
+        "detail": "147 chars (target 140-160): 'Discover how proactive client alerts can mitigate risks in lending, insurance, and wealth management to improve client relationships and retention.'",
         "field": "meta_description"
       },
       {
         "name": "H1 contains focus keyword",
         "severity": "high",
         "status": "pass",
-        "detail": "H1 'Proactive Client Alerts' vs primary keyword 'proactive client alerts'",
+        "detail": "H1 'Understanding Proactive Client Alerts in Finance' vs primary keyword 'proactive client alerts'",
         "field": "h1"
       },
       {
@@ -2270,7 +2270,7 @@
         "name": "SEO Content QA — facts match the brief",
         "severity": "high",
         "status": "pass",
-        "detail": "Fact-check skipped — no OPENAI_API_KEY set. (fact-check stub)",
+        "detail": "",
         "field": null
       }
     ],
@@ -2279,28 +2279,28 @@
     "failed_count": 1,
     "critical_failures": 1
   },
-  "https://darwix.ai/landingsherpa": {
-    "url": "https://darwix.ai/landingsherpa",
+  "https://testing.darwix.ai/landingsherpa": {
+    "url": "https://testing.darwix.ai/landingsherpa",
     "checks": [
       {
         "name": "Meta title length",
         "severity": "high",
         "status": "pass",
-        "detail": "36 chars (limit 60): 'Sherpa Setup And Support | Darwix AI'",
+        "detail": "33 chars (limit 60): 'Sherpa Setup and Support for BFSI'",
         "field": "title"
       },
       {
         "name": "Meta description length",
         "severity": "medium",
         "status": "pass",
-        "detail": "160 chars (target 140-160): \"Darwix AI's sherpa setup and support helps BFSI teams move faster and stay compliant. Built for banks, NBFCs, insurers and wealth managers. Book a demo to see i\"",
+        "detail": "138 chars (target 140-160): 'Discover how Sherpa setup and support streamline processes for lenders and insurers in the BFSI sector. Explore key features and benefits.'",
         "field": "meta_description"
       },
       {
         "name": "H1 contains focus keyword",
         "severity": "high",
         "status": "pass",
-        "detail": "H1 'Sherpa Setup And Support' vs primary keyword 'sherpa setup and support'",
+        "detail": "H1 'Sherpa Setup and Support for BFSI' vs primary keyword 'sherpa setup and support'",
         "field": "h1"
       },
       {
@@ -2384,7 +2384,7 @@
         "name": "SEO Content QA — facts match the brief",
         "severity": "high",
         "status": "pass",
-        "detail": "Fact-check skipped — no OPENAI_API_KEY set. (fact-check stub)",
+        "detail": "",
         "field": null
       }
     ],

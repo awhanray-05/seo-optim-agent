@@ -38,27 +38,27 @@
     }
   ],
   "pages_researched": [
-    "https://darwix.ai",
-    "https://darwix.ai/about",
-    "https://darwix.ai/compliance",
-    "https://darwix.ai/nova",
-    "https://darwix.ai/sherpa",
-    "https://darwix.ai/voiceAgent",
-    "https://darwix.ai/voiceAgent/library",
-    "https://darwix.ai/nonvoice-agent",
-    "https://darwix.ai/privacy-policy",
-    "https://darwix.ai/terms-and-conditions",
-    "https://darwix.ai/idn/privacy-policy",
-    "https://darwix.ai/idn/terms-and-conditions",
-    "https://darwix.ai/pivc",
-    "https://darwix.ai/telemedi-assist",
-    "https://darwix.ai/life-insurance-proposal-automation",
-    "https://darwix.ai/auto-pd",
-    "https://darwix.ai/evidence-intelligence",
-    "https://darwix.ai/retail-asset-evidence-intelligence",
-    "https://darwix.ai/pre-meet-intelligence",
-    "https://darwix.ai/alert-intelligence",
-    "https://darwix.ai/landingsherpa"
+    "https://testing.darwix.ai",
+    "https://testing.darwix.ai/about",
+    "https://testing.darwix.ai/compliance",
+    "https://testing.darwix.ai/nova",
+    "https://testing.darwix.ai/sherpa",
+    "https://testing.darwix.ai/voiceAgent",
+    "https://testing.darwix.ai/voiceAgent/library",
+    "https://testing.darwix.ai/nonvoice-agent",
+    "https://testing.darwix.ai/privacy-policy",
+    "https://testing.darwix.ai/terms-and-conditions",
+    "https://testing.darwix.ai/idn/privacy-policy",
+    "https://testing.darwix.ai/idn/terms-and-conditions",
+    "https://testing.darwix.ai/pivc",
+    "https://testing.darwix.ai/telemedi-assist",
+    "https://testing.darwix.ai/life-insurance-proposal-automation",
+    "https://testing.darwix.ai/auto-pd",
+    "https://testing.darwix.ai/evidence-intelligence",
+    "https://testing.darwix.ai/retail-asset-evidence-intelligence",
+    "https://testing.darwix.ai/pre-meet-intelligence",
+    "https://testing.darwix.ai/alert-intelligence",
+    "https://testing.darwix.ai/landingsherpa"
   ],
   "technical_health": [
     {
@@ -137,10 +137,10 @@
     }
   ],
   "pipeline_stats": {
-    "pages_published": 7,
+    "pages_published": 14,
     "pages_crawled": 21,
-    "qa_first_pass_rate": 33,
-    "qa_failed_first_pass": 14,
+    "qa_first_pass_rate": 29,
+    "qa_failed_first_pass": 15,
     "qa_total_first_pass": 21
   },
   "action_queue": [
@@ -148,7 +148,7 @@
       "s": "High",
       "c": "#D93A3A",
       "t": "11 page(s) have zero inbound internal links in server HTML",
-      "p": "https://darwix.ai/idn/privacy-policy, https://darwix.ai/idn/terms-and-conditions, https://darwix.ai/pivc + 8 more",
+      "p": "https://testing.darwix.ai/idn/privacy-policy, https://testing.darwix.ai/idn/terms-and-conditions, https://testing.darwix.ai/pivc + 8 more",
       "o": "Technical SEO QA",
       "term": "Orphan Pages"
     },
@@ -156,7 +156,7 @@
       "s": "High",
       "c": "#D93A3A",
       "t": "21 page(s) have no server-rendered schema markup",
-      "p": "https://darwix.ai, https://darwix.ai/about, https://darwix.ai/compliance + 18 more",
+      "p": "https://testing.darwix.ai, https://testing.darwix.ai/about, https://testing.darwix.ai/compliance + 18 more",
       "o": "Page Generation",
       "term": "Schema Markup"
     },
@@ -172,7 +172,7 @@
       "s": "Medium",
       "c": "#E87E22",
       "t": "3 page(s) have titles/descriptions overlapping another page by 85%+",
-      "p": "https://darwix.ai, https://darwix.ai/idn/privacy-policy, https://darwix.ai/idn/terms-and-conditions",
+      "p": "https://testing.darwix.ai, https://testing.darwix.ai/idn/privacy-policy, https://testing.darwix.ai/idn/terms-and-conditions",
       "o": "Technical SEO QA",
       "term": "Duplicate Content"
     },
@@ -204,7 +204,7 @@
       "s": "Low",
       "c": "#949395",
       "t": "11 page(s) still carry the obsolete meta-keywords tag",
-      "p": "https://darwix.ai, https://darwix.ai/about, https://darwix.ai/compliance",
+      "p": "https://testing.darwix.ai, https://testing.darwix.ai/about, https://testing.darwix.ai/compliance",
       "o": "Page Generation",
       "term": "Meta keywords"
     }

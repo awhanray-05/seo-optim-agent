@@ -28,7 +28,7 @@ def run_pipeline(urls: list[str] | None = None, *, verbose: bool = True) -> dict
         if verbose:
             print(f"[orchestrator] {msg}")
 
-    log("Crawling darwix.ai ...")
+    log(f"Crawling {config.SITE_ROOT} ...")
     snapshots = crawler.crawl_site(urls)
     log(f"Crawled {len(snapshots)} URL(s).")
 

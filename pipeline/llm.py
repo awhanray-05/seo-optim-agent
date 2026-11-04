@@ -119,14 +119,17 @@ def _call_openai(system: str, user: str, schema: dict, max_tokens: int):
     if choice.finish_reason == "content_filter":
         print("[llm:openai] model refused this request, falling back to stub for this call")
         return None
+    if choice.finish_reason == "length":
+        print(f"[llm:openai] output truncated (hit max_tokens={max_tokens}), falling back to stub for this call")
+        return None
     text = choice.message.content
     if not text:
         print("[llm:openai] empty response, falling back to stub for this call")
         return None
     try:
         return json.loads(text)
-    except json.JSONDecodeError:
-        print("[llm:openai] response was not valid JSON, falling back to stub for this call")
+    except json.JSONDecodeError as e:
+        print(f"[llm:openai] response was not valid JSON ({e}), falling back to stub for this call")
         return None
 
 
@@ -159,14 +162,18 @@ def _call_groq(system: str, user: str, schema: dict, max_tokens: int):
         print(f"[llm:groq] connection error, falling back to stub for this call: {e}")
         return None
 
-    text = response.choices[0].message.content
+    choice = response.choices[0]
+    if choice.finish_reason == "length":
+        print(f"[llm:groq] output truncated (hit max_tokens={max_tokens}), falling back to stub for this call")
+        return None
+    text = choice.message.content
     if not text:
         print("[llm:groq] empty response, falling back to stub for this call")
         return None
     try:
         data = json.loads(text)
-    except json.JSONDecodeError:
-        print("[llm:groq] response was not valid JSON, falling back to stub for this call")
+    except json.JSONDecodeError as e:
+        print(f"[llm:groq] response was not valid JSON ({e}), falling back to stub for this call")
         return None
 
     missing = [f for f in schema.get("required", []) if f not in data]

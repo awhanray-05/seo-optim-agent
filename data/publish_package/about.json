@@ -1,17 +1,17 @@
 {
-  "url": "https://darwix.ai/about",
+  "url": "https://testing.darwix.ai/about",
   "diff": {
     "title": {
       "from": "About Darwix AI | Agentic AI for BFSI Sales & Operations",
-      "to": "About Darwix Ai | Darwix AI"
+      "to": "About Darwix AI - Innovative Solutions for BFSI"
     },
     "meta_description": {
       "from": "Darwix AI is an agentic AI platform for BFSI that transforms customer conversations into compliant, automated workflows for banks, NBFCs, and insurers.",
-      "to": "Darwix AI's about Darwix AI helps BFSI teams move faster and stay compliant. Built for banks, NBFCs, insurers and wealth managers. Book a demo to see it live."
+      "to": "Discover Darwix AI's mission to empower the BFSI sector with innovative solutions and expert leadership for streamlined operations."
     },
     "h1": {
       "from": "Building the BFSIoperating systemfor the agentic decade.",
-      "to": "About Darwix Ai"
+      "to": "About Darwix AI"
     },
     "canonical": {
       "from": "https://darwix.ai/about",
@@ -23,11 +23,11 @@
     "internal_links_added": [
       {
         "href": "https://darwix.ai/",
-        "anchor": ""
+        "anchor": "Visit our website"
       },
       {
         "href": "https://darwix.ai/compliance",
-        "anchor": "compliance"
+        "anchor": "Explore compliance solutions"
       }
     ]
   }

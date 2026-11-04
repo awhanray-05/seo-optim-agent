@@ -33,6 +33,18 @@ GA4_SCOPE = "https://www.googleapis.com/auth/analytics.readonly"
 _credentials_cache: dict = {}
 
 
+def _sa_file_path():
+    if config.GOOGLE_SERVICE_ACCOUNT_FILE:
+        p = config.ROOT / config.GOOGLE_SERVICE_ACCOUNT_FILE
+        if p.exists():
+            return p
+    for candidate in ("google-service-account.json", "credentials/google-service-account.json"):
+        p = config.ROOT / candidate
+        if p.exists():
+            return p
+    return None
+
+
 def psi_is_configured() -> bool:
     return bool(config.GOOGLE_PAGESPEED_API_KEY)
 
@@ -42,11 +54,11 @@ def crux_is_configured() -> bool:
 
 
 def gsc_is_configured() -> bool:
-    return bool(config.GOOGLE_SERVICE_ACCOUNT_FILE and config.GSC_SITE_URL)
+    return bool(_sa_file_path() and config.GSC_SITE_URL)
 
 
 def ga4_is_configured() -> bool:
-    return bool(config.GOOGLE_SERVICE_ACCOUNT_FILE and config.GA4_PROPERTY_ID)
+    return bool(_sa_file_path() and config.GA4_PROPERTY_ID)
 
 
 def _service_account_token(scopes: list[str]) -> str | None:
@@ -54,7 +66,8 @@ def _service_account_token(scopes: list[str]) -> str | None:
     account at GOOGLE_SERVICE_ACCOUNT_FILE. Returns None on any failure —
     missing file, malformed key, network error — so callers can fall back
     to sample data instead of crashing the run."""
-    if not config.GOOGLE_SERVICE_ACCOUNT_FILE:
+    sa_path = _sa_file_path()
+    if not sa_path:
         return None
     cache_key = tuple(sorted(scopes))
     cached = _credentials_cache.get(cache_key)
@@ -68,7 +81,7 @@ def _service_account_token(scopes: list[str]) -> str | None:
         return None
     try:
         creds = service_account.Credentials.from_service_account_file(
-            config.GOOGLE_SERVICE_ACCOUNT_FILE, scopes=scopes)
+            str(sa_path), scopes=scopes)
         creds.refresh(Request())
     except Exception as e:  # malformed key file, revoked key, no network, etc.
         print(f"[google_services] could not mint a token for {scopes}: {e}")
@@ -104,13 +117,32 @@ def psi_report(url: str, strategy: str = "mobile") -> dict | None:
     except (KeyError, TypeError):
         pass
 
+    audits = data.get("lighthouseResult", {}).get("audits", {})
+    lab_lcp = audits.get("largest-contentful-paint", {}).get("numericValue")
+    lab_cls = audits.get("cumulative-layout-shift", {}).get("numericValue")
+    lab_tbt = audits.get("total-blocking-time", {}).get("numericValue")
+
     field = data.get("loadingExperience", {}).get("metrics", {})
+    lcp_val = field.get("LARGEST_CONTENTFUL_PAINT_MS", {}).get("percentile")
+    if lcp_val is None:
+        lcp_val = lab_lcp
+
+    cls_val = field.get("CUMULATIVE_LAYOUT_SHIFT_SCORE", {}).get("percentile")
+    if cls_val is not None:
+        cls_val = cls_val / 100.0 if cls_val > 1 else cls_val
+    elif lab_cls is not None:
+        cls_val = lab_cls
+
+    inp_val = field.get("INTERACTION_TO_NEXT_PAINT", {}).get("percentile")
+    if inp_val is None:
+        inp_val = lab_tbt
+
     return {
         "url": url,
         "lab_performance_score": lab_score,
-        "field_lcp_ms": field.get("LARGEST_CONTENTFUL_PAINT_MS", {}).get("percentile"),
-        "field_cls": field.get("CUMULATIVE_LAYOUT_SHIFT_SCORE", {}).get("percentile"),
-        "field_inp_ms": field.get("INTERACTION_TO_NEXT_PAINT", {}).get("percentile"),
+        "field_lcp_ms": lcp_val,
+        "field_cls": cls_val,
+        "field_inp_ms": inp_val,
     }
 
 
@@ -135,7 +167,13 @@ def crux_record(origin_or_url: str, *, is_origin: bool = False) -> dict | None:
         return None
 
     def p75(key: str):
-        return metrics.get(key, {}).get("percentiles", {}).get("p75")
+        v = metrics.get(key, {}).get("percentiles", {}).get("p75")
+        if v is not None:
+            try:
+                return float(v)
+            except (ValueError, TypeError):
+                return v
+        return None
 
     def histogram_pct(key: str) -> tuple[float, float, float] | None:
         """(good%, needs-improvement%, poor%) from CrUX's 3-bucket histogram,

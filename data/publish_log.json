@@ -1,36 +1,71 @@
 {
   "https://darwix.ai/about": {
-    "published_at": "2026-11-02",
+    "published_at": "2026-11-03",
     "status": "staged",
     "diff_file": "about.json"
   },
   "https://darwix.ai/compliance": {
-    "published_at": "2026-11-02",
+    "published_at": "2026-11-03",
     "status": "staged",
     "diff_file": "compliance.json"
   },
   "https://darwix.ai/nova": {
-    "published_at": "2026-11-02",
+    "published_at": "2026-11-03",
     "status": "staged",
     "diff_file": "nova.json"
   },
   "https://darwix.ai/voiceAgent": {
-    "published_at": "2026-11-02",
+    "published_at": "2026-11-03",
     "status": "staged",
     "diff_file": "voiceAgent.json"
   },
   "https://darwix.ai/nonvoice-agent": {
-    "published_at": "2026-11-02",
+    "published_at": "2026-11-03",
     "status": "staged",
     "diff_file": "nonvoice-agent.json"
   },
   "https://darwix.ai/privacy-policy": {
-    "published_at": "2026-11-02",
+    "published_at": "2026-11-03",
     "status": "staged",
     "diff_file": "privacy-policy.json"
   },
   "https://darwix.ai/terms-and-conditions": {
-    "published_at": "2026-11-02",
+    "published_at": "2026-11-03",
+    "status": "staged",
+    "diff_file": "terms-and-conditions.json"
+  },
+  "https://testing.darwix.ai/about": {
+    "published_at": "2026-11-03",
+    "status": "staged",
+    "diff_file": "about.json"
+  },
+  "https://testing.darwix.ai/compliance": {
+    "published_at": "2026-11-03",
+    "status": "staged",
+    "diff_file": "compliance.json"
+  },
+  "https://testing.darwix.ai/nova": {
+    "published_at": "2026-11-03",
+    "status": "staged",
+    "diff_file": "nova.json"
+  },
+  "https://testing.darwix.ai/voiceAgent": {
+    "published_at": "2026-11-03",
+    "status": "staged",
+    "diff_file": "voiceAgent.json"
+  },
+  "https://testing.darwix.ai/nonvoice-agent": {
+    "published_at": "2026-11-03",
+    "status": "staged",
+    "diff_file": "nonvoice-agent.json"
+  },
+  "https://testing.darwix.ai/privacy-policy": {
+    "published_at": "2026-11-03",
+    "status": "staged",
+    "diff_file": "privacy-policy.json"
+  },
+  "https://testing.darwix.ai/terms-and-conditions": {
+    "published_at": "2026-11-03",
     "status": "staged",
     "diff_file": "terms-and-conditions.json"
   }

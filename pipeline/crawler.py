@@ -64,8 +64,16 @@ def fetch_sitemap() -> list[dict]:
         def text_of(child):
             el = url_tag.find(tag(child))
             return el.text.strip() if el is not None and el.text else None
+        loc = text_of("loc")
+        if loc and config.SITE_ROOT != config.PROD_SITE_ROOT:
+            # When testing against staging (e.g. testing.darwix.ai), rewrite
+            # production domain in sitemap to the configured SITE_ROOT
+            parsed = urlparse(loc)
+            root_parsed = urlparse(config.SITE_ROOT)
+            if parsed.netloc and parsed.netloc != root_parsed.netloc:
+                loc = parsed._replace(scheme=root_parsed.scheme, netloc=root_parsed.netloc).geturl()
         out.append({
-            "loc": text_of("loc"),
+            "loc": loc,
             "lastmod": text_of("lastmod"),
             "changefreq": text_of("changefreq"),
             "priority": text_of("priority"),

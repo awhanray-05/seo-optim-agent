@@ -4,4 +4,5 @@ __pycache__/
 venv/
 .env
 credentials/
+google-service-account.json
 config/*.json
