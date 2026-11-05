@@ -78,17 +78,17 @@
     },
     {
       "k": "Orphan pages (zero inbound links)",
-      "v": "11",
+      "v": "9",
       "c": "#D93A3A"
     },
     {
       "k": "Duplicate-content pairs (>85% overlap)",
-      "v": "3",
-      "c": "#E87E22"
+      "v": "0",
+      "c": "#17AA2E"
     },
     {
       "k": "Pages with no server-rendered schema",
-      "v": "21",
+      "v": "19",
       "c": "#E87E22"
     },
     {
@@ -108,7 +108,7 @@
     },
     {
       "k": "Images missing alt text (current HTML)",
-      "v": "103",
+      "v": "71",
       "c": "#E87E22"
     },
     {
@@ -125,11 +125,7 @@
   "qa_fail_breakdown": [
     {
       "k": "Orphan page",
-      "n": 11
-    },
-    {
-      "k": "Duplicate content < 85% similarity",
-      "n": 3
+      "n": 9
     },
     {
       "k": "Exactly one H1 in current HTML",
@@ -137,44 +133,36 @@
     }
   ],
   "pipeline_stats": {
-    "pages_published": 14,
+    "pages_published": 15,
     "pages_crawled": 21,
-    "qa_first_pass_rate": 29,
-    "qa_failed_first_pass": 15,
+    "qa_first_pass_rate": 33,
+    "qa_failed_first_pass": 14,
     "qa_total_first_pass": 21
   },
   "action_queue": [
     {
       "s": "High",
       "c": "#D93A3A",
-      "t": "11 page(s) have zero inbound internal links in server HTML",
-      "p": "https://testing.darwix.ai/idn/privacy-policy, https://testing.darwix.ai/idn/terms-and-conditions, https://testing.darwix.ai/pivc + 8 more",
+      "t": "9 page(s) have zero inbound internal links in server HTML",
+      "p": "https://testing.darwix.ai/pivc, https://testing.darwix.ai/telemedi-assist, https://testing.darwix.ai/life-insurance-proposal-automation + 6 more",
       "o": "Technical SEO QA",
       "term": "Orphan Pages"
     },
     {
       "s": "High",
       "c": "#D93A3A",
-      "t": "21 page(s) have no server-rendered schema markup",
-      "p": "https://testing.darwix.ai, https://testing.darwix.ai/about, https://testing.darwix.ai/compliance + 18 more",
+      "t": "19 page(s) have no server-rendered schema markup",
+      "p": "https://testing.darwix.ai, https://testing.darwix.ai/about, https://testing.darwix.ai/compliance + 16 more",
       "o": "Page Generation",
       "term": "Schema Markup"
     },
     {
       "s": "Medium",
       "c": "#E87E22",
-      "t": "103 image(s) across the site are missing alt text",
+      "t": "71 image(s) across the site are missing alt text",
       "p": "site-wide",
       "o": "Page Generation",
       "term": "Image Alt Text"
-    },
-    {
-      "s": "Medium",
-      "c": "#E87E22",
-      "t": "3 page(s) have titles/descriptions overlapping another page by 85%+",
-      "p": "https://testing.darwix.ai, https://testing.darwix.ai/idn/privacy-policy, https://testing.darwix.ai/idn/terms-and-conditions",
-      "o": "Technical SEO QA",
-      "term": "Duplicate Content"
     },
     {
       "s": "Low",

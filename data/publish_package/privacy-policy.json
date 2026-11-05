@@ -2,19 +2,19 @@
   "url": "https://testing.darwix.ai/privacy-policy",
   "diff": {
     "title": {
-      "from": "Privacy Policy | Darwix AI Data & User Information Policy",
-      "to": "Privacy Policy: Data Protection in BFSI Compliance"
+      "from": "Privacy Policy in BFSI: Understanding Key Practices",
+      "to": "Privacy Policy in BFSI: Understanding Key Practices"
     },
     "meta_description": {
-      "from": "Read how Darwix AI collects, uses, and protects personal data, including your rights, security practices, and compliance with data protection laws.",
-      "to": "Learn about our privacy policy, data collection practices, user rights, and how we ensure compliance with BFSI regulations."
+      "from": "Explore the significance of a privacy policy and its crucial aspects in BFSI, covering user rights, data security measures, and compliance.",
+      "to": "Explore how a strong privacy policy in BFSI enhances compliance and customer trust. Learn about regulations, data protection, and best practices."
     },
     "h1": {
-      "from": "Privacy Policy",
-      "to": "Understanding Our Privacy Policy"
+      "from": "Understanding the Privacy Policy in BFSI",
+      "to": "Privacy Policy in BFSI: Understanding Key Practices"
     },
     "canonical": {
-      "from": "https://darwix.ai/privacy-policy",
+      "from": "https://testing.darwix.ai/privacy-policy",
       "to": "https://darwix.ai/privacy-policy"
     },
     "schema_blocks_added": 2,
@@ -23,11 +23,11 @@
     "internal_links_added": [
       {
         "href": "https://darwix.ai/",
-        "anchor": "Darwix AI Homepage"
+        "anchor": "Darwix AI"
       },
       {
         "href": "https://darwix.ai/compliance",
-        "anchor": "Compliance Information"
+        "anchor": "compliance insights"
       }
     ]
   }

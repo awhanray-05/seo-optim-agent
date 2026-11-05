@@ -2,19 +2,19 @@
   "url": "https://testing.darwix.ai/terms-and-conditions",
   "diff": {
     "title": {
-      "from": "Terms & Conditions | Darwix AI Platform Usage Terms",
-      "to": "Terms & Conditions for BFSI Professionals"
+      "from": "Terms & Conditions for Financial Services",
+      "to": "Terms & Conditions for Financial Services"
     },
     "meta_description": {
-      "from": "Read Darwix AI’s terms and conditions covering platform access, usage rules, payments, and legal responsibilities for users of our services.",
-      "to": "Explore the terms & conditions for using Darwix AI, including compliance policies, service limitations, and user obligations."
+      "from": "Explore our comprehensive terms & conditions that clarify user rights, data policies, and payment terms specific to BFSI regulations.",
+      "to": "Discover essential terms & conditions for financial services that clarify rights and obligations for clients and providers in the BFSI sector."
     },
     "h1": {
-      "from": "Terms & Conditions",
-      "to": "Terms & Conditions of the Darwix AI Platform"
+      "from": "Terms & Conditions for Users",
+      "to": "Understanding Terms & Conditions for Financial Services"
     },
     "canonical": {
-      "from": "https://darwix.ai/terms-and-conditions",
+      "from": "https://testing.darwix.ai/terms-and-conditions",
       "to": "https://darwix.ai/terms-and-conditions"
     },
     "schema_blocks_added": 2,
@@ -23,11 +23,11 @@
     "internal_links_added": [
       {
         "href": "https://darwix.ai/",
-        "anchor": "Visit Darwix AI"
+        "anchor": "Darwix AI Homepage"
       },
       {
         "href": "https://darwix.ai/compliance",
-        "anchor": "Explore Compliance Policies"
+        "anchor": "Compliance Resources"
       }
     ]
   }

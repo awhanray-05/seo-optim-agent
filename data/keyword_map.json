@@ -183,19 +183,19 @@
     ]
   },
   "https://testing.darwix.ai/privacy-policy": {
-    "primary": "privacy policy",
+    "primary": "privacy policy in bfsi: understanding key practices",
     "secondary": []
   },
   "https://testing.darwix.ai/terms-and-conditions": {
-    "primary": "terms & conditions",
+    "primary": "terms & conditions for financial services",
     "secondary": []
   },
   "https://testing.darwix.ai/idn/privacy-policy": {
-    "primary": "darwix ai",
+    "primary": "privacy policy",
     "secondary": []
   },
   "https://testing.darwix.ai/idn/terms-and-conditions": {
-    "primary": "darwix ai",
+    "primary": "terms & conditions",
     "secondary": []
   },
   "https://testing.darwix.ai/pivc": {

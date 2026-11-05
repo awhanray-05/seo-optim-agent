@@ -2,19 +2,19 @@
   "url": "https://testing.darwix.ai/compliance",
   "diff": {
     "title": {
-      "from": "Darwix AI Compliance | BFSI Regulatory & Data Security",
-      "to": "RBI-compliant AI: Enhancing Compliance in BFSI"
+      "from": "RBI-Compliant AI for BFSI Solutions",
+      "to": "RBI-compliant AI: Transforming BFSI Compliance"
     },
     "meta_description": {
-      "from": "Darwix AI ensures BFSI compliance with RBI, DPDP, and TRAI regulations, offering secure data handling, audit trails, and real-time governance.",
-      "to": "Explore how RBI-compliant AI solutions streamline operations in BFSI, ensuring regulatory adherence and enhancing customer experiences."
+      "from": "Discover how RBI-compliant AI enhances data security and automates compliance checks in the BFSI sector. Learn more now!",
+      "to": "Discover how RBI-compliant AI enhances regulatory adherence and optimizes operations for lenders, insurers, and wealth managers."
     },
     "h1": {
       "from": "Built forWorld'sregulated stack.",
-      "to": "Understanding RBI-compliant AI in BFSI"
+      "to": "RBI-compliant AI: Ensuring Regulatory Adherence in BFSI"
     },
     "canonical": {
-      "from": "https://darwix.ai/compliance",
+      "from": "https://testing.darwix.ai/compliance",
       "to": "https://darwix.ai/compliance"
     },
     "schema_blocks_added": 2,

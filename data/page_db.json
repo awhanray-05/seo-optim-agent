@@ -4,19 +4,19 @@
       "url": "https://testing.darwix.ai",
       "status": 200,
       "error": null,
-      "fetch_ms": 245,
-      "bytes": 153517,
+      "fetch_ms": 235,
+      "bytes": 153951,
       "title": "Darwix AI | Enterprise Omni-Channel Sales AI Platform",
       "meta_description": "Darwix AI is a GenAI-powered omnichannel platform that analyzes and automates sales conversations to improve engagement and drive enterprise revenue.",
-      "canonical": "https://darwix.ai",
+      "canonical": "https://testing.darwix.ai",
       "robots_meta": "index, follow",
       "og": {
         "title": "Darwix AI | Enterprise Omni-Channel Sales AI Platform",
         "description": "Darwix AI is a GenAI-powered omnichannel platform that analyzes and automates sales conversations to improve engagement and drive enterprise revenue.",
-        "url": "https://darwix.ai",
+        "url": "https://testing.darwix.ai",
         "site_name": "Darwix AI",
         "locale": "en_US",
-        "image": "https://darwix.ai/og-image.png",
+        "image": "https://testing.darwix.ai/og-image.png",
         "image:width": "1200",
         "image:height": "630",
         "type": "website"
@@ -25,7 +25,7 @@
         "card": "summary_large_image",
         "title": "Darwix AI | Enterprise Omni-Channel Sales AI Platform",
         "description": "Darwix AI is a GenAI-powered omnichannel platform that analyzes and automates sales conversations to improve engagement and drive enterprise revenue.",
-        "image": "https://darwix.ai/og-image.png"
+        "image": "https://testing.darwix.ai/og-image.png"
       },
       "h1s": [
         "One BFSI brain.Voice Automation, agents, and fieldin lockstep."
@@ -351,27 +351,27 @@
         "conversational intelligence for banks and NBFCs",
         "agentic AI for lending and insurance"
       ],
-      "search_intent": "informational",
+      "search_intent": "commercial",
       "outline_h2s": [
-        "What is an AI Platform for BFSI?",
-        "Benefits of AI in Banking and Financial Services",
+        "Introduction to AI in BFSI",
+        "Key Features of AI Platform",
         "Use Cases in Lending and Insurance",
-        "How Conversational Intelligence Powers Customer Interactions",
-        "The Future of Agentic AI in BFSI"
+        "Benefits for Banks and NBFCs",
+        "Conclusion"
       ],
       "key_points": [
-        "Defines the AI platform for BFSI and its components.",
-        "Highlights how AI enhances efficiency and customer experiences.",
-        "Specific examples of AI applications in lending and insurance sectors.",
-        "Explains the role of conversational intelligence in improving client engagement.",
-        "Discusses future trends and the evolution of AI in financial services."
+        "AI platforms enhance decision-making in BFSI sectors.",
+        "Conversational intelligence streamlines customer interactions.",
+        "Agentic AI automates processes in lending and underwriting.",
+        "Personalized client experiences improve retention rates.",
+        "Data-driven insights boost operational efficiency."
       ],
       "proof_points_needed": [
-        "Case studies of BFSI companies using AI for success.",
-        "Statistics on improved efficiency or customer satisfaction due to AI.",
-        "Expert opinions or forecasts about AI in BFSI."
+        "Case studies of AI implementations in BFSI sectors.",
+        "Statistics on ROI from AI platforms in banking and insurance.",
+        "Examples of improved customer satisfaction metrics."
       ],
-      "notes_for_generation": "Focus on real-world applications of the AI platform in BFSI, particularly in how it facilitates better customer interactions and decision-making processes in lending and insurance. Leverage industry-specific examples and statistics to ground the content, ensuring it aligns with the interests of banks, insurers, and wealth managers."
+      "notes_for_generation": "Focus on specific applications of AI in BFSI, highlighting how an AI platform can transform operations for banks, lenders, and insurers. Use clear examples to illustrate the benefits of conversational intelligence and agentic solutions. Stay within the context of the financial sector."
     },
     "keyword": {
       "primary": "AI platform for BFSI",
@@ -385,22 +385,22 @@
       "related_solutions": [],
       "parent_product": null
     },
-    "status": "qa_failed",
+    "status": "staged_for_publish",
     "proposed": {
-      "title": "AI Platform for BFSI: Revolutionizing Financial Services",
-      "meta_description": "Discover how an AI platform for BFSI enhances efficiency, customer experiences, and more in the banking and financial services industry.",
-      "h1": "Understanding the AI Platform for BFSI",
-      "intro_40_60_words": "An AI platform for BFSI integrates cutting-edge technology, enhancing efficiency and customer experiences within banks and financial institutions. This innovative tool leverages conversational intelligence to transform interactions and decision-making processes in lending and insurance sectors, showcasing its vital role in modern finance.",
-      "og_description": "Explore how the AI platform for BFSI is redefining banking and financial services by improving customer interactions and operational efficiencies.",
+      "title": "AI Platform for BFSI: Transforming Financial Services",
+      "meta_description": "Explore how AI platforms enhance decision-making, automate processes, and improve customer satisfaction in banking, lending, and insurance.",
+      "h1": "AI Platform for BFSI: Revolutionizing Financial Services",
+      "intro_40_60_words": "AI platforms are transforming the BFSI sector by enhancing decision-making and automating processes. With applications in lending and insurance, these tools boost operational efficiency and personalize client experiences, ultimately improving retention rates and customer satisfaction.",
+      "og_description": "Discover the impact of AI platforms in the BFSI sector, focusing on conversational intelligence and agentic AI to enhance operations for banks, lenders, and insurers.",
       "cta_label": "Learn More",
       "link_anchor_text": [
         {
           "href": "https://darwix.ai/",
-          "anchor": "Visit Darwix AI for more insights"
+          "anchor": "Visit Darwix AI"
         },
         {
           "href": "https://darwix.ai/compliance",
-          "anchor": "Explore compliance solutions"
+          "anchor": "Explore Compliance Solutions"
         }
       ],
       "canonical": "https://darwix.ai/",
@@ -429,7 +429,7 @@
             {
               "@type": "ListItem",
               "position": 2,
-              "name": "AI Platform for BFSI: Revolutionizing Financial Services",
+              "name": "AI Platform for BFSI: Transforming Financial Services",
               "item": "https://testing.darwix.ai"
             }
           ]
@@ -584,19 +584,19 @@
       "url": "https://testing.darwix.ai/about",
       "status": 200,
       "error": null,
-      "fetch_ms": 232,
-      "bytes": 73889,
-      "title": "About Darwix AI | Agentic AI for BFSI Sales & Operations",
-      "meta_description": "Darwix AI is an agentic AI platform for BFSI that transforms customer conversations into compliant, automated workflows for banks, NBFCs, and insurers.",
-      "canonical": "https://darwix.ai/about",
+      "fetch_ms": 141,
+      "bytes": 74228,
+      "title": "About Darwix AI: Innovating BFSI Solutions",
+      "meta_description": "Learn about Darwix AI, a leader in AI solutions for the BFSI sector, and discover our mission, leadership, and innovative technologies.",
+      "canonical": "https://testing.darwix.ai/about",
       "robots_meta": "index, follow",
       "og": {
-        "title": "About Darwix AI | Agentic AI for BFSI Growth",
-        "description": "Transform BFSI customer conversations into intelligent, compliant workflows with Darwix AI’s agentic AI platform for banks, NBFCs, and insurers.",
-        "url": "https://darwix.ai/about",
+        "title": "About Darwix AI: Innovating BFSI Solutions",
+        "description": "Learn about Darwix AI, a leader in AI solutions for the BFSI sector, and discover our mission, leadership, and innovative technologies.",
+        "url": "https://testing.darwix.ai/about",
         "site_name": "Darwix AI",
         "locale": "en_US",
-        "image": "https://darwix.ai/og-image.png",
+        "image": "https://testing.darwix.ai/og-image.png",
         "image:width": "1200",
         "image:height": "630",
         "type": "website"
@@ -605,7 +605,7 @@
         "card": "summary_large_image",
         "title": "About Darwix AI | Agentic AI for BFSI",
         "description": "Automate BFSI workflows with AI. Turn conversations into compliant, revenue-driving actions using Darwix AI.",
-        "image": "https://darwix.ai/og-image.png"
+        "image": "https://testing.darwix.ai/og-image.png"
       },
       "h1s": [
         "Building the BFSIoperating systemfor the agentic decade."
@@ -947,24 +947,24 @@
       "search_intent": "informational",
       "outline_h2s": [
         "Our Mission",
-        "Innovative Solutions",
         "Leadership Team",
-        "Company History",
-        "Client Success Stories"
+        "Innovative Solutions",
+        "Testimonials",
+        "Join Us"
       ],
       "key_points": [
-        "Darwix AI empowers BFSI sectors with agentic solutions.",
-        "Streamlined operations for banks, insurers, and lenders.",
-        "Innovation at the core of our product offerings.",
-        "Expert leadership with a decade of industry experience.",
-        "Testimonials from key clients in the BFSI space."
+        "Darwix AI aims to revolutionize BFSI sectors through AI-driven solutions.",
+        "Experienced leadership with deep BFSI domain expertise.",
+        "Products designed for lenders, insurers, and wealth managers.",
+        "Real success stories from clients in the banking and finance sectors.",
+        "Open positions in a growing, innovative company."
       ],
       "proof_points_needed": [
-        "Statistics on BFSI sector improvements through our solutions.",
-        "Case studies highlighting successful implementations.",
-        "Profiles or quotations from leadership team members."
+        "Quotes from company leadership about mission and vision.",
+        "Customer testimonials showcasing successful implementations.",
+        "Awards or recognitions received in the BFSI space."
       ],
-      "notes_for_generation": "The content should emphasize Darwix AI's position as a leader in the BFSI industry, detailing its mission, innovative solutions, and expert leadership. Incorporate real-world examples of client success and specify how these services have transformed operations for banks and financial institutions."
+      "notes_for_generation": "This content should highlight Darwix AI’s objectives, leadership team, innovative solutions specific to the BFSI industry, and invite potential employees to learn about career opportunities. Each section should emphasize the company's uniqueness and commitment to transforming finance with AI."
     },
     "keyword": {
       "primary": "about Darwix AI",
@@ -980,20 +980,24 @@
     },
     "status": "staged_for_publish",
     "proposed": {
-      "title": "About Darwix AI - Innovative Solutions for BFSI",
-      "meta_description": "Discover Darwix AI's mission to empower the BFSI sector with innovative solutions and expert leadership for streamlined operations.",
+      "title": "About Darwix AI: Revolutionizing BFSI with AI",
+      "meta_description": "Learn about Darwix AI's mission, leadership, and innovative solutions transforming the BFSI sector. Join our growing team today!",
       "h1": "About Darwix AI",
-      "intro_40_60_words": "Darwix AI empowers the BFSI sectors with innovative agentic solutions that streamline operations for banks, insurers, and lenders. Led by a team with a decade of industry experience, we focus on transforming financial institutions through our expertise and cutting-edge technology.",
-      "og_description": "Explore Darwix AI's commitment to empowering the BFSI industry with innovative solutions and expert leadership. Learn about our mission, history, and client success stories.",
-      "cta_label": "Learn More",
+      "intro_40_60_words": "Darwix AI is committed to revolutionizing the BFSI sectors through AI-driven solutions, led by a seasoned team with extensive domain expertise. Explore our innovative products for lenders and insurers, and discover how you can be part of our mission to transform finance with AI.",
+      "og_description": "Discover Darwix AI's mission, leadership, and innovative solutions shaping the BFSI sector. Our experienced team drives success with AI technology. Join us!",
+      "cta_label": "Explore Career Opportunities",
       "link_anchor_text": [
         {
           "href": "https://darwix.ai/",
-          "anchor": "Visit our website"
+          "anchor": "Learn more about our mission and solutions"
         },
         {
           "href": "https://darwix.ai/compliance",
-          "anchor": "Explore compliance solutions"
+          "anchor": "Check compliance-related insights"
+        },
+        {
+          "href": "https://darwix.ai/",
+          "anchor": "Join our innovative team today"
         }
       ],
       "canonical": "https://darwix.ai/about",
@@ -1027,7 +1031,7 @@
             {
               "@type": "ListItem",
               "position": 3,
-              "name": "About Darwix AI - Innovative Solutions for BFSI",
+              "name": "About Darwix AI: Revolutionizing BFSI with AI",
               "item": "https://testing.darwix.ai/about"
             }
           ]
@@ -1043,19 +1047,19 @@
       "url": "https://testing.darwix.ai/compliance",
       "status": 200,
       "error": null,
-      "fetch_ms": 212,
-      "bytes": 105914,
-      "title": "Darwix AI Compliance | BFSI Regulatory & Data Security",
-      "meta_description": "Darwix AI ensures BFSI compliance with RBI, DPDP, and TRAI regulations, offering secure data handling, audit trails, and real-time governance.",
-      "canonical": "https://darwix.ai/compliance",
+      "fetch_ms": 171,
+      "bytes": 106475,
+      "title": "RBI-Compliant AI for BFSI Solutions",
+      "meta_description": "Discover how RBI-compliant AI enhances data security and automates compliance checks in the BFSI sector. Learn more now!",
+      "canonical": "https://testing.darwix.ai/compliance",
       "robots_meta": "index, follow",
       "og": {
-        "title": "BFSI Compliance & AI Governance Platform",
-        "description": "Ensure regulatory compliance with RBI, DPDP, and TRAI frameworks using Darwix AI’s secure, auditable, and governance-ready platform.",
-        "url": "https://darwix.ai/compliance",
+        "title": "RBI-Compliant AI for BFSI Solutions",
+        "description": "Discover how RBI-compliant AI enhances data security and automates compliance checks in the BFSI sector. Learn more now!",
+        "url": "https://testing.darwix.ai/compliance",
         "site_name": "Darwix AI",
         "locale": "en_US",
-        "image": "https://darwix.ai/og-image.png",
+        "image": "https://testing.darwix.ai/og-image.png",
         "image:width": "1200",
         "image:height": "630",
         "type": "website"
@@ -1064,7 +1068,7 @@
         "card": "summary_large_image",
         "title": "AI Compliance for BFSI | Secure & Audit-Ready",
         "description": "Meet RBI, DPDP, and TRAI compliance with AI built for secure data handling, governance, and audit-ready workflows.",
-        "image": "https://darwix.ai/og-image.png"
+        "image": "https://testing.darwix.ai/og-image.png"
       },
       "h1s": [
         "Built forWorld'sregulated stack."
@@ -1337,28 +1341,27 @@
       ],
       "search_intent": "informational",
       "outline_h2s": [
-        "Understanding RBI Compliance",
-        "The Role of AI in BFSI",
-        "Key Benefits of RBI-compliant AI",
-        "Use Cases in Lending and Banking",
-        "Insurance and Compliance Solutions",
-        "Future of Compliance in BFSI"
+        "Introduction to RBI-compliant AI",
+        "Benefits for Lenders",
+        "Advantages for Insurers",
+        "Wealth Management Applications",
+        "Banking and NBFCs Compliance",
+        "Conclusion"
       ],
       "key_points": [
-        "Importance of RBI compliance for BFSI organizations",
-        "AI solutions that meet RBI guidelines",
-        "How RBI-compliant AI enhances customer experiences",
-        "Specific use cases for lenders and banks",
-        "Regulatory demands in insurance with AI",
-        "Evolution of data security in financial services"
+        "Ensures adherence to RBI regulations for AI systems",
+        "Enhances credibility and trust among customers",
+        "Streamlines compliance processes for lending institutions",
+        "Reduces legal risks for insurance providers",
+        "Optimizes customer interactions through compliant AI solutions",
+        "Facilitates data privacy for wealth managers"
       ],
       "proof_points_needed": [
-        "Examples of RBI-compliant AI implementations",
-        "Statistics on compliance improvements",
-        "Testimonials from BFSI clients",
-        "Comparative analysis with non-compliant systems"
+        "Case studies of BFSI firms using RBI-compliant AI",
+        "Statistics on compliance-related fines or issues",
+        "Testimonials from industry experts or clients"
       ],
-      "notes_for_generation": "Focus on the regulatory aspects of fintech in India, specifically how RBI-compliant AI can streamline operations in BFSI sectors. Discuss the implications of compliance on customer trust and operational efficiency. Emphasize the technological solutions available and their relevance to lenders, insurers, and banks, taking into account current regulations like IRDAI and TRAI."
+      "notes_for_generation": "Highlight how RBI-compliant AI can transform the BFSI industry by focusing on regulatory adherence. Provide specific use cases for each sector, addressing the unique challenges faced by lenders, insurers, wealth managers, banks, and NBFCs. Aim to position the AI solutions as beneficial for compliance without sacrificing performance or customer service."
     },
     "keyword": {
       "primary": "RBI-compliant AI",
@@ -1375,11 +1378,11 @@
     },
     "status": "staged_for_publish",
     "proposed": {
-      "title": "RBI-compliant AI: Enhancing Compliance in BFSI",
-      "meta_description": "Explore how RBI-compliant AI solutions streamline operations in BFSI, ensuring regulatory adherence and enhancing customer experiences.",
-      "h1": "Understanding RBI-compliant AI in BFSI",
-      "intro_40_60_words": "RBI-compliant AI is essential for BFSI organizations, enhancing operational efficiency and customer trust. By meeting RBI guidelines, these AI solutions improve compliance and streamline processes, particularly for lenders and insurers navigating the complexities of regulatory demands.",
-      "og_description": "Discover how RBI-compliant AI can transform the BFSI sector, ensuring adherence to regulations like IRDAI and TRAI while optimizing customer experience and operational efficiency.",
+      "title": "RBI-compliant AI: Transforming BFSI Compliance",
+      "meta_description": "Discover how RBI-compliant AI enhances regulatory adherence and optimizes operations for lenders, insurers, and wealth managers.",
+      "h1": "RBI-compliant AI: Ensuring Regulatory Adherence in BFSI",
+      "intro_40_60_words": "RBI-compliant AI revolutionizes the BFSI industry by ensuring adherence to regulatory standards. It enhances credibility, streamlines compliance processes, and reduces legal risks while optimizing customer interactions, making it essential for lenders, insurers, and wealth managers.",
+      "og_description": "Explore the transformative impact of RBI-compliant AI on the BFSI sector, focusing on compliance, efficiency, and customer interaction optimization.",
       "cta_label": "Learn More",
       "link_anchor_text": [
         {
@@ -1422,7 +1425,7 @@
             {
               "@type": "ListItem",
               "position": 3,
-              "name": "RBI-compliant AI: Enhancing Compliance in BFSI",
+              "name": "RBI-compliant AI: Transforming the BFSI Industry",
               "item": "https://testing.darwix.ai/compliance"
             }
           ]
@@ -1571,19 +1574,19 @@
       "url": "https://testing.darwix.ai/nova",
       "status": 200,
       "error": null,
-      "fetch_ms": 191,
-      "bytes": 100403,
-      "title": "Nova by Darwix AI | In-Store Agentic AI for Retail & BFSI",
-      "meta_description": "Nova is an in-store agentic AI that powers real-time customer conversations, recommendations, and payments across retail, BFSI, and showrooms.",
-      "canonical": "https://darwix.ai/nova",
+      "fetch_ms": 187,
+      "bytes": 101025,
+      "title": "In-Store AI Assistant: Revolutionizing Customer Experience",
+      "meta_description": "Discover how an in-store AI assistant enhances customer interactions and streamlines processes in retail and BFSI branches.",
+      "canonical": "https://testing.darwix.ai/nova",
       "robots_meta": "index, follow",
       "og": {
-        "title": "Nova AI | In-Store AI for Real-Time Customer Engagement",
-        "description": "Nova brings AI to the store floor with real-time conversations, smart recommendations, and instant checkout across kiosks and retail counters.",
-        "url": "https://darwix.ai/nova",
+        "title": "In-Store AI Assistant: Revolutionizing Customer Experience",
+        "description": "Discover how an in-store AI assistant enhances customer interactions and streamlines processes in retail and BFSI branches.",
+        "url": "https://testing.darwix.ai/nova",
         "site_name": "Darwix AI",
         "locale": "en_US",
-        "image": "https://darwix.ai/og-image.png",
+        "image": "https://testing.darwix.ai/og-image.png",
         "image:width": "1200",
         "image:height": "630",
         "type": "website"
@@ -1592,7 +1595,7 @@
         "card": "summary_large_image",
         "title": "Nova AI | AI Assistant for Retail & Storefronts",
         "description": "Real-time AI for stores. Engage customers, recommend products, and complete checkout instantly with Nova.",
-        "image": "https://darwix.ai/og-image.png"
+        "image": "https://testing.darwix.ai/og-image.png"
       },
       "h1s": [
         "Physical AI for the real world.Voice, agents, and fieldin lockstep."
@@ -1848,24 +1851,24 @@
       "search_intent": "informational",
       "outline_h2s": [
         "What is an In-Store AI Assistant?",
-        "Benefits for Retail and BFSI",
-        "Use Cases in Banking and Insurance",
-        "Enhancing Customer Experiences",
-        "Future Trends in In-Store AI"
+        "Benefits of In-Store AI for BFSI",
+        "Use Cases in Banking and Financial Services",
+        "Enhancing Customer Experience with AI",
+        "Future of In-Store AI in Retail"
       ],
       "key_points": [
-        "Definition and functionality of an in-store AI assistant",
-        "Streamlining customer service processes in retail and BFSI branches",
-        "Real-world applications like loan approvals, insurance claims, and investment consultations",
-        "Improving customer satisfaction and operational efficiency",
-        "Emerging technologies shaping the future of in-store AI"
+        "Defines an in-store AI assistant and its purpose.",
+        "Discusses cost savings and efficiency for BFSI sectors.",
+        "Examples of AI kiosks in banks and insurance branches.",
+        "Improves customer service and engagement through AI interaction.",
+        "Explores technological advancements in retail AI solutions."
       ],
       "proof_points_needed": [
-        "Statistics on customer experience improvements with AI assistants",
-        "Case studies from banks and insurers using in-store AI",
-        "Expert opinions on the future of AI in physical retail spaces"
+        "Statistics on customer satisfaction increases with AI utilization.",
+        "Case studies from banks and insurance companies using AI kiosks.",
+        "Recent trends and forecasts in AI usage within retail."
       ],
-      "notes_for_generation": "The content should focus on how in-store AI assistants are transforming the customer experience in retail and BFSI sectors. Discuss their capabilities, practical applications, and the value they bring to customers and businesses. Use specific examples and quantitative data where possible to support claims."
+      "notes_for_generation": "This page should convey how in-store AI assistants can enhance the customer experience specifically in BFSI contexts. It should feature concrete examples and case studies, particularly in banking and insurance, illustrating how these tools optimize service delivery. Highlight the tangible benefits including efficiency gains, cost savings, and improved customer engagement."
     },
     "keyword": {
       "primary": "in-store AI assistant",
@@ -1880,20 +1883,20 @@
     },
     "status": "staged_for_publish",
     "proposed": {
-      "title": "In-Store AI Assistant: Transforming Customer Experience",
-      "meta_description": "Discover how an in-store AI assistant enhances customer experience in retail and BFSI sectors through improved service and efficiency.",
-      "h1": "In-Store AI Assistant: Revolutionizing Retail and BFSI Services",
-      "intro_40_60_words": "An in-store AI assistant transforms customer interactions in retail and BFSI sectors by streamlining service processes and improving operational efficiency. With applications in banking and insurance, these AI-driven solutions boost customer satisfaction and set the stage for future innovations.",
-      "og_description": "Explore the impact of in-store AI assistants on retail and BFSI industries. Understand their benefits, use cases, and what the future holds for AI in customer service.",
-      "cta_label": "Learn More About AI Assistants",
+      "title": "In-Store AI Assistant: Enhancing Customer Experience",
+      "meta_description": "Learn how in-store AI assistants transform customer engagement and efficiency in retail and BFSI sectors, boosting satisfaction and service delivery.",
+      "h1": "In-Store AI Assistant: Transforming Customer Engagement",
+      "intro_40_60_words": "An in-store AI assistant is a transformative technology improving customer interactions in retail and BFSI sectors. It enhances service delivery while driving cost savings and efficiency, making customer experiences more engaging. Discover how AI kiosks are revolutionizing the banking and insurance industries.",
+      "og_description": "Explore how in-store AI assistants enhance customer experiences in BFSI sectors, focusing on efficiency, engagement, and future trends in retail AI solutions.",
+      "cta_label": "Learn More",
       "link_anchor_text": [
         {
           "href": "https://darwix.ai/",
-          "anchor": "Explore Darwix AI"
+          "anchor": "Visit Darwix for more insights"
         },
         {
           "href": "https://darwix.ai/compliance",
-          "anchor": "Learn about Compliance Solutions"
+          "anchor": "Check compliance solutions with AI"
         }
       ],
       "canonical": "https://darwix.ai/nova",
@@ -1927,7 +1930,7 @@
             {
               "@type": "ListItem",
               "position": 3,
-              "name": "In-Store AI Assistant: Transforming Customer Experience",
+              "name": "In-Store AI Assistant: Enhancing Customer Experience",
               "item": "https://testing.darwix.ai/nova"
             }
           ]
@@ -1935,9 +1938,9 @@
         {
           "@context": "https://schema.org",
           "@type": "SoftwareApplication",
-          "name": "In-Store AI Assistant: Transforming Customer Experience",
+          "name": "In-Store AI Assistant: Enhancing Customer Experience",
           "url": "https://testing.darwix.ai/nova",
-          "description": "Discover how an in-store AI assistant enhances customer experience in retail and BFSI sectors through improved service and efficiency.",
+          "description": "Learn how in-store AI assistants transform customer engagement and efficiency in retail and BFSI sectors, boosting satisfaction and service delivery.",
           "applicationCategory": "BusinessApplication",
           "operatingSystem": "Web"
         }
@@ -2085,19 +2088,19 @@
       "url": "https://testing.darwix.ai/sherpa",
       "status": 200,
       "error": null,
-      "fetch_ms": 166,
-      "bytes": 100608,
+      "fetch_ms": 171,
+      "bytes": 101042,
       "title": "Sherpa by Darwix AI | Wearable AI for BFSI Field Teams",
       "meta_description": "Sherpa is a wearable agentic AI for BFSI field teams, delivering real-time guidance, transcription, auto-KYC, and compliance for banks, NBFCs, and insurers",
-      "canonical": "https://darwix.ai/sherpa",
+      "canonical": "https://testing.darwix.ai/sherpa",
       "robots_meta": "index, follow",
       "og": {
         "title": "Sherpa | Wearable AI for BFSI Field Sales & Compliance",
         "description": "Sherpa is a clip-on wearable AI that guides BFSI field agents in real time with live nudges, transcription, auto-KYC, and compliance scoring.",
-        "url": "https://darwix.ai/sherpa",
+        "url": "https://testing.darwix.ai/sherpa",
         "site_name": "Darwix AI",
         "locale": "en_US",
-        "image": "https://darwix.ai/og-image.png",
+        "image": "https://testing.darwix.ai/og-image.png",
         "image:width": "1200",
         "image:height": "630",
         "type": "website"
@@ -2106,7 +2109,7 @@
         "card": "summary_large_image",
         "title": "Sherpa | AI Copilot for BFSI Field Agents",
         "description": "Real-time AI guidance, compliance scoring, and auto-KYC for BFSI field teams with Sherpa wearable AI.",
-        "image": "https://darwix.ai/og-image.png"
+        "image": "https://testing.darwix.ai/og-image.png"
       },
       "h1s": [
         "The voice in your onground team'sear.",
@@ -2409,27 +2412,27 @@
         "AI assistant for field officers",
         "real-time call coaching for BFSI"
       ],
-      "search_intent": "informational",
+      "search_intent": "commercial",
       "outline_h2s": [
-        "Introduction to Wearable AI",
+        "Overview of Wearable AI",
         "Benefits for BFSI Field Teams",
+        "Real-Time Call Coaching",
         "Use Cases in Banking and Insurance",
-        "Impact on Sales Performance",
-        "Adoption and Implementation"
+        "Getting Started with Sherpa"
       ],
       "key_points": [
-        "Enhances productivity of field sales agents",
-        "Provides real-time insights and coaching",
-        "Transforms customer interactions via AI",
-        "Boosts compliance and data accuracy in sales pitches",
-        "Supports wealth managers in client engagement"
+        "Wearable AI enhances productivity for field sales teams.",
+        "Real-time insights help agents make better decisions on the spot.",
+        "Effective call coaching improves client interactions.",
+        "Application in banks and insurance to boost sales performance.",
+        "Easy integration with existing CRM systems."
       ],
       "proof_points_needed": [
-        "Statistics on increased sales due to AI tools",
-        "Case studies of BFSI companies successfully using wearable AI",
-        "Expert testimonies on field sales performance enhancement"
+        "Case studies showing increased sales performance with wearable AI.",
+        "Statistics on user engagement and productivity enhancements.",
+        "Testimonials from BFSI field teams using Sherpa."
       ],
-      "notes_for_generation": "Focus on specific examples of how wearable AI can assist field sales teams in banking, insurance, and wealth management. Highlight real-time call coaching and benefits of AI assistants for field officers to meet sales targets and enhance customer engagement."
+      "notes_for_generation": "Focus on how wearable AI specifically addresses the challenges faced by field sales teams in the BFSI sector. Highlight practical examples of usage, particularly in real-time coaching scenarios, and draw from existing customer successes to establish credibility."
     },
     "keyword": {
       "primary": "wearable AI for field sales",
@@ -2445,20 +2448,20 @@
     },
     "status": "qa_failed",
     "proposed": {
-      "title": "Wearable AI for Field Sales: Boosting Performance",
-      "meta_description": "Discover how wearable AI enhances field sales for BFSI teams through real-time coaching and insights, transforming customer interactions and improving compliance.",
-      "h1": "Wearable AI for Field Sales: Revolutionizing Your Approach",
-      "intro_40_60_words": "Wearable AI for field sales is transforming how BFSI teams operate. By providing real-time insights and call coaching, it enhances productivity and boosts compliance. This technology supports wealth managers in engaging clients effectively and drives sales performance to meet targets.",
-      "og_description": "Explore the impact of wearable AI for field sales teams in banking and insurance, including real-time coaching, productivity enhancements, and customer engagement strategies.",
-      "cta_label": "Learn More",
+      "title": "Wearable AI for Field Sales: Sherpa Overview",
+      "meta_description": "Discover how wearable AI enhances field sales productivity with real-time coaching for BFSI teams. Boost decision-making and client interactions today!",
+      "h1": "Wearable AI for Field Sales: Enhance Productivity",
+      "intro_40_60_words": "Wearable AI revolutionizes field sales by empowering teams with real-time insights and coaching. Designed for the BFSI sector, Sherpa drives productivity, improves client interactions, and integrates seamlessly with existing CRM systems, ensuring your agents are always at their best.",
+      "og_description": "Explore the benefits of wearable AI for field sales, focusing on real-time insights and effective coaching to enhance productivity and decision-making for BFSI teams.",
+      "cta_label": "Learn More About Sherpa",
       "link_anchor_text": [
         {
           "href": "https://darwix.ai/",
-          "anchor": "Visit Darwix for more insights"
+          "anchor": "Darwix Homepage"
         },
         {
           "href": "https://darwix.ai/compliance",
-          "anchor": "Explore Compliance Solutions"
+          "anchor": "Compliance Solutions"
         }
       ],
       "canonical": "https://darwix.ai/sherpa",
@@ -2492,7 +2495,7 @@
             {
               "@type": "ListItem",
               "position": 3,
-              "name": "Wearable AI for Field Sales: Boosting Performance",
+              "name": "Wearable AI for Field Sales: Sherpa Overview",
               "item": "https://testing.darwix.ai/sherpa"
             }
           ]
@@ -2500,9 +2503,9 @@
         {
           "@context": "https://schema.org",
           "@type": "SoftwareApplication",
-          "name": "Wearable AI for Field Sales: Boosting Performance",
+          "name": "Wearable AI for Field Sales: Sherpa Overview",
           "url": "https://testing.darwix.ai/sherpa",
-          "description": "Discover how wearable AI enhances field sales for BFSI teams through real-time coaching and insights, transforming customer interactions and improving compliance.",
+          "description": "Discover how wearable AI enhances field sales productivity with real-time coaching for BFSI teams. Boost decision-making and client interactions today!",
           "applicationCategory": "BusinessApplication",
           "operatingSystem": "Web"
         }
@@ -2650,19 +2653,19 @@
       "url": "https://testing.darwix.ai/voiceAgent",
       "status": 200,
       "error": null,
-      "fetch_ms": 174,
-      "bytes": 234774,
-      "title": "Darwix Voice Agent | AI Calling for BFSI & Collections",
-      "meta_description": "Darwix Voice Agent automates outbound calls for BFSI, handling objections and triggering actions in real time with scalable AI calling software.",
-      "canonical": "https://darwix.ai/voiceAgent",
+      "fetch_ms": 155,
+      "bytes": 235595,
+      "title": "AI Voice Agent for BFSI: Revolutionizing Client Engagement",
+      "meta_description": "Discover how AI voice agents enhance interactions in BFSI with 24/7 availability, multilingual support, and automated collections for lenders and insurers.",
+      "canonical": "https://testing.darwix.ai/voice-agent",
       "robots_meta": "index, follow",
       "og": {
-        "title": "Darwix Voice Agent | AI Calling at Scale",
-        "description": "Scale outbound calls with AI. Handle objections, automate workflows, and trigger actions instantly with Darwix Voice Agent.",
-        "url": "https://darwix.ai/voiceAgent",
+        "title": "AI Voice Agent for BFSI: Revolutionizing Client Engagement",
+        "description": "Discover how AI voice agents enhance interactions in BFSI with 24/7 availability, multilingual support, and automated collections for lenders and insurers.",
+        "url": "https://testing.darwix.ai/voiceAgent",
         "site_name": "Darwix AI",
         "locale": "en_US",
-        "image": "https://darwix.ai/og-image.png",
+        "image": "https://testing.darwix.ai/og-image.png",
         "image:width": "1200",
         "image:height": "630",
         "type": "website"
@@ -2671,7 +2674,7 @@
         "card": "summary_large_image",
         "title": "AI Voice Agent for Outbound Calls & BFSI",
         "description": "Automate calls, handle objections, and scale outreach with real-time AI voice agents built for BFSI.",
-        "image": "https://darwix.ai/og-image.png"
+        "image": "https://testing.darwix.ai/og-image.png"
       },
       "h1s": [
         "AnAI Agentthat actuallyholds the line"
@@ -3009,27 +3012,27 @@
       ],
       "search_intent": "commercial",
       "outline_h2s": [
-        "Introduction to AI Voice Agents",
+        "Overview of AI Voice Agents",
         "Benefits for Lenders",
-        "Use Cases for Insurers",
-        "Wealth Management Solutions",
-        "Enhanced Banking Experiences",
-        "AI Dialer Efficiency"
+        "Benefits for Insurers",
+        "Benefits for Wealth Managers",
+        "Case Studies",
+        "Conclusion"
       ],
       "key_points": [
-        "AI voice agents automate customer interactions for BFSI sectors.",
-        "Seamlessly communicate in multiple languages like Hindi for diverse customer bases.",
-        "Streamline collections with specialized voice bots for efficient recoveries.",
-        "Lenders can utilize AI dialers to improve lead conversion rates.",
-        "Insurers benefit from personalized customer service handling claims and queries.",
-        "Wealth managers enhance client engagement through proactive communication."
+        "Streamlines client interactions for efficiency",
+        "Reduces operational costs for banks and NBFCs",
+        "Enhances customer experience with personalized calls",
+        "Supports multilingual capabilities, including Hindi",
+        "Automates collection processes effectively",
+        "Integrates seamlessly with existing CRM systems"
       ],
       "proof_points_needed": [
-        "Case studies of BFSI firms using AI voice agents successfully.",
-        "Statistics on AI impact on customer satisfaction in financial services.",
-        "Testimonials from entities using AI outbound calling for collections."
+        "Statistics on reduced call handling time",
+        "Testimonials from BFSI clients using AI voice agents",
+        "Case studies demonstrating ROI from AI deployment"
       ],
-      "notes_for_generation": "Focus on how AI voice agents can transform communication and operational efficiency in the BFSI sector. Highlight specific use cases that resonate with lenders, insurers, and wealth managers, emphasizing measurable benefits such as cost reductions and improved customer satisfaction."
+      "notes_for_generation": "Focus on specific use cases for different BFSI sectors where AI voice agents can play a transformative role. Include examples of how AI agents can enhance customer support and operational efficiency, particularly in lending, insurance, and wealth management. Highlight multilingual support for wider audience reach."
     },
     "keyword": {
       "primary": "AI voice agent for BFSI",
@@ -3046,20 +3049,20 @@
     },
     "status": "staged_for_publish",
     "proposed": {
-      "title": "AI Voice Agent for BFSI - Transform Customer Interactions",
-      "meta_description": "Discover how AI voice agents can streamline communication for BFSI sectors, improving operational efficiency and customer satisfaction.",
-      "h1": "AI Voice Agent for BFSI: Revolutionizing Customer Communication",
-      "intro_40_60_words": "AI voice agents automate customer interactions in the BFSI sector, enhancing operational efficiency. They support multiple languages like Hindi, streamline collections with specialized voice bots, and enable lenders to improve lead conversion rates.",
-      "og_description": "Explore the transformative potential of AI voice agents in the BFSI sector, offering innovative solutions for lenders, insurers, and wealth managers.",
+      "title": "AI Voice Agent for BFSI - Streamline Customer Interactions",
+      "meta_description": "Discover how an AI voice agent for BFSI enhances customer support and efficiency across lending, insurance, and wealth management sectors.",
+      "h1": "AI Voice Agent for BFSI: Transforming Client Interactions",
+      "intro_40_60_words": "An AI voice agent for BFSI streamlines client interactions and enhances customer experience by automating processes in lending, insurance, and wealth management. It reduces operational costs while offering multilingual support, including Hindi, to reach a wider audience effectively.",
+      "og_description": "Explore the transformative impact of AI voice agents in the BFSI sector, facilitating personalized customer interactions and operational efficiency across various financial services.",
       "cta_label": "Learn More",
       "link_anchor_text": [
         {
           "href": "https://darwix.ai/",
-          "anchor": "Discover AI solutions"
+          "anchor": "Visit Darwix AI"
         },
         {
           "href": "https://darwix.ai/compliance",
-          "anchor": "Compliance resources"
+          "anchor": "Compliance Solutions"
         }
       ],
       "canonical": "https://darwix.ai/voice-agent",
@@ -3093,7 +3096,7 @@
             {
               "@type": "ListItem",
               "position": 3,
-              "name": "AI Voice Agent for BFSI - Transform Customer Interactions",
+              "name": "AI Voice Agent for BFSI - Streamline Customer Interactions",
               "item": "https://testing.darwix.ai/voiceAgent"
             }
           ]
@@ -3101,9 +3104,9 @@
         {
           "@context": "https://schema.org",
           "@type": "SoftwareApplication",
-          "name": "AI Voice Agent for BFSI - Transform Customer Interactions",
+          "name": "AI Voice Agent for BFSI - Streamline Customer Interactions",
           "url": "https://testing.darwix.ai/voiceAgent",
-          "description": "Discover how AI voice agents can streamline communication for BFSI sectors, improving operational efficiency and customer satisfaction.",
+          "description": "Discover how an AI voice agent for BFSI enhances customer support and efficiency across lending, insurance, and wealth management sectors.",
           "applicationCategory": "BusinessApplication",
           "operatingSystem": "Web"
         }
@@ -3161,8 +3164,8 @@
       "url": "https://testing.darwix.ai/voiceAgent/library",
       "status": 200,
       "error": null,
-      "fetch_ms": 181,
-      "bytes": 165666,
+      "fetch_ms": 157,
+      "bytes": 166068,
       "title": "Voice Playground | Darwix AI",
       "meta_description": "Interactive voice agent playground for testing and demonstration.",
       "canonical": null,
@@ -3170,13 +3173,13 @@
       "og": {
         "title": "Voice Playground | Darwix AI",
         "description": "Interactive voice agent playground for testing and demonstration.",
-        "image": "https://darwix.ai/images/darwixlogo.png"
+        "image": "https://testing.darwix.ai/images/darwixlogo.png"
       },
       "twitter": {
         "card": "summary_large_image",
         "title": "Voice Playground | Darwix AI",
         "description": "Interactive voice agent playground for testing and demonstration.",
-        "image": "https://darwix.ai/images/darwixlogo.png"
+        "image": "https://testing.darwix.ai/images/darwixlogo.png"
       },
       "h1s": [],
       "headings": [
@@ -3286,26 +3289,25 @@
       ],
       "search_intent": "informational",
       "outline_h2s": [
-        "Introduction",
-        "Benefits of Using a Voice Agent",
-        "Sample Library Overview",
-        "BFSI Call Demos",
-        "AI Voice Sample Transcripts",
-        "How to Access the Library"
+        "What is a Voice Agent Sample Library?",
+        "Benefits for BFSI Industry",
+        "Types of Samples Available",
+        "Use Cases in Banking and Insurance",
+        "How to Access the Sample Library"
       ],
       "key_points": [
-        "Explore real-time interactions with voice agents",
-        "Understand the advantages of voice-enabled services",
-        "Access a diverse range of samples for BFSI use cases",
-        "Discover specific call demos relevant to lenders and insurers",
-        "Find transcripts for AI voice samples to leverage in training"
+        "Definition and purpose of voice agent sample libraries",
+        "Specific applications in lending, insurance, and wealth management",
+        "Variety of sample calls showcasing AI capabilities",
+        "Real-world scenarios for banks, insurers, and NBFCs",
+        "Step-by-step instructions for accessing the library"
       ],
       "proof_points_needed": [
-        "User testimonials on voice agent effectiveness",
-        "Statistics on improvement in customer service via voice agents",
-        "Specific examples of BFSI applications yielding results"
+        "Testimonials from BFSI clients using the library",
+        "Statistics on improved customer interactions through voice agents",
+        "Case studies highlighting successful implementations"
       ],
-      "notes_for_generation": "The content should emphasize practical applications of a voice agent sample library in BFSI, showcasing how lenders, insurers, wealth managers, and banks can benefit. Highlight the unique features of the library, including accessibility and diversity of samples, to address potential users' needs."
+      "notes_for_generation": "Develop engaging content that showcases the importance of the voice agent sample library specific to BFSI use cases. Include examples of how lenders, insurers, and banks can leverage these samples to enhance their services. The tone should be informative and make a strong case for the practical applications and benefits of AI voice technology in the sector."
     },
     "keyword": {
       "primary": "voice agent sample library",
@@ -3321,20 +3323,20 @@
     },
     "status": "qa_failed",
     "proposed": {
-      "title": "Voice Agent Sample Library for BFSI Use",
-      "meta_description": "Discover the voice agent sample library tailored for BFSI applications, with demos and transcripts to enhance your customer service.",
-      "h1": "Voice Agent Sample Library: Enhance BFSI Applications",
-      "intro_40_60_words": "Explore our voice agent sample library designed specifically for BFSI. Access real-time interactions, diverse call demos, and transcripts that empower lenders and insurers to leverage voice technology effectively.",
-      "og_description": "Unlock the potential of voice technology through our sample library designed for the BFSI sector. Discover demos, transcripts, and more to enhance your services.",
-      "cta_label": "Explore the Library",
+      "title": "Voice Agent Sample Library for BFSI",
+      "meta_description": "Discover the voice agent sample library, enhancing interactions for BFSI. Access demos, transcripts, and learn about AI applications today!",
+      "h1": "Explore the Voice Agent Sample Library",
+      "intro_40_60_words": "A voice agent sample library showcases AI capabilities designed specifically for the BFSI industry. It offers diverse call samples, real-world scenarios, and demonstrates how lending, insurance, and wealth management sectors can enhance customer interactions through innovative voice technology.",
+      "og_description": "Unlock the potential of AI with our voice agent sample library, tailored for the BFSI sector. Explore samples, access transcripts, and enhance customer service today!",
+      "cta_label": "Access the Sample Library",
       "link_anchor_text": [
         {
           "href": "https://darwix.ai/",
-          "anchor": "Learn more about our services"
+          "anchor": "Darwix AI homepage"
         },
         {
           "href": "https://darwix.ai/compliance",
-          "anchor": "Check our compliance features"
+          "anchor": "Compliance and Best Practices"
         }
       ],
       "canonical": "https://darwix.ai/voice-agent/library",
@@ -3373,7 +3375,7 @@
             {
               "@type": "ListItem",
               "position": 4,
-              "name": "Voice Agent Sample Library for BFSI Use",
+              "name": "Voice Agent Sample Library for BFSI",
               "item": "https://testing.darwix.ai/voiceAgent/library"
             }
           ]
@@ -3381,9 +3383,9 @@
         {
           "@context": "https://schema.org",
           "@type": "SoftwareApplication",
-          "name": "Voice Agent Sample Library for BFSI Use",
+          "name": "Voice Agent Sample Library for BFSI",
           "url": "https://testing.darwix.ai/voiceAgent/library",
-          "description": "Discover the voice agent sample library tailored for BFSI applications, with demos and transcripts to enhance your customer service.",
+          "description": "Discover the voice agent sample library, enhancing interactions for BFSI. Access demos, transcripts, and learn about AI applications today!",
           "applicationCategory": "BusinessApplication",
           "operatingSystem": "Web"
         }
@@ -3398,19 +3400,19 @@
       "url": "https://testing.darwix.ai/nonvoice-agent",
       "status": 200,
       "error": null,
-      "fetch_ms": 182,
-      "bytes": 68993,
-      "title": "Darwix AI Agents | BFSI Workflow & Operations Automation",
-      "meta_description": "Darwix AI agents automate BFSI workflows across CRM, LOS, KYC, and databases, executing actions in real time with high accuracy and zero manual effort.",
-      "canonical": "https://darwix.ai/nonvoice-agent",
+      "fetch_ms": 110,
+      "bytes": 69408,
+      "title": "BFSI Workflow Automation for Enhanced Efficiency",
+      "meta_description": "Transform your BFSI operations with automation to boost productivity, reduce errors, and improve customer service using AI agents.",
+      "canonical": "https://testing.darwix.ai/nonvoice-agent",
       "robots_meta": "index, follow",
       "og": {
-        "title": "AI Agents for BFSI Workflow Automation",
-        "description": "Automate CRM, LOS, KYC, and back-office workflows with AI agents that execute tasks in real time with high accuracy.",
-        "url": "https://darwix.ai/nonvoice-agent",
+        "title": "BFSI Workflow Automation for Enhanced Efficiency",
+        "description": "Transform your BFSI operations with automation to boost productivity, reduce errors, and improve customer service using AI agents.",
+        "url": "https://testing.darwix.ai/nonvoice-agent",
         "site_name": "Darwix AI",
         "locale": "en_US",
-        "image": "https://darwix.ai/og-image.png",
+        "image": "https://testing.darwix.ai/og-image.png",
         "image:width": "1200",
         "image:height": "630",
         "type": "website"
@@ -3419,7 +3421,7 @@
         "card": "summary_large_image",
         "title": "AI Agents for BFSI Operations Automation",
         "description": "Automate workflows across CRM, LOS, and KYC with AI agents that execute tasks instantly and accurately.",
-        "image": "https://darwix.ai/og-image.png"
+        "image": "https://testing.darwix.ai/og-image.png"
       },
       "h1s": [
         "Agents thatnever sleep, never slip, never miss."
@@ -3572,24 +3574,24 @@
       "search_intent": "informational",
       "outline_h2s": [
         "What is BFSI Workflow Automation?",
-        "Benefits for Lenders and Insurers",
-        "Integration with LOS and CRM Systems",
-        "The Role of AI Agents in Loan Operations",
-        "Case Studies and Real-World Applications"
+        "Benefits of BFSI Workflow Automation",
+        "Use Cases in Banking",
+        "Use Cases in Insurance",
+        "Use Cases in Wealth Management",
+        "Challenges and Solutions"
       ],
       "key_points": [
-        "Definition and importance of BFSI workflow automation in financial services.",
-        "Improves efficiency and reduces operational costs for lenders and insurers.",
-        "Seamless integration with existing Loan Origination Systems (LOS) and Customer Relationship Management (CRM) platforms.",
-        "AI agents streamline loan operations, eliminating manual errors and accelerating processing times.",
-        "Examples of banks and NBFCs successfully implementing these technologies."
+        "Streamlines processes in lending, insurance, and wealth management.",
+        "Reduces manual errors and improves precision in operations.",
+        "Enhances customer interaction through AI-driven responses.",
+        "Optimizes resource allocation for financial institutions."
       ],
       "proof_points_needed": [
-        "Statistics on cost savings from workflow automation in BFSI.",
-        "Testimonials from industry leaders using AI in their operations.",
-        "Case studies showcasing improved efficiency in loan processing."
+        "Statistics on efficiency gains through automation in BFSI sectors.",
+        "Case studies showcasing successful BFSI automation implementations.",
+        "Expert testimonials on AI's impact in financial workflows."
       ],
-      "notes_for_generation": "Focus on concrete examples and data related to BFSI use cases. Illustrate how BFSI workflow automation aids various financial sectors, emphasizing the role of AI agents and integration with existing systems. Ensure to appeal to decision-makers in lending, insurance, and banking."
+      "notes_for_generation": "Focus on how BFSI workflow automation, including LOS and CRM automation, significantly enhances operational efficiency for lenders, insurers, and wealth managers. Highlight practical examples and case studies. Keep the tone informative yet engaging to cater to BFSI professionals."
     },
     "keyword": {
       "primary": "BFSI workflow automation",
@@ -3605,20 +3607,20 @@
     },
     "status": "staged_for_publish",
     "proposed": {
-      "title": "BFSI Workflow Automation for Financial Services",
-      "meta_description": "Discover how BFSI workflow automation enhances efficiency and reduces costs in financial services through AI agents and seamless integration.",
+      "title": "BFSI Workflow Automation Explained",
+      "meta_description": "Discover how BFSI workflow automation boosts efficiency in lending, insurance, and wealth management through AI-driven technology.",
       "h1": "Understanding BFSI Workflow Automation",
-      "intro_40_60_words": "BFSI workflow automation is crucial for improving operational efficiency and reducing costs in financial services. By integrating AI agents, lenders and insurers can streamline loan operations, minimize manual errors, and enhance productivity, making it a vital investment for decision-makers in the industry.",
-      "og_description": "Explore the transformative impact of BFSI workflow automation on financial services, focusing on AI agents and integration with LOS and CRM systems.",
+      "intro_40_60_words": "BFSI workflow automation streamlines processes across lending, insurance, and wealth management. By implementing LOS and CRM automation, institutions can reduce manual errors, improve operational precision, and enhance customer interactions through AI-driven responses.",
+      "og_description": "Explore how BFSI workflow automation optimizes resource allocation while significantly improving efficiency for financial institutions. Learn about its benefits and practical use cases.",
       "cta_label": "Learn More",
       "link_anchor_text": [
         {
           "href": "https://darwix.ai/",
-          "anchor": "Discover more about BFSI solutions"
+          "anchor": "Darwix AI"
         },
         {
           "href": "https://darwix.ai/compliance",
-          "anchor": "Explore compliance automation"
+          "anchor": "Compliance Solutions"
         }
       ],
       "canonical": "https://darwix.ai/nonvoice-agent",
@@ -3652,7 +3654,7 @@
             {
               "@type": "ListItem",
               "position": 3,
-              "name": "BFSI Workflow Automation for Financial Services",
+              "name": "BFSI Workflow Automation: Enhancing Efficiency",
               "item": "https://testing.darwix.ai/nonvoice-agent"
             }
           ]
@@ -3660,9 +3662,9 @@
         {
           "@context": "https://schema.org",
           "@type": "SoftwareApplication",
-          "name": "BFSI Workflow Automation for Financial Services",
+          "name": "BFSI Workflow Automation: Enhancing Efficiency",
           "url": "https://testing.darwix.ai/nonvoice-agent",
-          "description": "Discover how BFSI workflow automation enhances efficiency and reduces costs in financial services through AI agents and seamless integration.",
+          "description": "Discover how BFSI workflow automation boosts efficiency in lending, insurance, and wealth management through AI-driven technology.",
           "applicationCategory": "BusinessApplication",
           "operatingSystem": "Web"
         }
@@ -3677,19 +3679,19 @@
       "url": "https://testing.darwix.ai/privacy-policy",
       "status": 200,
       "error": null,
-      "fetch_ms": 137,
-      "bytes": 34941,
-      "title": "Privacy Policy | Darwix AI Data & User Information Policy",
-      "meta_description": "Read how Darwix AI collects, uses, and protects personal data, including your rights, security practices, and compliance with data protection laws.",
-      "canonical": "https://darwix.ai/privacy-policy",
+      "fetch_ms": 125,
+      "bytes": 35521,
+      "title": "Privacy Policy in BFSI: Understanding Key Practices",
+      "meta_description": "Explore the significance of a privacy policy and its crucial aspects in BFSI, covering user rights, data security measures, and compliance.",
+      "canonical": "https://testing.darwix.ai/privacy-policy",
       "robots_meta": "index, follow",
       "og": {
-        "title": "Privacy Policy | Darwix AI",
-        "description": "Learn how Darwix AI collects, uses, and protects your data, including your rights and security practices.",
-        "url": "https://darwix.ai/privacy-policy",
+        "title": "Privacy Policy in BFSI: Understanding Key Practices",
+        "description": "Explore the significance of a privacy policy and its crucial aspects in BFSI, covering user rights, data security measures, and compliance.",
+        "url": "https://testing.darwix.ai/privacy-policy",
         "site_name": "Darwix AI",
         "locale": "en_US",
-        "image": "https://darwix.ai/og-image.png",
+        "image": "https://testing.darwix.ai/og-image.png",
         "image:width": "1200",
         "image:height": "630",
         "type": "website"
@@ -3698,7 +3700,436 @@
         "card": "summary_large_image",
         "title": "Privacy Policy | Darwix AI",
         "description": "Learn how Darwix AI collects, uses, and protects your data and privacy rights.",
-        "image": "https://darwix.ai/og-image.png"
+        "image": "https://testing.darwix.ai/og-image.png"
+      },
+      "h1s": [
+        "Understanding the Privacy Policy in BFSI"
+      ],
+      "headings": [
+        {
+          "tag": "h1",
+          "text": "Understanding the Privacy Policy in BFSI"
+        },
+        {
+          "tag": "h2",
+          "text": "1. PERSONAL INFORMATION"
+        },
+        {
+          "tag": "h2",
+          "text": "2. INFORMATION WE COLLECT"
+        },
+        {
+          "tag": "h2",
+          "text": "3. HOW WE USE COLLECTED INFORMATION"
+        },
+        {
+          "tag": "h2",
+          "text": "4. YOUR RIGHTS"
+        },
+        {
+          "tag": "h2",
+          "text": "5. DATA PROTECTION"
+        },
+        {
+          "tag": "h2",
+          "text": "6. THIRD PARTY WEBSITES"
+        },
+        {
+          "tag": "h2",
+          "text": "7. GRIEVANCES"
+        },
+        {
+          "tag": "h3",
+          "text": "India Office"
+        },
+        {
+          "tag": "h3",
+          "text": "Dubai Office"
+        },
+        {
+          "tag": "h3",
+          "text": "CONTACT"
+        }
+      ],
+      "word_count": 426,
+      "internal_links": [
+        "https://testing.darwix.ai/",
+        "https://testing.darwix.ai/compliance",
+        "https://testing.darwix.ai/about",
+        "https://testing.darwix.ai/privacy-policy",
+        "https://testing.darwix.ai/terms-and-conditions"
+      ],
+      "external_links": [
+        "https://www.linkedin.com/company/darwix-ai/"
+      ],
+      "images": [
+        {
+          "src": "/images/darwix.svg",
+          "alt": "Darwix AI"
+        },
+        {
+          "src": "/images/darwix.svg",
+          "alt": "Darwix AI"
+        },
+        {
+          "src": "/images/iso1.svg",
+          "alt": "ISO Certification"
+        },
+        {
+          "src": "/images/iso2.svg",
+          "alt": "Security Certification"
+        },
+        {
+          "src": "/images/linkedin.svg",
+          "alt": "LinkedIn"
+        }
+      ],
+      "json_ld": [],
+      "has_meta_keywords": false,
+      "lang": "en"
+    },
+    "brief": {
+      "primary_keyword": "privacy policy in bfsi: understanding key practices",
+      "secondary_keywords": [
+        "data protection",
+        "financial services compliance",
+        "customer privacy",
+        "regulatory frameworks",
+        "BFSI privacy standards"
+      ],
+      "search_intent": "informational",
+      "outline_h2s": [
+        "Importance of Privacy Policy",
+        "Regulatory Compliance",
+        "Data Protection Techniques",
+        "Customer Rights",
+        "Best Practices to Implement"
+      ],
+      "key_points": [
+        "Highlight the significance of a robust privacy policy for BFSI entities.",
+        "Discuss crucial regulations like GDPR, CCPA, and their relevance for banks and insurers.",
+        "Explain data encryption, secure data storage, and user consent as protective measures.",
+        "Detail customer rights under privacy laws and how BFSI firms can empower clients.",
+        "Outline steps for BFSI organizations to develop and maintain their privacy policies."
+      ],
+      "proof_points_needed": [
+        "Cite examples of data breaches in BFSI and their impact.",
+        "Include statistics on consumer trust and data privacy perceptions.",
+        "Refer to case studies showcasing compliance success in financial institutions."
+      ],
+      "notes_for_generation": "The content should focus on BFSI-specific scenarios where privacy policies play a critical role. Generate informative copy that defines legal requirements and highlights real-world applications for banks, insurers, and NBFCs. Use industry-specific terminology and present actionable insights."
+    },
+    "keyword": {
+      "primary": "privacy policy in bfsi: understanding key practices",
+      "secondary": []
+    },
+    "sitemap": {
+      "parent": "Legal",
+      "related_solutions": [],
+      "parent_product": null
+    },
+    "status": "staged_for_publish",
+    "proposed": {
+      "title": "Privacy Policy in BFSI: Understanding Key Practices",
+      "meta_description": "Explore how a strong privacy policy in BFSI enhances compliance and customer trust. Learn about regulations, data protection, and best practices.",
+      "h1": "Privacy Policy in BFSI: Understanding Key Practices",
+      "intro_40_60_words": "A robust privacy policy is crucial for BFSI entities to ensure compliance with regulations such as GDPR and CCPA. It safeguards customer privacy, enhances trust, and outlines best practices to manage data protection effectively, from encryption to customer rights.",
+      "og_description": "Discover the importance of a solid privacy policy in the BFSI sector. Learn about compliance, data protection techniques, and how to safeguard customer rights.",
+      "cta_label": "Learn More",
+      "link_anchor_text": [
+        {
+          "href": "https://darwix.ai/",
+          "anchor": "Darwix AI"
+        },
+        {
+          "href": "https://darwix.ai/compliance",
+          "anchor": "compliance insights"
+        }
+      ],
+      "canonical": "https://darwix.ai/privacy-policy",
+      "schema": [
+        {
+          "@context": "https://schema.org",
+          "@type": "Organization",
+          "name": "Darwix AI",
+          "url": "https://darwix.ai/",
+          "logo": "https://darwix.ai/logo.png",
+          "sameAs": [
+            "https://www.linkedin.com/company/darwix-ai"
+          ],
+          "description": "Darwix AI is an agentic AI platform for BFSI sales and operations."
+        },
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://darwix.ai/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Legal"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Privacy Policy in BFSI: Understanding Key Practices",
+              "item": "https://testing.darwix.ai/privacy-policy"
+            }
+          ]
+        }
+      ],
+      "image_alt_fixes": [],
+      "twitter_card": "summary_large_image",
+      "meta_keywords_removed": true
+    }
+  },
+  "https://testing.darwix.ai/terms-and-conditions": {
+    "current": {
+      "url": "https://testing.darwix.ai/terms-and-conditions",
+      "status": 200,
+      "error": null,
+      "fetch_ms": 125,
+      "bytes": 35198,
+      "title": "Terms & Conditions for Financial Services",
+      "meta_description": "Explore our comprehensive terms & conditions that clarify user rights, data policies, and payment terms specific to BFSI regulations.",
+      "canonical": "https://testing.darwix.ai/terms-and-conditions",
+      "robots_meta": "index, follow",
+      "og": {
+        "title": "Terms & Conditions for Financial Services",
+        "description": "Explore our comprehensive terms & conditions that clarify user rights, data policies, and payment terms specific to BFSI regulations.",
+        "url": "https://testing.darwix.ai/terms-and-conditions",
+        "site_name": "Darwix AI",
+        "locale": "en_US",
+        "image": "https://testing.darwix.ai/og-image.png",
+        "image:width": "1200",
+        "image:height": "630",
+        "type": "website"
+      },
+      "twitter": {
+        "card": "summary_large_image",
+        "title": "Terms & Conditions | Darwix AI",
+        "description": "Understand the terms for using Darwix AI services, including access, payments, and responsibilities.",
+        "image": "https://testing.darwix.ai/og-image.png"
+      },
+      "h1s": [
+        "Terms & Conditions for Users"
+      ],
+      "headings": [
+        {
+          "tag": "h1",
+          "text": "Terms & Conditions for Users"
+        },
+        {
+          "tag": "h2",
+          "text": "1. ACCESS AND REGISTRATION"
+        },
+        {
+          "tag": "h2",
+          "text": "2. LICENSE TO USE"
+        },
+        {
+          "tag": "h2",
+          "text": "3. CODE OF CONDUCT"
+        },
+        {
+          "tag": "h2",
+          "text": "4. INTELLECTUAL PROPERTY"
+        },
+        {
+          "tag": "h2",
+          "text": "5. PAYMENTS AND REFUNDS"
+        },
+        {
+          "tag": "h2",
+          "text": "6. DISCLAIMER"
+        },
+        {
+          "tag": "h2",
+          "text": "7. CONTACT US"
+        },
+        {
+          "tag": "h3",
+          "text": "India Office"
+        },
+        {
+          "tag": "h3",
+          "text": "Dubai Office"
+        },
+        {
+          "tag": "h3",
+          "text": "CONTACT"
+        }
+      ],
+      "word_count": 442,
+      "internal_links": [
+        "https://testing.darwix.ai/",
+        "https://testing.darwix.ai/compliance",
+        "https://testing.darwix.ai/about",
+        "https://testing.darwix.ai/privacy-policy",
+        "https://testing.darwix.ai/terms-and-conditions"
+      ],
+      "external_links": [
+        "https://www.linkedin.com/company/darwix-ai/"
+      ],
+      "images": [
+        {
+          "src": "/images/darwix.svg",
+          "alt": "Darwix AI"
+        },
+        {
+          "src": "/images/darwix.svg",
+          "alt": "Darwix AI"
+        },
+        {
+          "src": "/images/iso1.svg",
+          "alt": "ISO Certification"
+        },
+        {
+          "src": "/images/iso2.svg",
+          "alt": "Security Certification"
+        },
+        {
+          "src": "/images/linkedin.svg",
+          "alt": "LinkedIn"
+        }
+      ],
+      "json_ld": [],
+      "has_meta_keywords": false,
+      "lang": "en"
+    },
+    "brief": {
+      "primary_keyword": "terms & conditions for financial services",
+      "secondary_keywords": [
+        "financial agreements",
+        "service terms in finance",
+        "legal terms for banking",
+        "contractual obligations in finance",
+        "terms of service for lenders"
+      ],
+      "search_intent": "informational",
+      "outline_h2s": [
+        "Overview of Terms & Conditions",
+        "Importance of Terms in BFSI",
+        "Key Components of Financial Services Terms",
+        "Understanding Your Rights and Obligations",
+        "How to Access and Accept Terms"
+      ],
+      "key_points": [
+        "Terms set clear expectations for clients in BFSI sectors",
+        "Highlight legal rights and obligations for users and providers",
+        "Include common clauses applicable to banks, insurers, and lenders",
+        "Terms should be easily accessible and understandable for compliance"
+      ],
+      "proof_points_needed": [
+        "Statistical data on user trust related to clear terms",
+        "Examples of disputes arising from unclear terms",
+        "Insights from regulatory bodies on terms & conditions standards"
+      ],
+      "notes_for_generation": "Focus on how terms and conditions affect various players in BFSI including lenders, insurers, and banks. Emphasize transparency, user rights, and compliance. Ensure legal language is simplified for understanding by average users."
+    },
+    "keyword": {
+      "primary": "terms & conditions for financial services",
+      "secondary": []
+    },
+    "sitemap": {
+      "parent": "Legal",
+      "related_solutions": [],
+      "parent_product": null
+    },
+    "status": "staged_for_publish",
+    "proposed": {
+      "title": "Terms & Conditions for Financial Services",
+      "meta_description": "Discover essential terms & conditions for financial services that clarify rights and obligations for clients and providers in the BFSI sector.",
+      "h1": "Understanding Terms & Conditions for Financial Services",
+      "intro_40_60_words": "Terms & conditions in financial services are crucial for establishing clear expectations and legal obligations for clients and providers. They ensure transparency and compliance, safeguarding users' rights within the BFSI sector. Understanding these terms can prevent disputes and enhance trust between lenders, insurers, and banks.",
+      "og_description": "Explore the importance of terms & conditions in financial services, their role in defining rights and obligations for clients and financial providers, and how they contribute to transparency and compliance.",
+      "cta_label": "Learn More",
+      "link_anchor_text": [
+        {
+          "href": "https://darwix.ai/",
+          "anchor": "Darwix AI Homepage"
+        },
+        {
+          "href": "https://darwix.ai/compliance",
+          "anchor": "Compliance Resources"
+        }
+      ],
+      "canonical": "https://darwix.ai/terms-and-conditions",
+      "schema": [
+        {
+          "@context": "https://schema.org",
+          "@type": "Organization",
+          "name": "Darwix AI",
+          "url": "https://darwix.ai/",
+          "logo": "https://darwix.ai/logo.png",
+          "sameAs": [
+            "https://www.linkedin.com/company/darwix-ai"
+          ],
+          "description": "Darwix AI is an agentic AI platform for BFSI sales and operations."
+        },
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://darwix.ai/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Legal"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Terms & Conditions for Financial Services",
+              "item": "https://testing.darwix.ai/terms-and-conditions"
+            }
+          ]
+        }
+      ],
+      "image_alt_fixes": [],
+      "twitter_card": "summary_large_image",
+      "meta_keywords_removed": true
+    }
+  },
+  "https://testing.darwix.ai/idn/privacy-policy": {
+    "current": {
+      "url": "https://testing.darwix.ai/idn/privacy-policy",
+      "status": 200,
+      "error": null,
+      "fetch_ms": 125,
+      "bytes": 50045,
+      "title": "Privacy Policy | Darwix AI Indonesia Data Protection | Darwix AI Indonesia",
+      "meta_description": "How Darwix AI Indonesia collects, uses, and protects personal data under UU PDP, including user rights, security practices, and grievance channels.",
+      "canonical": "https://testing.darwix.ai/idn/privacy-policy",
+      "robots_meta": "index, follow",
+      "og": {
+        "title": "Privacy Policy | Darwix AI Indonesia",
+        "description": "Learn how Darwix AI Indonesia collects, uses, and protects personal data under UU PDP.",
+        "url": "https://testing.darwix.ai/idn/privacy-policy",
+        "site_name": "Darwix AI Indonesia",
+        "locale": "id_ID",
+        "image": "https://testing.darwix.ai/og-image.png",
+        "image:width": "1200",
+        "image:height": "630",
+        "image:alt": "Privacy Policy | Darwix AI Indonesia",
+        "locale:alternate": "en_US",
+        "type": "website"
+      },
+      "twitter": {
+        "card": "summary_large_image",
+        "title": "Privacy Policy | Darwix AI Indonesia",
+        "description": "Data protection practices and privacy rights for Darwix AI Indonesia users.",
+        "image": "https://testing.darwix.ai/og-image.png"
       },
       "h1s": [
         "Privacy Policy"
@@ -3749,11 +4180,18 @@
           "text": "CONTACT"
         }
       ],
-      "word_count": 422,
+      "word_count": 705,
       "internal_links": [
         "https://testing.darwix.ai/",
         "https://testing.darwix.ai/compliance",
         "https://testing.darwix.ai/about",
+        "https://testing.darwix.ai/idn",
+        "https://testing.darwix.ai/idn/voiceAgent-ind",
+        "https://testing.darwix.ai/idn/nonvoice-agent-ind",
+        "https://testing.darwix.ai/idn/sherpa-ind",
+        "https://testing.darwix.ai/idn/compliance-ind",
+        "https://testing.darwix.ai/idn/privacy-policy",
+        "https://testing.darwix.ai/idn/terms-and-conditions",
         "https://testing.darwix.ai/privacy-policy",
         "https://testing.darwix.ai/terms-and-conditions"
       ],
@@ -3761,6 +4199,14 @@
         "https://www.linkedin.com/company/darwix-ai/"
       ],
       "images": [
+        {
+          "src": "/images/darwix.svg",
+          "alt": "Darwix AI"
+        },
+        {
+          "src": "/images/darwix.svg",
+          "alt": "Darwix AI"
+        },
         {
           "src": "/images/darwix.svg",
           "alt": "Darwix AI"
@@ -3782,69 +4228,85 @@
           "alt": "LinkedIn"
         }
       ],
-      "json_ld": [],
-      "has_meta_keywords": false,
+      "json_ld": [
+        {
+          "@context": "https://schema.org",
+          "@type": "Organization",
+          "name": "Darwix AI Indonesia",
+          "url": "https://testing.darwix.ai/idn",
+          "logo": "https://testing.darwix.ai/logo.png",
+          "description": "GenAI platform for Indonesian multifinance — voice automation, agentic workflows, and Sherpa field intelligence with OJK and UU PDP alignment.",
+          "areaServed": {
+            "@type": "Country",
+            "name": "Indonesia"
+          },
+          "sameAs": [
+            "https://www.linkedin.com/company/darwix-ai"
+          ]
+        }
+      ],
+      "has_meta_keywords": true,
       "lang": "en"
     },
     "brief": {
       "primary_keyword": "privacy policy",
       "secondary_keywords": [
         "data protection",
-        "BFSI compliance",
-        "user information security",
-        "financial services privacy rules"
+        "compliance",
+        "BFSI regulations",
+        "user rights",
+        "data security"
       ],
       "search_intent": "informational",
       "outline_h2s": [
-        "Introduction to Privacy Policy",
-        "Data Collection Practices",
-        "User Rights and Data Protection",
+        "Importance of Privacy Policy",
         "Compliance with BFSI Regulations",
-        "Changes to the Privacy Policy"
+        "User Rights and Transparency",
+        "Data Security Measures",
+        "Updates to Privacy Policy"
       ],
       "key_points": [
-        "Overview of the privacy policy's purpose",
-        "Types of data collected from users",
-        "How banks and insurers utilize data",
-        "User rights concerning their information",
-        "Compliance with GDPR and other financial regulations",
-        "Procedures for policy updates"
+        "Define what a privacy policy is and its relevance to BFSI sectors.",
+        "Highlight the importance of privacy policies for lending, insurance, and bank operations.",
+        "Discuss compliance with regulations like GDPR, CCPA relevant to financial services.",
+        "Explain user rights regarding data access, correction, and deletion in BFSI.",
+        "Outline measures taken to ensure data security in financial transactions."
       ],
       "proof_points_needed": [
-        "Statistics on data breaches in BFSI",
-        "Examples of compliance with regulations",
-        "Testimonials on data security from users"
+        "Statistics on data breaches in BFSI industry.",
+        "Case studies on compliance failures and their impact on companies.",
+        "Examples of user data rights in BFSI and how they are enforced."
       ],
-      "notes_for_generation": "This page should outline the importance of the privacy policy within the BFSI sector, emphasizing compliance with regulations and best practices in data protection. Include specific use cases where data privacy directly impacts lenders, insurers, and wealth management services. Ensure clarity on user rights and compliance measures to instill trust and transparency."
+      "notes_for_generation": "Focus on the application of privacy policies specifically in the BFSI sector, including regulations and compliance. Address how these policies protect consumers' data and enhance trust in financial institutions. Use specific industry examples where appropriate."
     },
     "keyword": {
       "primary": "privacy policy",
       "secondary": []
     },
     "sitemap": {
-      "parent": "Legal",
+      "parent": "Unclassified — orphaned from nav",
       "related_solutions": [],
       "parent_product": null
     },
-    "status": "staged_for_publish",
+    "status": "qa_passed",
     "proposed": {
-      "title": "Privacy Policy: Data Protection in BFSI Compliance",
-      "meta_description": "Learn about our privacy policy, data collection practices, user rights, and how we ensure compliance with BFSI regulations.",
-      "h1": "Understanding Our Privacy Policy",
-      "intro_40_60_words": "Our privacy policy outlines our commitment to protecting user information within the BFSI sector. We detail our data collection practices, user rights, and compliance with financial services privacy rules, ensuring transparency and security for all clients.",
-      "og_description": "Discover how our privacy policy safeguards your data and ensures compliance in the BFSI sector. Understand your rights and our practices in data protection.",
-      "cta_label": "Read More About Our Compliance",
+      "title": "Privacy Policy in BFSI: Data Protection and Compliance",
+      "meta_description": "Discover the significance of a privacy policy in the BFSI sector and how it ensures data protection, compliance, and user rights.",
+      "h1": "Understanding Privacy Policy in BFSI Sectors",
+      "intro_40_60_words": "A privacy policy is crucial in the BFSI sector, ensuring compliance with regulations like GDPR and CCPA while safeguarding user rights. It outlines how financial institutions manage data security and protect consumer information, fostering trust and transparency in lending, insurance, and banking operations.",
+      "og_description": "Explore the critical role of a privacy policy in the BFSI industry, focusing on data protection, compliance with regulations, and user rights.",
+      "cta_label": "Learn More",
       "link_anchor_text": [
         {
           "href": "https://darwix.ai/",
-          "anchor": "Darwix AI Homepage"
+          "anchor": "Darwix Homepage"
         },
         {
           "href": "https://darwix.ai/compliance",
-          "anchor": "Compliance Information"
+          "anchor": "Compliance Resources"
         }
       ],
-      "canonical": "https://darwix.ai/privacy-policy",
+      "canonical": "https://darwix.ai/idn/privacy-policy",
       "schema": [
         {
           "@context": "https://schema.org",
@@ -3870,13 +4332,13 @@
             {
               "@type": "ListItem",
               "position": 2,
-              "name": "Legal"
+              "name": "Unclassified — orphaned from nav"
             },
             {
               "@type": "ListItem",
               "position": 3,
-              "name": "Privacy Policy: Data Protection in BFSI Compliance",
-              "item": "https://testing.darwix.ai/privacy-policy"
+              "name": "Privacy Policy in BFSI: Data Protection and Compliance",
+              "item": "https://testing.darwix.ai/idn/privacy-policy"
             }
           ]
         }
@@ -3886,33 +4348,35 @@
       "meta_keywords_removed": true
     }
   },
-  "https://testing.darwix.ai/terms-and-conditions": {
+  "https://testing.darwix.ai/idn/terms-and-conditions": {
     "current": {
-      "url": "https://testing.darwix.ai/terms-and-conditions",
+      "url": "https://testing.darwix.ai/idn/terms-and-conditions",
       "status": 200,
       "error": null,
-      "fetch_ms": 163,
-      "bytes": 34269,
-      "title": "Terms & Conditions | Darwix AI Platform Usage Terms",
-      "meta_description": "Read Darwix AI’s terms and conditions covering platform access, usage rules, payments, and legal responsibilities for users of our services.",
-      "canonical": "https://darwix.ai/terms-and-conditions",
+      "fetch_ms": 171,
+      "bytes": 48305,
+      "title": "Terms & Conditions | Darwix AI Indonesia Platform Usage | Darwix AI Indonesia",
+      "meta_description": "Terms and conditions for Darwix AI Indonesia covering platform access, usage rules, payments, and legal responsibilities for users of our services.",
+      "canonical": "https://testing.darwix.ai/idn/terms-and-conditions",
       "robots_meta": "index, follow",
       "og": {
-        "title": "Terms & Conditions | Darwix AI",
-        "description": "Review Darwix AI’s terms covering platform access, usage rules, and legal responsibilities for users.",
-        "url": "https://darwix.ai/terms-and-conditions",
-        "site_name": "Darwix AI",
-        "locale": "en_US",
-        "image": "https://darwix.ai/og-image.png",
+        "title": "Terms & Conditions | Darwix AI Indonesia",
+        "description": "Review Darwix AI Indonesia’s terms covering platform access, usage rules, and legal responsibilities.",
+        "url": "https://testing.darwix.ai/idn/terms-and-conditions",
+        "site_name": "Darwix AI Indonesia",
+        "locale": "id_ID",
+        "image": "https://testing.darwix.ai/og-image.png",
         "image:width": "1200",
         "image:height": "630",
+        "image:alt": "Terms & Conditions | Darwix AI Indonesia",
+        "locale:alternate": "en_US",
         "type": "website"
       },
       "twitter": {
         "card": "summary_large_image",
-        "title": "Terms & Conditions | Darwix AI",
-        "description": "Understand the terms for using Darwix AI services, including access, payments, and responsibilities.",
-        "image": "https://darwix.ai/og-image.png"
+        "title": "Terms & Conditions | Darwix AI Indonesia",
+        "description": "Understand the terms for using Darwix AI Indonesia services.",
+        "image": "https://testing.darwix.ai/og-image.png"
       },
       "h1s": [
         "Terms & Conditions"
@@ -3963,11 +4427,18 @@
           "text": "CONTACT"
         }
       ],
-      "word_count": 440,
+      "word_count": 681,
       "internal_links": [
         "https://testing.darwix.ai/",
         "https://testing.darwix.ai/compliance",
         "https://testing.darwix.ai/about",
+        "https://testing.darwix.ai/idn",
+        "https://testing.darwix.ai/idn/voiceAgent-ind",
+        "https://testing.darwix.ai/idn/nonvoice-agent-ind",
+        "https://testing.darwix.ai/idn/sherpa-ind",
+        "https://testing.darwix.ai/idn/compliance-ind",
+        "https://testing.darwix.ai/idn/privacy-policy",
+        "https://testing.darwix.ai/idn/terms-and-conditions",
         "https://testing.darwix.ai/privacy-policy",
         "https://testing.darwix.ai/terms-and-conditions"
       ],
@@ -3975,6 +4446,14 @@
         "https://www.linkedin.com/company/darwix-ai/"
       ],
       "images": [
+        {
+          "src": "/images/darwix.svg",
+          "alt": "Darwix AI"
+        },
+        {
+          "src": "/images/darwix.svg",
+          "alt": "Darwix AI"
+        },
         {
           "src": "/images/darwix.svg",
           "alt": "Darwix AI"
@@ -3996,1089 +4475,81 @@
           "alt": "LinkedIn"
         }
       ],
-      "json_ld": [],
-      "has_meta_keywords": false,
+      "json_ld": [
+        {
+          "@context": "https://schema.org",
+          "@type": "Organization",
+          "name": "Darwix AI Indonesia",
+          "url": "https://testing.darwix.ai/idn",
+          "logo": "https://testing.darwix.ai/logo.png",
+          "description": "GenAI platform for Indonesian multifinance — voice automation, agentic workflows, and Sherpa field intelligence with OJK and UU PDP alignment.",
+          "areaServed": {
+            "@type": "Country",
+            "name": "Indonesia"
+          },
+          "sameAs": [
+            "https://www.linkedin.com/company/darwix-ai"
+          ]
+        }
+      ],
+      "has_meta_keywords": true,
       "lang": "en"
     },
     "brief": {
       "primary_keyword": "terms & conditions",
       "secondary_keywords": [
-        "BFSI regulations",
-        "compliance policies",
-        "service agreements"
+        "legal agreement",
+        "user agreement",
+        "service terms"
       ],
       "search_intent": "informational",
       "outline_h2s": [
-        "Introduction",
-        "User Obligations",
-        "Service Limitations",
-        "Compliance with BFSI Regulations",
-        "Updates to Terms & Conditions",
-        "Contact Information"
+        "Introduction to Terms & Conditions",
+        "User Responsibilities",
+        "Limitations of Liability",
+        "Indemnification Clause",
+        "Governing Law and Jurisdiction",
+        "Modifications to Terms"
       ],
       "key_points": [
-        "Outline key responsibilities for users of the Darwix AI platform",
-        "Highlight the limitations of services provided by Darwix AI",
-        "Detail compliance requirements specific to BFSI industries",
-        "Explain how terms may change and how users will be notified",
-        "Provide clear contact info for questions or disputes"
+        "Define what terms & conditions cover in BFSI context.",
+        "Outline user responsibilities for lenders, insurers, and banks.",
+        "Explain limitations of liability relevant to financial services.",
+        "Detail the indemnification protocols for all parties involved.",
+        "Clarify the governing law applicable to users of the platform."
       ],
       "proof_points_needed": [
-        "Specific BFSI regulations that may impact terms",
-        "Examples of compliance policies in the industry",
-        "Statistics on user agreements and liability"
+        "Examples of terms relevant to financial regulation compliance.",
+        "Statistics on user awareness and agreement to terms in BFSI.",
+        "Reference to industry standards for terms & conditions."
       ],
-      "notes_for_generation": "This page should clearly articulate the terms under which BFSI professionals can use the Darwix AI platform. Focus on the unique challenges in the BFSI sector, emphasizing legal compliance and the importance of user responsibilities. Examples and specifics regarding updates should highlight responsiveness to regulatory changes. Keep the language straightforward and ensure it is accessible for banking and finance professionals."
+      "notes_for_generation": "Focus on how terms & conditions specifically apply to the BFSI sector, using concrete examples from lenders, insurers, and wealth managers. The content should clarify users' rights and responsibilities when using the Darwix AI platform, emphasizing legal compliance and risk management."
     },
     "keyword": {
       "primary": "terms & conditions",
       "secondary": []
     },
     "sitemap": {
-      "parent": "Legal",
+      "parent": "Unclassified — orphaned from nav",
       "related_solutions": [],
       "parent_product": null
     },
-    "status": "staged_for_publish",
+    "status": "qa_passed",
     "proposed": {
-      "title": "Terms & Conditions for BFSI Professionals",
-      "meta_description": "Explore the terms & conditions for using Darwix AI, including compliance policies, service limitations, and user obligations.",
-      "h1": "Terms & Conditions of the Darwix AI Platform",
-      "intro_40_60_words": "The terms & conditions outline the responsibilities of Darwix AI users in the BFSI sector. Key topics include user obligations, service limitations, compliance with BFSI regulations, and how updates will be communicated. Understanding these terms is crucial for effective platform utilization.",
-      "og_description": "Discover the terms & conditions applicable to Darwix AI users in the BFSI sector. Learn about compliance policies, service limitations, and user obligations.",
+      "title": "Terms & Conditions for BFSI Sector",
+      "meta_description": "Understand our terms & conditions that govern your use of the Darwix AI platform in the BFSI sector. Stay compliant and informed.",
+      "h1": "Terms & Conditions in the BFSI Sector",
+      "intro_40_60_words": "Explore the essential terms & conditions that shape user agreements in the BFSI sector. This includes responsibilities of lenders, insurers, and banks, along with compliance and risk management insights. Our legal agreement ensures users are aware of their rights and obligations when utilizing our platform.",
+      "og_description": "Discover the specific terms & conditions related to the BFSI sector, including user responsibilities and compliance requirements.",
       "cta_label": "Learn More About Compliance",
       "link_anchor_text": [
         {
           "href": "https://darwix.ai/",
-          "anchor": "Visit Darwix AI"
+          "anchor": "Darwix AI"
         },
         {
           "href": "https://darwix.ai/compliance",
-          "anchor": "Explore Compliance Policies"
-        }
-      ],
-      "canonical": "https://darwix.ai/terms-and-conditions",
-      "schema": [
-        {
-          "@context": "https://schema.org",
-          "@type": "Organization",
-          "name": "Darwix AI",
-          "url": "https://darwix.ai/",
-          "logo": "https://darwix.ai/logo.png",
-          "sameAs": [
-            "https://www.linkedin.com/company/darwix-ai"
-          ],
-          "description": "Darwix AI is an agentic AI platform for BFSI sales and operations."
-        },
-        {
-          "@context": "https://schema.org",
-          "@type": "BreadcrumbList",
-          "itemListElement": [
-            {
-              "@type": "ListItem",
-              "position": 1,
-              "name": "Home",
-              "item": "https://darwix.ai/"
-            },
-            {
-              "@type": "ListItem",
-              "position": 2,
-              "name": "Legal"
-            },
-            {
-              "@type": "ListItem",
-              "position": 3,
-              "name": "Terms & Conditions for BFSI Professionals",
-              "item": "https://testing.darwix.ai/terms-and-conditions"
-            }
-          ]
-        }
-      ],
-      "image_alt_fixes": [],
-      "twitter_card": "summary_large_image",
-      "meta_keywords_removed": true
-    }
-  },
-  "https://testing.darwix.ai/idn/privacy-policy": {
-    "current": {
-      "url": "https://testing.darwix.ai/idn/privacy-policy",
-      "status": 200,
-      "error": null,
-      "fetch_ms": 223,
-      "bytes": 153517,
-      "title": "Darwix AI | Enterprise Omni-Channel Sales AI Platform",
-      "meta_description": "Darwix AI is a GenAI-powered omnichannel platform that analyzes and automates sales conversations to improve engagement and drive enterprise revenue.",
-      "canonical": "https://darwix.ai",
-      "robots_meta": "index, follow",
-      "og": {
-        "title": "Darwix AI | Enterprise Omni-Channel Sales AI Platform",
-        "description": "Darwix AI is a GenAI-powered omnichannel platform that analyzes and automates sales conversations to improve engagement and drive enterprise revenue.",
-        "url": "https://darwix.ai",
-        "site_name": "Darwix AI",
-        "locale": "en_US",
-        "image": "https://darwix.ai/og-image.png",
-        "image:width": "1200",
-        "image:height": "630",
-        "type": "website"
-      },
-      "twitter": {
-        "card": "summary_large_image",
-        "title": "Darwix AI | Enterprise Omni-Channel Sales AI Platform",
-        "description": "Darwix AI is a GenAI-powered omnichannel platform that analyzes and automates sales conversations to improve engagement and drive enterprise revenue.",
-        "image": "https://darwix.ai/og-image.png"
-      },
-      "h1s": [
-        "One BFSI brain.Voice Automation, agents, and fieldin lockstep."
-      ],
-      "headings": [
-        {
-          "tag": "h1",
-          "text": "One BFSI brain.Voice Automation, agents, and fieldin lockstep."
-        },
-        {
-          "tag": "h2",
-          "text": "Omnichannellayers,one proprietary brain."
-        },
-        {
-          "tag": "h3",
-          "text": "Real-time intelligence"
-        },
-        {
-          "tag": "h3",
-          "text": "Agentic suite"
-        },
-        {
-          "tag": "h3",
-          "text": "BFSI Small Language Model"
-        },
-        {
-          "tag": "h2",
-          "text": "One meeting.Multiple actionsfiring simultaneously."
-        },
-        {
-          "tag": "h2",
-          "text": "Each interaction gets sharper fromthe previous experience."
-        },
-        {
-          "tag": "h3",
-          "text": "Voice intent"
-        },
-        {
-          "tag": "h3",
-          "text": "Field nudges"
-        },
-        {
-          "tag": "h3",
-          "text": "Agentic ops"
-        },
-        {
-          "tag": "h3",
-          "text": "SLM flywheel"
-        },
-        {
-          "tag": "h2",
-          "text": "Built for one industry.Tuned to many sub-verticals."
-        },
-        {
-          "tag": "h3",
-          "text": "Home Loan & MSME Underwriting"
-        },
-        {
-          "tag": "h3",
-          "text": "Insurance Customer Profiling"
-        },
-        {
-          "tag": "h3",
-          "text": "Lending · Field Visit & Loan Repayment"
-        },
-        {
-          "tag": "h3",
-          "text": "Asset Verification Visits"
-        },
-        {
-          "tag": "h3",
-          "text": "HNI Wealth Management"
-        },
-        {
-          "tag": "h3",
-          "text": "NPA & Collections"
-        },
-        {
-          "tag": "h3",
-          "text": "Branch Banking Insurance"
-        },
-        {
-          "tag": "h3",
-          "text": "HNI Proposal Creation"
-        },
-        {
-          "tag": "h2",
-          "text": "This is what buys you12x productivityand8x more valueon field."
-        },
-        {
-          "tag": "h2",
-          "text": "Multipleagents. One brain."
-        },
-        {
-          "tag": "h3",
-          "text": "Sherpa"
-        },
-        {
-          "tag": "h3",
-          "text": "Voice Automation"
-        },
-        {
-          "tag": "h3",
-          "text": "Non-Voice Agents"
-        },
-        {
-          "tag": "h3",
-          "text": "Nova"
-        },
-        {
-          "tag": "h2",
-          "text": "One conversation.Every system in motion."
-        },
-        {
-          "tag": "h3",
-          "text": "Sherpa"
-        },
-        {
-          "tag": "h3",
-          "text": "Voice Automation"
-        },
-        {
-          "tag": "h3",
-          "text": "Nova"
-        },
-        {
-          "tag": "h3",
-          "text": "Consumer journey progressed."
-        },
-        {
-          "tag": "h2",
-          "text": "Request aPersonalizedDemo"
-        },
-        {
-          "tag": "h3",
-          "text": "India Office"
-        },
-        {
-          "tag": "h3",
-          "text": "Dubai Office"
-        },
-        {
-          "tag": "h3",
-          "text": "CONTACT"
-        }
-      ],
-      "word_count": 1270,
-      "internal_links": [
-        "https://testing.darwix.ai/",
-        "https://testing.darwix.ai/compliance",
-        "https://testing.darwix.ai/about",
-        "https://testing.darwix.ai/sherpa",
-        "https://testing.darwix.ai/voiceAgent",
-        "https://testing.darwix.ai/nonvoice-agent",
-        "https://testing.darwix.ai/nova",
-        "https://testing.darwix.ai/privacy-policy",
-        "https://testing.darwix.ai/terms-and-conditions"
-      ],
-      "external_links": [
-        "https://www.linkedin.com/company/darwix-ai/"
-      ],
-      "images": [
-        {
-          "src": "/images/darwix.svg",
-          "alt": "Darwix AI"
-        },
-        {
-          "src": "/images/star.svg",
-          "alt": "Star"
-        },
-        {
-          "src": "/images/marLogos/aditya%20birla.svg",
-          "alt": "Aditya Birla"
-        },
-        {
-          "src": "/images/marLogos/emaar.svg",
-          "alt": "Emaar"
-        },
-        {
-          "src": "/images/marLogos/home%20credit.svg",
-          "alt": "Home Credit"
-        },
-        {
-          "src": "/images/marLogos/mashreq.svg",
-          "alt": "Mashreq"
-        },
-        {
-          "src": "/images/marLogos/noor.svg",
-          "alt": "Noor"
-        },
-        {
-          "src": "/images/marLogos/poonawalla.svg",
-          "alt": "Poonawalla"
-        },
-        {
-          "src": "/images/marLogos/arabia.svg",
-          "alt": "Arabia"
-        },
-        {
-          "src": "/images/marLogos/iifl.svg",
-          "alt": "IIFL"
-        },
-        {
-          "src": "/images/marLogos/jm%20finance.svg",
-          "alt": "JM Finance"
-        },
-        {
-          "src": "/images/marLogos/nippon.svg",
-          "alt": "Nippon"
-        },
-        {
-          "src": "/images/marLogos/tata%20capital.svg",
-          "alt": "Tata Capital"
-        },
-        {
-          "src": "/images/marLogos/image%20891.svg",
-          "alt": "Poonawalla"
-        },
-        {
-          "src": "/images/marLogos/image%20892.svg",
-          "alt": "Poonawalla"
-        },
-        {
-          "src": "/images/marLogos/image%20893.svg",
-          "alt": "Poonawalla"
-        },
-        {
-          "src": "/images/marLogos/image%20894.svg",
-          "alt": "Poonawalla"
-        },
-        {
-          "src": "/images/marLogos/image%20895.svg",
-          "alt": "Poonawalla"
-        },
-        {
-          "src": "/images/marLogos/aditya%20birla.svg",
-          "alt": ""
-        },
-        {
-          "src": "/images/marLogos/emaar.svg",
-          "alt": ""
-        },
-        {
-          "src": "/images/marLogos/home%20credit.svg",
-          "alt": ""
-        },
-        {
-          "src": "/images/marLogos/mashreq.svg",
-          "alt": ""
-        },
-        {
-          "src": "/images/marLogos/noor.svg",
-          "alt": ""
-        },
-        {
-          "src": "/images/marLogos/poonawalla.svg",
-          "alt": ""
-        },
-        {
-          "src": "/images/marLogos/arabia.svg",
-          "alt": ""
-        },
-        {
-          "src": "/images/marLogos/iifl.svg",
-          "alt": ""
-        },
-        {
-          "src": "/images/marLogos/jm%20finance.svg",
-          "alt": ""
-        },
-        {
-          "src": "/images/marLogos/nippon.svg",
-          "alt": ""
-        },
-        {
-          "src": "/images/marLogos/tata%20capital.svg",
-          "alt": ""
-        },
-        {
-          "src": "/images/marLogos/image%20891.svg",
-          "alt": ""
-        },
-        {
-          "src": "/images/marLogos/image%20892.svg",
-          "alt": ""
-        },
-        {
-          "src": "/images/marLogos/image%20893.svg",
-          "alt": ""
-        },
-        {
-          "src": "/images/marLogos/image%20894.svg",
-          "alt": ""
-        },
-        {
-          "src": "/images/marLogos/image%20895.svg",
-          "alt": ""
-        },
-        {
-          "src": "/images/darwix.svg",
-          "alt": "Darwix AI"
-        },
-        {
-          "src": "/images/iso1.svg",
-          "alt": "ISO Certification"
-        },
-        {
-          "src": "/images/iso2.svg",
-          "alt": "Security Certification"
-        },
-        {
-          "src": "/images/linkedin.svg",
-          "alt": "LinkedIn"
-        }
-      ],
-      "json_ld": [],
-      "has_meta_keywords": true,
-      "lang": "en"
-    },
-    "brief": {
-      "primary_keyword": "darwix ai",
-      "secondary_keywords": [
-        "BFSI AI",
-        "voice automation",
-        "financial services AI",
-        "insurance technology",
-        "lending solutions"
-      ],
-      "search_intent": "informational",
-      "outline_h2s": [
-        "What is Darwix AI?",
-        "Benefits of Darwix AI in BFSI",
-        "Use Cases of Darwix AI",
-        "Privacy and Security at Darwix AI",
-        "Conclusion"
-      ],
-      "key_points": [
-        "Darwix AI integrates voice automation for seamless customer interactions.",
-        "Optimizes sales processes for lenders, insurers, and wealth managers.",
-        "Enhances decision-making with data-driven insights in banking.",
-        "Prioritizes user privacy with robust security measures."
-      ],
-      "proof_points_needed": [
-        "Case studies showcasing improvements in customer engagement and sales.",
-        "Statistics on efficiency gains from using voice automation in BFSI sectors.",
-        "Quotes from industry experts on AI in financial services."
-      ],
-      "notes_for_generation": "This content brief aims to explain what Darwix AI is, focusing on its applications in the BFSI sector. The narrative should highlight specific benefits and use cases, emphasizing data privacy and security. Ensure that the tone remains informative and authoritative."
-    },
-    "keyword": {
-      "primary": "darwix ai",
-      "secondary": []
-    },
-    "sitemap": {
-      "parent": "Unclassified — orphaned from nav",
-      "related_solutions": [],
-      "parent_product": null
-    },
-    "status": "qa_failed",
-    "proposed": {
-      "title": "Darwix AI: Revolutionizing BFSI with Voice Automation",
-      "meta_description": "Discover how Darwix AI integrates voice automation to optimize financial services and enhance customer interactions while ensuring privacy.",
-      "h1": "Understanding Darwix AI in Financial Services",
-      "intro_40_60_words": "Darwix AI integrates voice automation to enhance customer interactions in the BFSI sector, optimizing sales processes for lenders, insurers, and wealth managers while prioritizing user privacy with robust security measures. It enables data-driven insights for improved decision-making in banking.",
-      "og_description": "Explore the transformative impact of Darwix AI on the BFSI sector. It leverages voice automation to streamline customer interactions, optimize financial services, and ensure privacy and security.",
-      "cta_label": "Learn More",
-      "link_anchor_text": [
-        {
-          "href": "https://darwix.ai/",
-          "anchor": "Visit Darwix AI"
-        },
-        {
-          "href": "https://darwix.ai/compliance",
-          "anchor": "Read our Compliance Guidelines"
-        }
-      ],
-      "canonical": "https://darwix.ai/idn/privacy-policy",
-      "schema": [
-        {
-          "@context": "https://schema.org",
-          "@type": "Organization",
-          "name": "Darwix AI",
-          "url": "https://darwix.ai/",
-          "logo": "https://darwix.ai/logo.png",
-          "sameAs": [
-            "https://www.linkedin.com/company/darwix-ai"
-          ],
-          "description": "Darwix AI is an agentic AI platform for BFSI sales and operations."
-        },
-        {
-          "@context": "https://schema.org",
-          "@type": "BreadcrumbList",
-          "itemListElement": [
-            {
-              "@type": "ListItem",
-              "position": 1,
-              "name": "Home",
-              "item": "https://darwix.ai/"
-            },
-            {
-              "@type": "ListItem",
-              "position": 2,
-              "name": "Unclassified — orphaned from nav"
-            },
-            {
-              "@type": "ListItem",
-              "position": 3,
-              "name": "Darwix AI: Revolutionizing BFSI with Voice Automation",
-              "item": "https://testing.darwix.ai/idn/privacy-policy"
-            }
-          ]
-        }
-      ],
-      "image_alt_fixes": [
-        {
-          "src": "/images/marLogos/poonawalla.svg",
-          "old_alt": "Poonawalla",
-          "new_alt": "poonawalla — darwix ai",
-          "needs_human_confirmation": true
-        },
-        {
-          "src": "/images/marLogos/image%20891.svg",
-          "old_alt": "Poonawalla",
-          "new_alt": "image%20891 — darwix ai",
-          "needs_human_confirmation": true
-        },
-        {
-          "src": "/images/marLogos/image%20892.svg",
-          "old_alt": "Poonawalla",
-          "new_alt": "image%20892 — darwix ai",
-          "needs_human_confirmation": true
-        },
-        {
-          "src": "/images/marLogos/image%20893.svg",
-          "old_alt": "Poonawalla",
-          "new_alt": "image%20893 — darwix ai",
-          "needs_human_confirmation": true
-        },
-        {
-          "src": "/images/marLogos/image%20894.svg",
-          "old_alt": "Poonawalla",
-          "new_alt": "image%20894 — darwix ai",
-          "needs_human_confirmation": true
-        },
-        {
-          "src": "/images/marLogos/image%20895.svg",
-          "old_alt": "Poonawalla",
-          "new_alt": "image%20895 — darwix ai",
-          "needs_human_confirmation": true
-        },
-        {
-          "src": "/images/marLogos/aditya%20birla.svg",
-          "old_alt": "",
-          "new_alt": "aditya%20birla — darwix ai",
-          "needs_human_confirmation": true
-        },
-        {
-          "src": "/images/marLogos/emaar.svg",
-          "old_alt": "",
-          "new_alt": "emaar — darwix ai",
-          "needs_human_confirmation": true
-        },
-        {
-          "src": "/images/marLogos/home%20credit.svg",
-          "old_alt": "",
-          "new_alt": "home%20credit — darwix ai",
-          "needs_human_confirmation": true
-        },
-        {
-          "src": "/images/marLogos/mashreq.svg",
-          "old_alt": "",
-          "new_alt": "mashreq — darwix ai",
-          "needs_human_confirmation": true
-        },
-        {
-          "src": "/images/marLogos/noor.svg",
-          "old_alt": "",
-          "new_alt": "noor — darwix ai",
-          "needs_human_confirmation": true
-        },
-        {
-          "src": "/images/marLogos/poonawalla.svg",
-          "old_alt": "",
-          "new_alt": "poonawalla — darwix ai",
-          "needs_human_confirmation": true
-        },
-        {
-          "src": "/images/marLogos/arabia.svg",
-          "old_alt": "",
-          "new_alt": "arabia — darwix ai",
-          "needs_human_confirmation": true
-        },
-        {
-          "src": "/images/marLogos/iifl.svg",
-          "old_alt": "",
-          "new_alt": "iifl — darwix ai",
-          "needs_human_confirmation": true
-        },
-        {
-          "src": "/images/marLogos/jm%20finance.svg",
-          "old_alt": "",
-          "new_alt": "jm%20finance — darwix ai",
-          "needs_human_confirmation": true
-        },
-        {
-          "src": "/images/marLogos/nippon.svg",
-          "old_alt": "",
-          "new_alt": "nippon — darwix ai",
-          "needs_human_confirmation": true
-        },
-        {
-          "src": "/images/marLogos/tata%20capital.svg",
-          "old_alt": "",
-          "new_alt": "tata%20capital — darwix ai",
-          "needs_human_confirmation": true
-        },
-        {
-          "src": "/images/marLogos/image%20891.svg",
-          "old_alt": "",
-          "new_alt": "image%20891 — darwix ai",
-          "needs_human_confirmation": true
-        },
-        {
-          "src": "/images/marLogos/image%20892.svg",
-          "old_alt": "",
-          "new_alt": "image%20892 — darwix ai",
-          "needs_human_confirmation": true
-        },
-        {
-          "src": "/images/marLogos/image%20893.svg",
-          "old_alt": "",
-          "new_alt": "image%20893 — darwix ai",
-          "needs_human_confirmation": true
-        },
-        {
-          "src": "/images/marLogos/image%20894.svg",
-          "old_alt": "",
-          "new_alt": "image%20894 — darwix ai",
-          "needs_human_confirmation": true
-        },
-        {
-          "src": "/images/marLogos/image%20895.svg",
-          "old_alt": "",
-          "new_alt": "image%20895 — darwix ai",
-          "needs_human_confirmation": true
-        }
-      ],
-      "twitter_card": "summary_large_image",
-      "meta_keywords_removed": true
-    }
-  },
-  "https://testing.darwix.ai/idn/terms-and-conditions": {
-    "current": {
-      "url": "https://testing.darwix.ai/idn/terms-and-conditions",
-      "status": 200,
-      "error": null,
-      "fetch_ms": 265,
-      "bytes": 153517,
-      "title": "Darwix AI | Enterprise Omni-Channel Sales AI Platform",
-      "meta_description": "Darwix AI is a GenAI-powered omnichannel platform that analyzes and automates sales conversations to improve engagement and drive enterprise revenue.",
-      "canonical": "https://darwix.ai",
-      "robots_meta": "index, follow",
-      "og": {
-        "title": "Darwix AI | Enterprise Omni-Channel Sales AI Platform",
-        "description": "Darwix AI is a GenAI-powered omnichannel platform that analyzes and automates sales conversations to improve engagement and drive enterprise revenue.",
-        "url": "https://darwix.ai",
-        "site_name": "Darwix AI",
-        "locale": "en_US",
-        "image": "https://darwix.ai/og-image.png",
-        "image:width": "1200",
-        "image:height": "630",
-        "type": "website"
-      },
-      "twitter": {
-        "card": "summary_large_image",
-        "title": "Darwix AI | Enterprise Omni-Channel Sales AI Platform",
-        "description": "Darwix AI is a GenAI-powered omnichannel platform that analyzes and automates sales conversations to improve engagement and drive enterprise revenue.",
-        "image": "https://darwix.ai/og-image.png"
-      },
-      "h1s": [
-        "One BFSI brain.Voice Automation, agents, and fieldin lockstep."
-      ],
-      "headings": [
-        {
-          "tag": "h1",
-          "text": "One BFSI brain.Voice Automation, agents, and fieldin lockstep."
-        },
-        {
-          "tag": "h2",
-          "text": "Omnichannellayers,one proprietary brain."
-        },
-        {
-          "tag": "h3",
-          "text": "Real-time intelligence"
-        },
-        {
-          "tag": "h3",
-          "text": "Agentic suite"
-        },
-        {
-          "tag": "h3",
-          "text": "BFSI Small Language Model"
-        },
-        {
-          "tag": "h2",
-          "text": "One meeting.Multiple actionsfiring simultaneously."
-        },
-        {
-          "tag": "h2",
-          "text": "Each interaction gets sharper fromthe previous experience."
-        },
-        {
-          "tag": "h3",
-          "text": "Voice intent"
-        },
-        {
-          "tag": "h3",
-          "text": "Field nudges"
-        },
-        {
-          "tag": "h3",
-          "text": "Agentic ops"
-        },
-        {
-          "tag": "h3",
-          "text": "SLM flywheel"
-        },
-        {
-          "tag": "h2",
-          "text": "Built for one industry.Tuned to many sub-verticals."
-        },
-        {
-          "tag": "h3",
-          "text": "Home Loan & MSME Underwriting"
-        },
-        {
-          "tag": "h3",
-          "text": "Insurance Customer Profiling"
-        },
-        {
-          "tag": "h3",
-          "text": "Lending · Field Visit & Loan Repayment"
-        },
-        {
-          "tag": "h3",
-          "text": "Asset Verification Visits"
-        },
-        {
-          "tag": "h3",
-          "text": "HNI Wealth Management"
-        },
-        {
-          "tag": "h3",
-          "text": "NPA & Collections"
-        },
-        {
-          "tag": "h3",
-          "text": "Branch Banking Insurance"
-        },
-        {
-          "tag": "h3",
-          "text": "HNI Proposal Creation"
-        },
-        {
-          "tag": "h2",
-          "text": "This is what buys you12x productivityand8x more valueon field."
-        },
-        {
-          "tag": "h2",
-          "text": "Multipleagents. One brain."
-        },
-        {
-          "tag": "h3",
-          "text": "Sherpa"
-        },
-        {
-          "tag": "h3",
-          "text": "Voice Automation"
-        },
-        {
-          "tag": "h3",
-          "text": "Non-Voice Agents"
-        },
-        {
-          "tag": "h3",
-          "text": "Nova"
-        },
-        {
-          "tag": "h2",
-          "text": "One conversation.Every system in motion."
-        },
-        {
-          "tag": "h3",
-          "text": "Sherpa"
-        },
-        {
-          "tag": "h3",
-          "text": "Voice Automation"
-        },
-        {
-          "tag": "h3",
-          "text": "Nova"
-        },
-        {
-          "tag": "h3",
-          "text": "Consumer journey progressed."
-        },
-        {
-          "tag": "h2",
-          "text": "Request aPersonalizedDemo"
-        },
-        {
-          "tag": "h3",
-          "text": "India Office"
-        },
-        {
-          "tag": "h3",
-          "text": "Dubai Office"
-        },
-        {
-          "tag": "h3",
-          "text": "CONTACT"
-        }
-      ],
-      "word_count": 1270,
-      "internal_links": [
-        "https://testing.darwix.ai/",
-        "https://testing.darwix.ai/compliance",
-        "https://testing.darwix.ai/about",
-        "https://testing.darwix.ai/sherpa",
-        "https://testing.darwix.ai/voiceAgent",
-        "https://testing.darwix.ai/nonvoice-agent",
-        "https://testing.darwix.ai/nova",
-        "https://testing.darwix.ai/privacy-policy",
-        "https://testing.darwix.ai/terms-and-conditions"
-      ],
-      "external_links": [
-        "https://www.linkedin.com/company/darwix-ai/"
-      ],
-      "images": [
-        {
-          "src": "/images/darwix.svg",
-          "alt": "Darwix AI"
-        },
-        {
-          "src": "/images/star.svg",
-          "alt": "Star"
-        },
-        {
-          "src": "/images/marLogos/aditya%20birla.svg",
-          "alt": "Aditya Birla"
-        },
-        {
-          "src": "/images/marLogos/emaar.svg",
-          "alt": "Emaar"
-        },
-        {
-          "src": "/images/marLogos/home%20credit.svg",
-          "alt": "Home Credit"
-        },
-        {
-          "src": "/images/marLogos/mashreq.svg",
-          "alt": "Mashreq"
-        },
-        {
-          "src": "/images/marLogos/noor.svg",
-          "alt": "Noor"
-        },
-        {
-          "src": "/images/marLogos/poonawalla.svg",
-          "alt": "Poonawalla"
-        },
-        {
-          "src": "/images/marLogos/arabia.svg",
-          "alt": "Arabia"
-        },
-        {
-          "src": "/images/marLogos/iifl.svg",
-          "alt": "IIFL"
-        },
-        {
-          "src": "/images/marLogos/jm%20finance.svg",
-          "alt": "JM Finance"
-        },
-        {
-          "src": "/images/marLogos/nippon.svg",
-          "alt": "Nippon"
-        },
-        {
-          "src": "/images/marLogos/tata%20capital.svg",
-          "alt": "Tata Capital"
-        },
-        {
-          "src": "/images/marLogos/image%20891.svg",
-          "alt": "Poonawalla"
-        },
-        {
-          "src": "/images/marLogos/image%20892.svg",
-          "alt": "Poonawalla"
-        },
-        {
-          "src": "/images/marLogos/image%20893.svg",
-          "alt": "Poonawalla"
-        },
-        {
-          "src": "/images/marLogos/image%20894.svg",
-          "alt": "Poonawalla"
-        },
-        {
-          "src": "/images/marLogos/image%20895.svg",
-          "alt": "Poonawalla"
-        },
-        {
-          "src": "/images/marLogos/aditya%20birla.svg",
-          "alt": ""
-        },
-        {
-          "src": "/images/marLogos/emaar.svg",
-          "alt": ""
-        },
-        {
-          "src": "/images/marLogos/home%20credit.svg",
-          "alt": ""
-        },
-        {
-          "src": "/images/marLogos/mashreq.svg",
-          "alt": ""
-        },
-        {
-          "src": "/images/marLogos/noor.svg",
-          "alt": ""
-        },
-        {
-          "src": "/images/marLogos/poonawalla.svg",
-          "alt": ""
-        },
-        {
-          "src": "/images/marLogos/arabia.svg",
-          "alt": ""
-        },
-        {
-          "src": "/images/marLogos/iifl.svg",
-          "alt": ""
-        },
-        {
-          "src": "/images/marLogos/jm%20finance.svg",
-          "alt": ""
-        },
-        {
-          "src": "/images/marLogos/nippon.svg",
-          "alt": ""
-        },
-        {
-          "src": "/images/marLogos/tata%20capital.svg",
-          "alt": ""
-        },
-        {
-          "src": "/images/marLogos/image%20891.svg",
-          "alt": ""
-        },
-        {
-          "src": "/images/marLogos/image%20892.svg",
-          "alt": ""
-        },
-        {
-          "src": "/images/marLogos/image%20893.svg",
-          "alt": ""
-        },
-        {
-          "src": "/images/marLogos/image%20894.svg",
-          "alt": ""
-        },
-        {
-          "src": "/images/marLogos/image%20895.svg",
-          "alt": ""
-        },
-        {
-          "src": "/images/darwix.svg",
-          "alt": "Darwix AI"
-        },
-        {
-          "src": "/images/iso1.svg",
-          "alt": "ISO Certification"
-        },
-        {
-          "src": "/images/iso2.svg",
-          "alt": "Security Certification"
-        },
-        {
-          "src": "/images/linkedin.svg",
-          "alt": "LinkedIn"
-        }
-      ],
-      "json_ld": [],
-      "has_meta_keywords": true,
-      "lang": "en"
-    },
-    "brief": {
-      "primary_keyword": "darwix ai",
-      "secondary_keywords": [
-        "BFSI AI",
-        "financial services AI",
-        "insurance automation",
-        "lending solutions",
-        "wealth management AI"
-      ],
-      "search_intent": "informational",
-      "outline_h2s": [
-        "Introduction to Darwix AI",
-        "Key Features of Darwix AI",
-        "Use Cases in BFSI",
-        "Benefits for Financial Institutions",
-        "Conclusion"
-      ],
-      "key_points": [
-        "Darwix AI integrates voice automation for seamless customer interactions.",
-        "Offers data-driven insights for lenders, insurers, and wealth managers.",
-        "Utilizes machine learning to enhance customer service and operational efficiency.",
-        "Facilitates real-time decision-making in banking and finance.",
-        "Supports compliance and risk management across financial services."
-      ],
-      "proof_points_needed": [
-        "Case studies demonstrating successful implementations in BFSI.",
-        "Statistics on efficiency improvement with Darwix AI.",
-        "Testimonials from financial institutions using the platform."
-      ],
-      "notes_for_generation": "The content should focus on how Darwix AI enhances operations specifically in the BFSI sector, citing concrete use cases in lending, insurance, and wealth management. Emphasize how the platform's features translate to real-world benefits, and ensure the tone is authoritative yet accessible, appealing to financial professionals."
-    },
-    "keyword": {
-      "primary": "darwix ai",
-      "secondary": []
-    },
-    "sitemap": {
-      "parent": "Unclassified — orphaned from nav",
-      "related_solutions": [],
-      "parent_product": null
-    },
-    "status": "qa_failed",
-    "proposed": {
-      "title": "Darwix AI: Transforming BFSI Operations",
-      "meta_description": "Discover how Darwix AI enhances financial services with voice automation, data insights, and compliance support for BFSI sectors.",
-      "h1": "Introduction to Darwix AI in BFSI",
-      "intro_40_60_words": "Darwix AI revolutionizes the BFSI sector by integrating voice automation and machine learning technologies that enhance customer interactions, operational efficiency, and compliance management. This innovative platform supports real-time decision-making, paving the way for successful implementations in lending, insurance, and wealth management.",
-      "og_description": "Explore how Darwix AI empowers financial institutions with cutting-edge solutions, offering seamless customer service and data-driven insights for lending, insurance, and wealth management.",
-      "cta_label": "Learn More",
-      "link_anchor_text": [
-        {
-          "href": "https://darwix.ai/",
-          "anchor": "Visit Darwix AI Homepage"
-        },
-        {
-          "href": "https://darwix.ai/compliance",
-          "anchor": "Explore Compliance Solutions by Darwix AI"
+          "anchor": "compliance information"
         }
       ],
       "canonical": "https://darwix.ai/idn/terms-and-conditions",
@@ -5112,146 +4583,13 @@
             {
               "@type": "ListItem",
               "position": 3,
-              "name": "Darwix AI: Transforming BFSI Operations",
+              "name": "Terms & Conditions: Essential Legal Agreement",
               "item": "https://testing.darwix.ai/idn/terms-and-conditions"
             }
           ]
         }
       ],
-      "image_alt_fixes": [
-        {
-          "src": "/images/marLogos/poonawalla.svg",
-          "old_alt": "Poonawalla",
-          "new_alt": "poonawalla — darwix ai",
-          "needs_human_confirmation": true
-        },
-        {
-          "src": "/images/marLogos/image%20891.svg",
-          "old_alt": "Poonawalla",
-          "new_alt": "image%20891 — darwix ai",
-          "needs_human_confirmation": true
-        },
-        {
-          "src": "/images/marLogos/image%20892.svg",
-          "old_alt": "Poonawalla",
-          "new_alt": "image%20892 — darwix ai",
-          "needs_human_confirmation": true
-        },
-        {
-          "src": "/images/marLogos/image%20893.svg",
-          "old_alt": "Poonawalla",
-          "new_alt": "image%20893 — darwix ai",
-          "needs_human_confirmation": true
-        },
-        {
-          "src": "/images/marLogos/image%20894.svg",
-          "old_alt": "Poonawalla",
-          "new_alt": "image%20894 — darwix ai",
-          "needs_human_confirmation": true
-        },
-        {
-          "src": "/images/marLogos/image%20895.svg",
-          "old_alt": "Poonawalla",
-          "new_alt": "image%20895 — darwix ai",
-          "needs_human_confirmation": true
-        },
-        {
-          "src": "/images/marLogos/aditya%20birla.svg",
-          "old_alt": "",
-          "new_alt": "aditya%20birla — darwix ai",
-          "needs_human_confirmation": true
-        },
-        {
-          "src": "/images/marLogos/emaar.svg",
-          "old_alt": "",
-          "new_alt": "emaar — darwix ai",
-          "needs_human_confirmation": true
-        },
-        {
-          "src": "/images/marLogos/home%20credit.svg",
-          "old_alt": "",
-          "new_alt": "home%20credit — darwix ai",
-          "needs_human_confirmation": true
-        },
-        {
-          "src": "/images/marLogos/mashreq.svg",
-          "old_alt": "",
-          "new_alt": "mashreq — darwix ai",
-          "needs_human_confirmation": true
-        },
-        {
-          "src": "/images/marLogos/noor.svg",
-          "old_alt": "",
-          "new_alt": "noor — darwix ai",
-          "needs_human_confirmation": true
-        },
-        {
-          "src": "/images/marLogos/poonawalla.svg",
-          "old_alt": "",
-          "new_alt": "poonawalla — darwix ai",
-          "needs_human_confirmation": true
-        },
-        {
-          "src": "/images/marLogos/arabia.svg",
-          "old_alt": "",
-          "new_alt": "arabia — darwix ai",
-          "needs_human_confirmation": true
-        },
-        {
-          "src": "/images/marLogos/iifl.svg",
-          "old_alt": "",
-          "new_alt": "iifl — darwix ai",
-          "needs_human_confirmation": true
-        },
-        {
-          "src": "/images/marLogos/jm%20finance.svg",
-          "old_alt": "",
-          "new_alt": "jm%20finance — darwix ai",
-          "needs_human_confirmation": true
-        },
-        {
-          "src": "/images/marLogos/nippon.svg",
-          "old_alt": "",
-          "new_alt": "nippon — darwix ai",
-          "needs_human_confirmation": true
-        },
-        {
-          "src": "/images/marLogos/tata%20capital.svg",
-          "old_alt": "",
-          "new_alt": "tata%20capital — darwix ai",
-          "needs_human_confirmation": true
-        },
-        {
-          "src": "/images/marLogos/image%20891.svg",
-          "old_alt": "",
-          "new_alt": "image%20891 — darwix ai",
-          "needs_human_confirmation": true
-        },
-        {
-          "src": "/images/marLogos/image%20892.svg",
-          "old_alt": "",
-          "new_alt": "image%20892 — darwix ai",
-          "needs_human_confirmation": true
-        },
-        {
-          "src": "/images/marLogos/image%20893.svg",
-          "old_alt": "",
-          "new_alt": "image%20893 — darwix ai",
-          "needs_human_confirmation": true
-        },
-        {
-          "src": "/images/marLogos/image%20894.svg",
-          "old_alt": "",
-          "new_alt": "image%20894 — darwix ai",
-          "needs_human_confirmation": true
-        },
-        {
-          "src": "/images/marLogos/image%20895.svg",
-          "old_alt": "",
-          "new_alt": "image%20895 — darwix ai",
-          "needs_human_confirmation": true
-        }
-      ],
+      "image_alt_fixes": [],
       "twitter_card": "summary_large_image",
       "meta_keywords_removed": true
     }
@@ -5261,19 +4599,19 @@
       "url": "https://testing.darwix.ai/pivc",
       "status": 200,
       "error": null,
-      "fetch_ms": 186,
-      "bytes": 205031,
+      "fetch_ms": 172,
+      "bytes": 205465,
       "title": "Video PIVC Agent | Darwix AI",
       "meta_description": "AI video pre-issuance verification for insurance: confirm identity, policy understanding and consent, and catch mis-selling while the customer is still on the call.",
-      "canonical": "https://darwix.ai/pivc",
+      "canonical": "https://testing.darwix.ai/pivc",
       "robots_meta": "index, follow",
       "og": {
         "title": "Video PIVC Agent | Darwix AI",
         "description": "AI video pre-issuance verification for insurance: confirm identity, policy understanding and consent, and catch mis-selling while the customer is still on the call.",
-        "url": "https://darwix.ai/pivc",
+        "url": "https://testing.darwix.ai/pivc",
         "site_name": "Darwix AI",
         "locale": "en_US",
-        "image": "https://darwix.ai/og-image.png",
+        "image": "https://testing.darwix.ai/og-image.png",
         "image:width": "1200",
         "image:height": "630",
         "type": "website"
@@ -5282,7 +4620,7 @@
         "card": "summary_large_image",
         "title": "Video PIVC Agent | Darwix AI",
         "description": "AI video pre-issuance verification for insurance: confirm identity, policy understanding and consent, and catch mis-selling while the customer is still on the call.",
-        "image": "https://darwix.ai/og-image.png",
+        "image": "https://testing.darwix.ai/og-image.png",
         "image:width": "1200",
         "image:height": "630"
       },
@@ -5621,26 +4959,25 @@
       "search_intent": "informational",
       "outline_h2s": [
         "What is Video PIVC?",
-        "Benefits of Video PIVC in Insurance",
+        "Importance of Video PIVC in Insurance",
+        "How Video PIVC Works",
         "Use Cases for Lenders and Insurers",
-        "How Video PIVC Prevents Mis-Selling",
-        "Advantages for Wealth Managers",
-        "Implementing Video PIVC Solutions"
+        "Benefits of Video PIVC",
+        "Conclusion"
       ],
       "key_points": [
-        "Video PIVC enhances verification processes",
-        "Ensures customer consent in policy issuance",
-        "Helps in identifying and preventing mis-selling",
-        "Lenders gain insights for better risk assessment",
-        "Empowers insurers to streamline underwriting",
-        "Wealth managers use for client engagement and education"
+        "Video PIVC stands for Video Pre-Issuance Verification Call, enhancing customer consent processes.",
+        "Helps in reducing mis-selling by ensuring transparent communication with customers.",
+        "Enables insurers to verify customer identity and validate policy choices instantly.",
+        "Lenders can use Video PIVC to ensure clarity in loan agreements and borrower intent.",
+        "Wealth managers benefit by establishing trust and verifying investment understanding via face-to-face interactions."
       ],
       "proof_points_needed": [
-        "Case studies showing reduced mis-selling incidents",
-        "Statistics on customer satisfaction with PIVC",
-        "Comparative analysis of traditional vs video PIVC effectiveness"
+        "Statistics on customer satisfaction with Video PIVC.",
+        "Case studies demonstrating reduced mis-selling incidents through its implementation.",
+        "Validation from insurance regulators on the efficacy of Video PIVC."
       ],
-      "notes_for_generation": "Focus the content on how video PIVC technology is transforming the insurance industry, highlighting specific use cases for lenders, insurers, and wealth managers. Incorporate practical examples and support claims with data and case studies to build credibility."
+      "notes_for_generation": "Focus on how Video PIVC prevents mis-selling by ensuring that customers fully understand products. Include examples of how lenders, insurers, and wealth managers utilize this technology for better customer engagement and compliance. Emphasize the value it brings in verifying customer identity and promoting a transparent transaction process."
     },
     "keyword": {
       "primary": "video PIVC for insurance",
@@ -5659,12 +4996,12 @@
     },
     "status": "qa_failed",
     "proposed": {
-      "title": "Video PIVC for Insurance: Enhance Verification Processes",
-      "meta_description": "Learn how video PIVC technology is transforming insurance with enhanced verification, consent assurance and mis-selling prevention.",
+      "title": "Video PIVC for Insurance: Enhance Customer Verification",
+      "meta_description": "Discover how Video PIVC enhances transparency in insurance, reduces mis-selling, and improves customer engagement through verification calls.",
       "h1": "Understanding Video PIVC for Insurance",
-      "intro_40_60_words": "Video PIVC, or video pre-issuance verification call, revolutionizes the insurance landscape by ensuring customer consent, enhancing verification processes, and effectively preventing mis-selling. This technology empowers lenders with insights for better risk assessment and enables insurers to streamline underwriting efficiently.",
-      "og_description": "Discover the transformative power of video PIVC in the insurance industry, helping to enhance verification processes and prevent mis-selling.",
-      "cta_label": "Learn More ",
+      "intro_40_60_words": "Video PIVC, or Video Pre-Issuance Verification Call, enhances customer consent processes and reduces mis-selling by ensuring transparent communication. This technology allows insurers to verify identity and validate choices instantly while lenders clarify agreements, benefiting all parties involved.",
+      "og_description": "Learn how Video PIVC is revolutionizing the insurance industry by preventing mis-selling and ensuring transparent processes in customer engagement.",
+      "cta_label": "Learn More About Video PIVC",
       "link_anchor_text": [
         {
           "href": "https://darwix.ai/telemedi-assist",
@@ -5715,7 +5052,7 @@
             {
               "@type": "ListItem",
               "position": 4,
-              "name": "Video PIVC for Insurance: Enhance Verification Processes",
+              "name": "Video PIVC for Insurance: Enhancing Customer Trust",
               "item": "https://testing.darwix.ai/pivc"
             }
           ]
@@ -5723,9 +5060,9 @@
         {
           "@context": "https://schema.org",
           "@type": "SoftwareApplication",
-          "name": "Video PIVC for Insurance: Enhance Verification Processes",
+          "name": "Video PIVC for Insurance: Enhancing Customer Trust",
           "url": "https://testing.darwix.ai/pivc",
-          "description": "Learn how video PIVC technology is transforming insurance with enhanced verification, consent assurance and mis-selling prevention.",
+          "description": "Discover how Video PIVC enhances transparency in insurance, reduces mis-selling, and improves customer engagement through verification calls.",
           "applicationCategory": "BusinessApplication",
           "operatingSystem": "Web"
         }
@@ -5740,19 +5077,19 @@
       "url": "https://testing.darwix.ai/telemedi-assist",
       "status": 200,
       "error": null,
-      "fetch_ms": 193,
-      "bytes": 164421,
+      "fetch_ms": 187,
+      "bytes": 164842,
       "title": "Video Tele-Medicine Assist | Darwix AI",
       "meta_description": "AI assistant for video tele-medicine consultations that captures, structures and completes the clinical and proposal record so the doctor can focus on the patient.",
-      "canonical": "https://darwix.ai/telemedi-assist",
+      "canonical": "https://testing.darwix.ai/telemedi-assist",
       "robots_meta": "index, follow",
       "og": {
         "title": "Video Tele-Medicine Assist | Darwix AI",
         "description": "AI assistant for video tele-medicine consultations that captures, structures and completes the clinical and proposal record so the doctor can focus on the patient.",
-        "url": "https://darwix.ai/telemedi-assist",
+        "url": "https://testing.darwix.ai/telemedi-assist",
         "site_name": "Darwix AI",
         "locale": "en_US",
-        "image": "https://darwix.ai/og-image.png",
+        "image": "https://testing.darwix.ai/og-image.png",
         "image:width": "1200",
         "image:height": "630",
         "type": "website"
@@ -5761,7 +5098,7 @@
         "card": "summary_large_image",
         "title": "Video Tele-Medicine Assist | Darwix AI",
         "description": "AI assistant for video tele-medicine consultations that captures, structures and completes the clinical and proposal record so the doctor can focus on the patient.",
-        "image": "https://darwix.ai/og-image.png",
+        "image": "https://testing.darwix.ai/og-image.png",
         "image:width": "1200",
         "image:height": "630"
       },
@@ -5982,27 +5319,25 @@
       ],
       "search_intent": "informational",
       "outline_h2s": [
-        "What is Tele-Medical Examination AI?",
+        "Overview of Tele-Medical Examination AI",
         "Benefits for Lenders and Insurers",
-        "Enhancing Patient Experience",
-        "Efficiency in Medical Underwriting",
-        "Case Studies and Use Cases",
-        "Future of Tele-Medical Examination AI"
+        "Use Cases for Banks and NBFCs",
+        "Enhancing Medical Underwriting Processes",
+        "Future of Tele-Medical AI in BFSI"
       ],
       "key_points": [
-        "Defines tele-medical examination AI and its features.",
-        "Explains how AI assists in risk assessment for insurers.",
-        "Describes the patient-centric experience during virtual consultations.",
-        "Outlines the efficiency gains for banks and NBFCs in underwriting processes.",
-        "Highlights real-world applications and success stories in BFSI sector."
+        "Streamlines the telemedicine process for insurance medical underwriting.",
+        "Improves accuracy and efficiency in health assessments for lenders.",
+        "Facilitates real-time data analysis and risk assessment for banks.",
+        "Supports claims processing automation for insurance providers.",
+        "Enables personalized medical assessments tailored to individual client profiles."
       ],
       "proof_points_needed": [
-        "Statistics on AI in telemedicine adoption rates",
-        "Examples of reduced underwriting time",
-        "Success stories from BFSI clients utilizing AI",
-        "Graphs showing growth in customer satisfaction scores"
+        "Statistics on reduced processing times using AI in telemedicine.",
+        "Case studies showcasing successful implementation in BFSI firms.",
+        "Data on improved accuracy rates in underwriting assessments."
       ],
-      "notes_for_generation": "The content should focus on how tele-medical examination AI can transform healthcare and insurance landscapes by streamlining processes for lenders, insurers, and wealth managers. Emphasize case studies from BFSI use cases, including the benefits for both providers and consumers, to illustrate effectiveness and real-world application."
+      "notes_for_generation": "The page should emphasize practical applications of tele-medical examination AI within the BFSI sector, highlighting specific benefits for lenders, insurers, and banks. Use concrete examples and success stories to resonate with stakeholders in the industry. Mention current trends and how this technology is poised to evolve, focusing on enhanced customer interactions and streamlined workflows."
     },
     "keyword": {
       "primary": "tele-medical examination AI",
@@ -6020,16 +5355,16 @@
     },
     "status": "qa_failed",
     "proposed": {
-      "title": "Tele-Medical Examination AI: Transforming Insurance",
-      "meta_description": "Discover how tele-medical examination AI enhances insurance underwriting, improves patient experiences, and streamlines processes for lenders and insurers.",
-      "h1": "What is Tele-Medical Examination AI?",
-      "intro_40_60_words": "Tele-medical examination AI revolutionizes healthcare and insurance by streamlining the underwriting process for insurers. As it aids in risk assessment and enhances patient experiences, it stands to substantially improve efficiency across the BFSI sector. Learn more to understand its transformative power in modern insurance.",
-      "og_description": "Explore the potential of tele-medical examination AI in transforming healthcare and insurance industries. From enhancing risk assessment to improving patient experiences, this technology is reshaping the future. Discover case studies and benefits relevant to lenders and insurers.",
+      "title": "Tele-Medical Examination AI for Insurers",
+      "meta_description": "Discover how tele-medical examination AI streamlines insurance medical underwriting and revolutionizes health assessments for lenders and banks.",
+      "h1": "Tele-Medical Examination AI Revolutionizing Underwriting",
+      "intro_40_60_words": "Tele-medical examination AI streamlines the insurance medical underwriting process, enhancing accuracy and efficiency for health assessments. This innovative technology supports real-time data analysis, risk assessment, and personalized medical evaluations, paving the way for improved workflows in the BFSI sector.",
+      "og_description": "Explore the transformative role of tele-medical examination AI in insurance medical underwriting, benefiting banks, lenders, and insurers with streamlined processes and enhanced accuracy.",
       "cta_label": "Learn More",
       "link_anchor_text": [
         {
           "href": "https://darwix.ai/pivc",
-          "anchor": "AI Innovations in Insurance"
+          "anchor": "Personalized Intelligent Virtual Care"
         },
         {
           "href": "https://darwix.ai/life-insurance-proposal-automation",
@@ -6037,7 +5372,7 @@
         },
         {
           "href": "https://darwix.ai/voiceAgent",
-          "anchor": "Voice Agent Features"
+          "anchor": "Voice Agent Solutions"
         }
       ],
       "canonical": "https://darwix.ai/telemedi-assist",
@@ -6076,7 +5411,7 @@
             {
               "@type": "ListItem",
               "position": 4,
-              "name": "Tele-Medical Examination AI: Transforming Insurance",
+              "name": "Tele-Medical Examination AI for Insurers",
               "item": "https://testing.darwix.ai/telemedi-assist"
             }
           ]
@@ -6084,9 +5419,9 @@
         {
           "@context": "https://schema.org",
           "@type": "SoftwareApplication",
-          "name": "Tele-Medical Examination AI: Transforming Insurance",
+          "name": "Tele-Medical Examination AI for Insurers",
           "url": "https://testing.darwix.ai/telemedi-assist",
-          "description": "Discover how tele-medical examination AI enhances insurance underwriting, improves patient experiences, and streamlines processes for lenders and insurers.",
+          "description": "Discover how tele-medical examination AI streamlines insurance medical underwriting and revolutionizes health assessments for lenders and banks.",
           "applicationCategory": "BusinessApplication",
           "operatingSystem": "Web"
         }
@@ -6101,19 +5436,19 @@
       "url": "https://testing.darwix.ai/life-insurance-proposal-automation",
       "status": 200,
       "error": null,
-      "fetch_ms": 243,
-      "bytes": 275517,
+      "fetch_ms": 187,
+      "bytes": 275951,
       "title": "Life Insurance Proposal Automation | Darwix AI",
       "meta_description": "Advisors talk, Darwix completes the proposal: voice-driven life insurance proposal capture with validation and discrepancy checks.",
-      "canonical": "https://darwix.ai/life-insurance-proposal-automation",
+      "canonical": "https://testing.darwix.ai/life-insurance-proposal-automation",
       "robots_meta": "index, follow",
       "og": {
         "title": "Life Insurance Proposal Automation | Darwix AI",
         "description": "Advisors talk, Darwix completes the proposal: voice-driven life insurance proposal capture with validation and discrepancy checks.",
-        "url": "https://darwix.ai/life-insurance-proposal-automation",
+        "url": "https://testing.darwix.ai/life-insurance-proposal-automation",
         "site_name": "Darwix AI",
         "locale": "en_US",
-        "image": "https://darwix.ai/og-image.png",
+        "image": "https://testing.darwix.ai/og-image.png",
         "image:width": "1200",
         "image:height": "630",
         "type": "website"
@@ -6122,7 +5457,7 @@
         "card": "summary_large_image",
         "title": "Life Insurance Proposal Automation | Darwix AI",
         "description": "Advisors talk, Darwix completes the proposal: voice-driven life insurance proposal capture with validation and discrepancy checks.",
-        "image": "https://darwix.ai/og-image.png",
+        "image": "https://testing.darwix.ai/og-image.png",
         "image:width": "1200",
         "image:height": "630"
       },
@@ -6369,29 +5704,28 @@
       "secondary_keywords": [
         "voice-driven proposal capture"
       ],
-      "search_intent": "commercial",
+      "search_intent": "informational",
       "outline_h2s": [
-        "Introduction to Life Insurance Proposal Automation",
-        "Benefits for Lenders",
-        "Advantages for Insurers",
-        "Impact on Wealth Managers",
-        "Transforming Bank Operations",
-        "Streamlining NBFC Processes"
+        "What is Life Insurance Proposal Automation?",
+        "Benefits for Lenders and Insurers",
+        "Use Cases in Wealth Management",
+        "Technology Behind Automation",
+        "Voice-Driven Proposal Capture Explained",
+        "Future of Insurance Proposals"
       ],
       "key_points": [
-        "Enhances efficiency in proposal generation",
-        "Reduces time for policy approval",
-        "Improves customer experience with automation",
-        "Facilitates compliance and data management",
-        "Integrates voice-driven solutions for easier proposal capture"
+        "Increased efficiency for insurance agents",
+        "Reduction in proposal completion time",
+        "Enhanced accuracy in documentation",
+        "Customization options for diverse client needs",
+        "Integration capabilities with existing systems"
       ],
       "proof_points_needed": [
-        "Case studies showing reduced turnaround times",
-        "Testimonials from BFSI professionals",
-        "Statistics on customer satisfaction improvements",
-        "Examples of reduced operational costs"
+        "Case studies demonstrating efficiency gains",
+        "Statistics on proposal cycle time reduction",
+        "Client testimonials from banks and insurers"
       ],
-      "notes_for_generation": "Focus on specific automation technologies in life insurance proposals. Highlight how BFSI sectors can leverage life insurance proposal automation for improved efficiency and customer engagement. Use real-world examples and statistics related to the use of voice-driven technology in proposal processes."
+      "notes_for_generation": "The content should explain what life insurance proposal automation entails, focusing on its relevance to insurers and how it streamlines the proposal process. Highlight use cases for lenders and wealth managers while briefly discussing voice-driven proposal capture technology. Emphasize benefits, including time savings and accuracy, and support the information with data or testimonials where applicable."
     },
     "keyword": {
       "primary": "life insurance proposal automation",
@@ -6409,24 +5743,24 @@
     },
     "status": "qa_failed",
     "proposed": {
-      "title": "Life Insurance Proposal Automation for Efficiency",
-      "meta_description": "Discover how life insurance proposal automation enhances efficiency, speeds up approval, and improves customer experience in BFSI sectors.",
-      "h1": "Life Insurance Proposal Automation: Streamline Your Processes",
-      "intro_40_60_words": "Life insurance proposal automation leverages voice-driven solutions to enhance efficiency and improve customer experience. It reduces your policy approval times while facilitating compliance and data management. Discover how the BFSI sector can transform operations through automation.",
-      "og_description": "Explore the impact of life insurance proposal automation on the BFSI sector, including enhanced efficiency, reduced turnaround times, and improved customer engagement.",
+      "title": "Life Insurance Proposal Automation Explained",
+      "meta_description": "Discover how life insurance proposal automation enhances efficiency and accuracy for insurers, lenders, and wealth managers.",
+      "h1": "Life Insurance Proposal Automation: Streamlining Your Process",
+      "intro_40_60_words": "Life insurance proposal automation simplifies and accelerates the proposal process, significantly reducing completion time and improving accuracy in documentation. This technology is vital for insurers and lenders seeking to enhance efficiency while meeting diverse client needs through customization options.",
+      "og_description": "Explore the transformative benefits of life insurance proposal automation, including increased efficiency, reduced proposal times, and the integration of voice-driven proposal capture technology.",
       "cta_label": "Learn More",
       "link_anchor_text": [
         {
           "href": "https://darwix.ai/pivc",
-          "anchor": "PIVC Solutions"
+          "anchor": "Voice-Driven Proposal Capture"
+        },
+        {
+          "href": "https://darwix.ai/telemedi-assist",
+          "anchor": "Telemedi Assist Solutions"
         },
         {
           "href": "https://darwix.ai/voiceAgent",
           "anchor": "Voice Agent Technology"
-        },
-        {
-          "href": "https://darwix.ai/compliance",
-          "anchor": "Compliance Management Insights"
         }
       ],
       "canonical": "https://darwix.ai/life-insurance-proposal-automation",
@@ -6465,7 +5799,7 @@
             {
               "@type": "ListItem",
               "position": 4,
-              "name": "Life Insurance Proposal Automation for Efficiency",
+              "name": "Life Insurance Proposal Automation Explained",
               "item": "https://testing.darwix.ai/life-insurance-proposal-automation"
             }
           ]
@@ -6473,9 +5807,9 @@
         {
           "@context": "https://schema.org",
           "@type": "SoftwareApplication",
-          "name": "Life Insurance Proposal Automation for Efficiency",
+          "name": "Life Insurance Proposal Automation Explained",
           "url": "https://testing.darwix.ai/life-insurance-proposal-automation",
-          "description": "Discover how life insurance proposal automation enhances efficiency, speeds up approval, and improves customer experience in BFSI sectors.",
+          "description": "Discover how life insurance proposal automation enhances efficiency and accuracy for insurers, lenders, and wealth managers.",
           "applicationCategory": "BusinessApplication",
           "operatingSystem": "Web"
         }
@@ -6490,19 +5824,19 @@
       "url": "https://testing.darwix.ai/auto-pd",
       "status": 200,
       "error": null,
-      "fetch_ms": 200,
-      "bytes": 181142,
+      "fetch_ms": 171,
+      "bytes": 181576,
       "title": "Auto PD | Darwix AI",
       "meta_description": "Automated personal discussion for housing finance and lending: the borrower speaks and the PD report writes itself.",
-      "canonical": "https://darwix.ai/auto-pd",
+      "canonical": "https://testing.darwix.ai/auto-pd",
       "robots_meta": "index, follow",
       "og": {
         "title": "Auto PD | Darwix AI",
         "description": "Automated personal discussion for housing finance and lending: the borrower speaks and the PD report writes itself.",
-        "url": "https://darwix.ai/auto-pd",
+        "url": "https://testing.darwix.ai/auto-pd",
         "site_name": "Darwix AI",
         "locale": "en_US",
-        "image": "https://darwix.ai/og-image.png",
+        "image": "https://testing.darwix.ai/og-image.png",
         "image:width": "1200",
         "image:height": "630",
         "type": "website"
@@ -6511,7 +5845,7 @@
         "card": "summary_large_image",
         "title": "Auto PD | Darwix AI",
         "description": "Automated personal discussion for housing finance and lending: the borrower speaks and the PD report writes itself.",
-        "image": "https://darwix.ai/og-image.png",
+        "image": "https://testing.darwix.ai/og-image.png",
         "image:width": "1200",
         "image:height": "630"
       },
@@ -6809,24 +6143,24 @@
       "search_intent": "informational",
       "outline_h2s": [
         "What is Automated Personal Discussion?",
-        "Benefits for Lenders",
-        "Use Cases for Insurers",
-        "Enhancements for Wealth Managers",
-        "Impact on Banks and NBFCs"
+        "Benefits for Lenders and Insurers",
+        "How It Works in Wealth Management",
+        "Case Studies in Housing Finance",
+        "Future of Automated Personal Discussion"
       ],
       "key_points": [
-        "Streamlines the personal discussion process for accurate PD generation.",
-        "Reduces manual input, minimizing errors and improving efficiency.",
-        "Enhances customer experience with real-time data capture.",
-        "Facilitates compliance and documentation for financial institutions.",
-        "Enables personalized financial advice through data analysis."
+        "Streamlines the process of personal discussions for credit approvals.",
+        "Reduces manual effort in creating PD reports.",
+        "Enhances accuracy and compliance in documentation.",
+        "Improves customer engagement and satisfaction.",
+        "Provides real-time data insights for better decision-making."
       ],
       "proof_points_needed": [
-        "Statistics on time savings for lenders using automated PD.",
-        "Case studies highlighting improvements in customer satisfaction for insurers.",
-        "Examples of increased accuracy in PD reporting for wealth managers."
+        "Statistics on time saved by lenders using automated PD.",
+        "Examples of improved compliance rates post-automation.",
+        "User testimonials from banks and insurers who adopted the system."
       ],
-      "notes_for_generation": "Focus on concrete benefits and practical applications of automated personal discussion in various BFSI sectors. Emphasize efficiency, accuracy, and customer satisfaction. Use real-world examples or case studies where feasible."
+      "notes_for_generation": "Highlight how automated personal discussions can revolutionize the BFSI sector, especially in housing finance. Focus on specific use cases, including lenders' efficiency gains, insurers' risk assessment improvements, and wealth managers' client interactions. Use concrete examples and case studies to illustrate benefits."
     },
     "keyword": {
       "primary": "automated personal discussion",
@@ -6844,11 +6178,11 @@
     },
     "status": "qa_failed",
     "proposed": {
-      "title": "Automated Personal Discussion for Financial Efficiency",
-      "meta_description": "Discover how automated personal discussion streamlines processes for lenders, insurers, and wealth managers, enhancing customer experience and accuracy.",
+      "title": "Automated Personal Discussion in BFSI Sector",
+      "meta_description": "Discover how automated personal discussion can transform housing finance with enhanced engagement, accuracy, and efficiency.",
       "h1": "Understanding Automated Personal Discussion",
-      "intro_40_60_words": "Automated personal discussion streamlines the PD generation process, reducing manual input and errors. This leads to enhanced efficiency and customer satisfaction, equipping financial institutions with real-time data for informed decision-making.",
-      "og_description": "Explore the transformative impact of automated personal discussion in the BFSI sector. Learn how it enhances efficiency, accuracy, and customer satisfaction across various financial services.",
+      "intro_40_60_words": "Automated personal discussion is revolutionizing the BFSI sector, especially in housing finance. By streamlining processes and reducing manual efforts, it enhances documentation accuracy and improves customer satisfaction. This innovation not only provides lenders and insurers with real-time data insights but also elevates client interactions in wealth management.",
+      "og_description": "Explore the transformative power of automated personal discussion in the BFSI sector, enhancing efficiency for lenders and insurers while improving client engagement in wealth management.",
       "cta_label": "Learn More",
       "link_anchor_text": [
         {
@@ -6857,11 +6191,11 @@
         },
         {
           "href": "https://darwix.ai/compliance",
-          "anchor": "Regulatory Compliance"
+          "anchor": "Compliance Solutions"
         },
         {
-          "href": "https://darwix.ai/",
-          "anchor": "Darwix AI Home"
+          "href": "https://darwix.ai/retail-asset-evidence-intelligence",
+          "anchor": "Retail Asset Evidence Intelligence"
         }
       ],
       "canonical": "https://darwix.ai/auto-pd",
@@ -6900,7 +6234,7 @@
             {
               "@type": "ListItem",
               "position": 4,
-              "name": "Automated Personal Discussion for Financial Efficiency",
+              "name": "Automated Personal Discussion in BFSI Sector",
               "item": "https://testing.darwix.ai/auto-pd"
             }
           ]
@@ -6908,9 +6242,9 @@
         {
           "@context": "https://schema.org",
           "@type": "SoftwareApplication",
-          "name": "Automated Personal Discussion for Financial Efficiency",
+          "name": "Automated Personal Discussion in BFSI Sector",
           "url": "https://testing.darwix.ai/auto-pd",
-          "description": "Discover how automated personal discussion streamlines processes for lenders, insurers, and wealth managers, enhancing customer experience and accuracy.",
+          "description": "Discover how automated personal discussion can transform housing finance with enhanced engagement, accuracy, and efficiency.",
           "applicationCategory": "BusinessApplication",
           "operatingSystem": "Web"
         }
@@ -6925,19 +6259,19 @@
       "url": "https://testing.darwix.ai/evidence-intelligence",
       "status": 200,
       "error": null,
-      "fetch_ms": 241,
-      "bytes": 170435,
+      "fetch_ms": 171,
+      "bytes": 170856,
       "title": "Evidence Intelligence | Darwix AI",
       "meta_description": "Document discrepancy intelligence that reconciles every source and shows what is true, for AMLI, insurance, health and life.",
-      "canonical": "https://darwix.ai/evidence-intelligence",
+      "canonical": "https://testing.darwix.ai/evidence-intelligence",
       "robots_meta": "index, follow",
       "og": {
         "title": "Evidence Intelligence | Darwix AI",
         "description": "Document discrepancy intelligence that reconciles every source and shows what is true, for AMLI, insurance, health and life.",
-        "url": "https://darwix.ai/evidence-intelligence",
+        "url": "https://testing.darwix.ai/evidence-intelligence",
         "site_name": "Darwix AI",
         "locale": "en_US",
-        "image": "https://darwix.ai/og-image.png",
+        "image": "https://testing.darwix.ai/og-image.png",
         "image:width": "1200",
         "image:height": "630",
         "type": "website"
@@ -6946,7 +6280,7 @@
         "card": "summary_large_image",
         "title": "Evidence Intelligence | Darwix AI",
         "description": "Document discrepancy intelligence that reconciles every source and shows what is true, for AMLI, insurance, health and life.",
-        "image": "https://darwix.ai/og-image.png",
+        "image": "https://testing.darwix.ai/og-image.png",
         "image:width": "1200",
         "image:height": "630"
       },
@@ -7091,25 +6425,23 @@
       ],
       "search_intent": "informational",
       "outline_h2s": [
-        "What is Document Discrepancy Detection?",
-        "Importance in BFSI",
-        "How It Works",
-        "Use Cases in BFSI",
-        "Best Practices for Implementation"
+        "Importance of Document Discrepancy Detection",
+        "How BFSI Uses Document Discrepancy Detection",
+        "KYC and Claims Document Reconciliation in Detail",
+        "Benefits of Accurate Document Reconciliation"
       ],
       "key_points": [
-        "Definition and significance of document discrepancy detection.",
-        "Impact on KYC processes for banks and insurers.",
-        "Role in claims processing for faster resolutions.",
-        "Examples of real-time discrepancies in lending.",
-        "Strategies for effective implementation."
+        "Critical for risk management in finance",
+        "Reduces fraud and enhances compliance",
+        "Useful in automating KYC processes",
+        "Improves claims processing efficiency"
       ],
       "proof_points_needed": [
-        "Statistics on KYC compliance errors.",
-        "Case study showing improved efficiency post-implementation.",
-        "Research on reduction in claim processing time through automation."
+        "Statistics on fraud reduction through document detection",
+        "Case studies from lenders and insurers",
+        "Examples of improved KYC completion rates"
       ],
-      "notes_for_generation": "This page should provide a clear understanding of document discrepancy detection specifically tailored for BFSI needs. It should focus on its importance in KYC and claims processes, showcasing how this technology can streamline operations for lenders, insurers, and banks. Incorporate compelling use cases and best practices to create a practical resource."
+      "notes_for_generation": "Focus on the significance of document discrepancy detection in BFSI, specifically how lenders, insurers, and wealth managers can leverage this for risk management and operational efficiency. Use specific examples of KYC and claims document reconciliation to illustrate the value."
     },
     "keyword": {
       "primary": "document discrepancy detection",
@@ -7128,23 +6460,23 @@
     "status": "qa_failed",
     "proposed": {
       "title": "Document Discrepancy Detection in BFSI",
-      "meta_description": "Learn how document discrepancy detection streamlines KYC and claims processes in the BFSI sector for better efficiency and compliance.",
+      "meta_description": "Learn about document discrepancy detection, its importance in KYC and claims reconciliation, and how it improves operational efficiency in finance.",
       "h1": "Understanding Document Discrepancy Detection in BFSI",
-      "intro_40_60_words": "Document discrepancy detection enhances KYC and claims processing by identifying inconsistencies in documentation. This technology is vital for banks and insurers, promoting faster resolutions and improved compliance. Discover its significance and best practices for implementation in the BFSI sector.",
-      "og_description": "Explore the significance of document discrepancy detection in the BFSI sector, focusing on KYC and claims processes. This page provides insights, use cases, and best practices for effective implementation.",
-      "cta_label": "Learn More",
+      "intro_40_60_words": "Document discrepancy detection is essential for lenders and insurers to manage risk, reduce fraud, and enhance compliance. By automating KYC and improving claims processing, financial organizations can significantly boost operational efficiency and accuracy. Discover how effective document reconciliation plays a pivotal role in driving these improvements.",
+      "og_description": "Learn how document discrepancy detection is crucial for financial institutions in managing risks and improving operations with KYC and claims reconciliation.",
+      "cta_label": "Discover More",
       "link_anchor_text": [
         {
           "href": "https://darwix.ai/compliance",
-          "anchor": "KYC compliance errors"
+          "anchor": "KYC and claims document reconciliation"
         },
         {
           "href": "https://darwix.ai/auto-pd",
-          "anchor": "automating claims processing"
+          "anchor": "Automated compliance solutions"
         },
         {
           "href": "https://darwix.ai/retail-asset-evidence-intelligence",
-          "anchor": "evidence intelligence in lending"
+          "anchor": "Asset evidence intelligence"
         }
       ],
       "canonical": "https://darwix.ai/evidence-intelligence",
@@ -7193,7 +6525,7 @@
           "@type": "SoftwareApplication",
           "name": "Document Discrepancy Detection in BFSI",
           "url": "https://testing.darwix.ai/evidence-intelligence",
-          "description": "Learn how document discrepancy detection streamlines KYC and claims processes in the BFSI sector for better efficiency and compliance.",
+          "description": "Learn about document discrepancy detection, its importance in KYC and claims reconciliation, and how it improves operational efficiency in finance.",
           "applicationCategory": "BusinessApplication",
           "operatingSystem": "Web"
         }
@@ -7208,19 +6540,19 @@
       "url": "https://testing.darwix.ai/retail-asset-evidence-intelligence",
       "status": 200,
       "error": null,
-      "fetch_ms": 198,
-      "bytes": 147344,
+      "fetch_ms": 171,
+      "bytes": 147778,
       "title": "Retail Asset Evidence Intelligence | Darwix AI",
       "meta_description": "Verify the asset behind the tape: document discrepancy intelligence for EARC and ARC companies.",
-      "canonical": "https://darwix.ai/retail-asset-evidence-intelligence",
+      "canonical": "https://testing.darwix.ai/retail-asset-evidence-intelligence",
       "robots_meta": "index, follow",
       "og": {
         "title": "Retail Asset Evidence Intelligence | Darwix AI",
         "description": "Verify the asset behind the tape: document discrepancy intelligence for EARC and ARC companies.",
-        "url": "https://darwix.ai/retail-asset-evidence-intelligence",
+        "url": "https://testing.darwix.ai/retail-asset-evidence-intelligence",
         "site_name": "Darwix AI",
         "locale": "en_US",
-        "image": "https://darwix.ai/og-image.png",
+        "image": "https://testing.darwix.ai/og-image.png",
         "image:width": "1200",
         "image:height": "630",
         "type": "website"
@@ -7229,7 +6561,7 @@
         "card": "summary_large_image",
         "title": "Retail Asset Evidence Intelligence | Darwix AI",
         "description": "Verify the asset behind the tape: document discrepancy intelligence for EARC and ARC companies.",
-        "image": "https://darwix.ai/og-image.png",
+        "image": "https://testing.darwix.ai/og-image.png",
         "image:width": "1200",
         "image:height": "630"
       },
@@ -7370,25 +6702,25 @@
       ],
       "search_intent": "informational",
       "outline_h2s": [
-        "Importance of Asset Verification",
-        "Challenges in Asset Verification",
-        "Best Practices for ARCs",
-        "Role of AI in Asset Verification",
-        "Future Trends in Asset Verification"
+        "Understanding Asset Verification",
+        "Importance for ARCs",
+        "Use Cases in BFSI",
+        "Tools and Techniques",
+        "Conclusion"
       ],
       "key_points": [
-        "Asset verification ensures accurate risk assessment for lenders and ARCs.",
-        "Challenges include data discrepancies and manual verification errors.",
-        "Implementing technology can streamline the verification process.",
-        "AI tools can improve speed and accuracy in asset evaluations.",
-        "Staying updated on regulatory changes is crucial for compliance."
+        "Definition of asset verification for ARCs",
+        "Critical role in risk management",
+        "Examples of ARC applications",
+        "Technologies enhancing verification processes",
+        "Impact on decision-making for lenders and insurers"
       ],
       "proof_points_needed": [
-        "Statistics on verification accuracy improvements with AI.",
-        "Case studies of ARCs successfully implementing asset verification tools.",
-        "Regulatory guidelines on asset verification processes."
+        "Statistics on ARC asset verification success rates",
+        "Case studies illustrating benefits",
+        "Expert opinions on verification importance"
       ],
-      "notes_for_generation": "This content should focus on the significance of asset verification specifically for Asset Reconstruction Companies (ARCs) in the BFSI sector. Emphasize the use cases of technology like AI in facilitating effective asset verification, the challenges ARCs face, and the importance of adhering to EARC due diligence practices. Use concrete examples and industry-specific terms to ensure relevance and authority."
+      "notes_for_generation": "Focus on how asset verification impacts the operational efficiency of Asset Reconstruction Companies (ARCs). Highlight specific use cases and technologies, such as AI and machine learning, that improve verification processes. Ensure the content is tailored to professionals in the BFSI sector, showcasing real-world applications and benefits."
     },
     "keyword": {
       "primary": "asset verification for ARCs",
@@ -7406,24 +6738,24 @@
     },
     "status": "qa_failed",
     "proposed": {
-      "title": "Asset Verification for ARCs: Key Insights and Best Practices",
-      "meta_description": "Explore the significance of asset verification for ARCs in the BFSI sector. Learn about challenges, AI tools, and best practices for effective compliance.",
-      "h1": "Understanding Asset Verification for ARCs",
-      "intro_40_60_words": "Asset verification is crucial for Asset Reconstruction Companies (ARCs) to ensure accurate risk assessments. While challenges like data discrepancies exist, leveraging technology, particularly AI, can greatly enhance the verification process, streamline operations, and ensure compliance with EARC due diligence.",
-      "og_description": "Dive into the importance of asset verification for ARCs. Discover challenges, best practices, and how AI is shaping the future of asset evaluations in the BFSI sector.",
+      "title": "Asset Verification for ARCs: Enhance Efficiency",
+      "meta_description": "Explore asset verification for ARCs, its importance in risk management, and technology solutions that enhance operational efficiency.",
+      "h1": "Asset Verification for ARCs: Understanding Its Importance",
+      "intro_40_60_words": "Asset verification for ARCs is crucial for operational efficiency and risk management. By leveraging technologies like AI and machine learning, ARCs can enhance decision-making, particularly in the BFSI sector. This process not only improves verification rates but also demonstrates tangible benefits in case studies and expert analyses.",
+      "og_description": "Delve into asset verification for ARCs, exploring its critical role in risk management and the technologies that enhance it, especially in BFSI applications.",
       "cta_label": "Learn More",
       "link_anchor_text": [
         {
           "href": "https://darwix.ai/evidence-intelligence",
-          "anchor": "Discover evidence intelligence solutions"
+          "anchor": "evidence intelligence solutions"
         },
         {
           "href": "https://darwix.ai/compliance",
-          "anchor": "Understand compliance needs"
+          "anchor": "compliance requirements"
         },
         {
           "href": "https://darwix.ai/auto-pd",
-          "anchor": "Explore automated process design"
+          "anchor": "automated processes for ARC verification"
         }
       ],
       "canonical": "https://darwix.ai/retail-asset-evidence-intelligence",
@@ -7462,7 +6794,7 @@
             {
               "@type": "ListItem",
               "position": 4,
-              "name": "Asset Verification for ARCs: Key Insights and Best Practices",
+              "name": "Asset Verification for ARCs: Enhance Efficiency",
               "item": "https://testing.darwix.ai/retail-asset-evidence-intelligence"
             }
           ]
@@ -7470,9 +6802,9 @@
         {
           "@context": "https://schema.org",
           "@type": "SoftwareApplication",
-          "name": "Asset Verification for ARCs: Key Insights and Best Practices",
+          "name": "Asset Verification for ARCs: Enhance Efficiency",
           "url": "https://testing.darwix.ai/retail-asset-evidence-intelligence",
-          "description": "Explore the significance of asset verification for ARCs in the BFSI sector. Learn about challenges, AI tools, and best practices for effective compliance.",
+          "description": "Explore asset verification for ARCs, its importance in risk management, and technology solutions that enhance operational efficiency.",
           "applicationCategory": "BusinessApplication",
           "operatingSystem": "Web"
         }
@@ -7487,19 +6819,19 @@
       "url": "https://testing.darwix.ai/pre-meet-intelligence",
       "status": 200,
       "error": null,
-      "fetch_ms": 181,
-      "bytes": 198090,
+      "fetch_ms": 156,
+      "bytes": 198511,
       "title": "Pre Meet Intelligence | Darwix AI",
       "meta_description": "Walk into every wealth management meeting already prepared with an AI-generated client brief.",
-      "canonical": "https://darwix.ai/pre-meet-intelligence",
+      "canonical": "https://testing.darwix.ai/pre-meet-intelligence",
       "robots_meta": "index, follow",
       "og": {
         "title": "Pre Meet Intelligence | Darwix AI",
         "description": "Walk into every wealth management meeting already prepared with an AI-generated client brief.",
-        "url": "https://darwix.ai/pre-meet-intelligence",
+        "url": "https://testing.darwix.ai/pre-meet-intelligence",
         "site_name": "Darwix AI",
         "locale": "en_US",
-        "image": "https://darwix.ai/og-image.png",
+        "image": "https://testing.darwix.ai/og-image.png",
         "image:width": "1200",
         "image:height": "630",
         "type": "website"
@@ -7508,7 +6840,7 @@
         "card": "summary_large_image",
         "title": "Pre Meet Intelligence | Darwix AI",
         "description": "Walk into every wealth management meeting already prepared with an AI-generated client brief.",
-        "image": "https://darwix.ai/og-image.png",
+        "image": "https://testing.darwix.ai/og-image.png",
         "image:width": "1200",
         "image:height": "630"
       },
@@ -7662,22 +6994,24 @@
       "search_intent": "informational",
       "outline_h2s": [
         "Importance of Client Briefs",
-        "How AI Enhances Brief Preparation",
-        "Key Features of Wealth Manager Client Briefs",
-        "Use Cases in Wealth Management"
+        "Features of Effective Client Briefs",
+        "Use Cases in Wealth Management",
+        "Integrating AI for Preparation",
+        "Benefits of AI in Client Briefs"
       ],
       "key_points": [
-        "Understand client backgrounds and goals effectively.",
-        "Utilize AI to automate data gathering for personalized briefs.",
-        "Leverage technology to save time and increase meeting productivity.",
-        "Implement tailored strategies for different client segments."
+        "Enhances client relationships through personalized insights",
+        "Saves time for wealth managers by automating data gathering",
+        "Improves meeting outcomes with tailored discussion points",
+        "AI-driven analysis highlights trends in client portfolios",
+        "Supports compliance and risk management in client meetings"
       ],
       "proof_points_needed": [
-        "Examples of wealth managers successfully using AI for client brief preparation.",
-        "Statistics on meeting success rates after implementing AI tools.",
-        "Testimonials from wealth managers about time saved and improved client relations."
+        "Statistics on meeting success rates with prepared briefs",
+        "Testimonials from wealth managers using AI tools",
+        "Case studies on improved client outcomes through AI integration"
       ],
-      "notes_for_generation": "The content should emphasize how client briefs can significantly enhance meeting readiness for wealth managers, enhancing both client relationships and operational efficiency. Incorporate specific use cases where RM meeting preparation AI has proven its value, and present a clear picture of the benefits of integrating such technology into wealth management practices."
+      "notes_for_generation": "The content should focus on how client briefs for wealth managers are crucial for maximizing meeting success. It should highlight how AI tools streamline the preparation process, increasing efficiency and effectiveness in client interactions. Use specific financial examples to demonstrate how tailored client insights can lead to better advisory services and client satisfaction."
     },
     "keyword": {
       "primary": "client briefs for wealth managers",
@@ -7694,24 +7028,24 @@
     },
     "status": "qa_failed",
     "proposed": {
-      "title": "Client Briefs for Wealth Managers: Enhancing Meetings",
-      "meta_description": "Discover how client briefs for wealth managers can improve meeting success and efficiency. Learn about RM meeting preparation AI benefits.",
-      "h1": "Client Briefs for Wealth Managers: Importance and Benefits",
-      "intro_40_60_words": "Client briefs for wealth managers are crucial for enhancing meeting readiness and client relationships. By utilizing AI to automate data gathering, wealth managers can personalize briefs, save time, and increase productivity, ultimately leading to improved client interactions and successful meetings.",
-      "og_description": "Explore the significance of client briefs for wealth managers and discover how AI can transform meeting preparation for better client engagement.",
-      "cta_label": "Learn More",
+      "title": "Client Briefs for Wealth Managers: Enhance Meetings",
+      "meta_description": "Discover the importance of client briefs for wealth managers and how AI transforms meeting preparation, improving outcomes and efficiency.",
+      "h1": "Client Briefs for Wealth Managers: Maximizing Meeting Success",
+      "intro_40_60_words": "Client briefs for wealth managers are vital for enhancing meeting success. They help personalize insights, save time, and improve outcomes through AI-driven analysis, making client interactions more effective and compliant.",
+      "og_description": "Explore how client briefs for wealth managers can maximize meeting effectiveness. Learn the benefits of integrating AI for streamlined preparation and improved client relationships.",
+      "cta_label": "Discover AI Solutions",
       "link_anchor_text": [
         {
           "href": "https://darwix.ai/alert-intelligence",
-          "anchor": "AI in Meeting Preparation"
+          "anchor": "Learn more about alert intelligence"
         },
         {
           "href": "https://darwix.ai/nonvoice-agent",
-          "anchor": "Automating Client Insights"
+          "anchor": "Explore our non-voice agent services"
         },
         {
-          "href": "https://darwix.ai/",
-          "anchor": "Darwix AI Solutions"
+          "href": "https://darwix.ai/compliance",
+          "anchor": "Understand compliance support options"
         }
       ],
       "canonical": "https://darwix.ai/pre-meet-intelligence",
@@ -7750,7 +7084,7 @@
             {
               "@type": "ListItem",
               "position": 4,
-              "name": "Client Briefs for Wealth Managers: Enhancing Meetings",
+              "name": "Client Briefs for Wealth Managers: Enhance Meetings",
               "item": "https://testing.darwix.ai/pre-meet-intelligence"
             }
           ]
@@ -7758,9 +7092,9 @@
         {
           "@context": "https://schema.org",
           "@type": "SoftwareApplication",
-          "name": "Client Briefs for Wealth Managers: Enhancing Meetings",
+          "name": "Client Briefs for Wealth Managers: Enhance Meetings",
           "url": "https://testing.darwix.ai/pre-meet-intelligence",
-          "description": "Discover how client briefs for wealth managers can improve meeting success and efficiency. Learn about RM meeting preparation AI benefits.",
+          "description": "Discover the importance of client briefs for wealth managers and how AI transforms meeting preparation, improving outcomes and efficiency.",
           "applicationCategory": "BusinessApplication",
           "operatingSystem": "Web"
         }
@@ -7775,19 +7109,19 @@
       "url": "https://testing.darwix.ai/alert-intelligence",
       "status": 200,
       "error": null,
-      "fetch_ms": 192,
-      "bytes": 169397,
+      "fetch_ms": 187,
+      "bytes": 169818,
       "title": "Alert Intelligence | Darwix AI",
       "meta_description": "Know what needs attention while there is still time to act: proactive alerts for wealth management teams.",
-      "canonical": "https://darwix.ai/alert-intelligence",
+      "canonical": "https://testing.darwix.ai/alert-intelligence",
       "robots_meta": "index, follow",
       "og": {
         "title": "Alert Intelligence | Darwix AI",
         "description": "Know what needs attention while there is still time to act: proactive alerts for wealth management teams.",
-        "url": "https://darwix.ai/alert-intelligence",
+        "url": "https://testing.darwix.ai/alert-intelligence",
         "site_name": "Darwix AI",
         "locale": "en_US",
-        "image": "https://darwix.ai/og-image.png",
+        "image": "https://testing.darwix.ai/og-image.png",
         "image:width": "1200",
         "image:height": "630",
         "type": "website"
@@ -7796,7 +7130,7 @@
         "card": "summary_large_image",
         "title": "Alert Intelligence | Darwix AI",
         "description": "Know what needs attention while there is still time to act: proactive alerts for wealth management teams.",
-        "image": "https://darwix.ai/og-image.png",
+        "image": "https://testing.darwix.ai/og-image.png",
         "image:width": "1200",
         "image:height": "630"
       },
@@ -8026,24 +7360,26 @@
       "search_intent": "informational",
       "outline_h2s": [
         "What are Proactive Client Alerts?",
-        "Benefits for Lenders and Insurers",
-        "Wealth Management Use Cases",
-        "Enhancing Customer Experience",
-        "Implementation Strategies"
+        "Importance of Proactive Alerts in BFSI",
+        "Use Cases in Lending",
+        "Use Cases in Insurance",
+        "Implementing Proactive Alerts in Wealth Management",
+        "Benefits of Proactive Client Alerts"
       ],
       "key_points": [
-        "Definition and importance of proactive client alerts.",
-        "Use of alerts in identifying potential risks in lending and insurance.",
-        "Examples of alerts in wealth management for client retention.",
-        "Impact on customer satisfaction and relationship management.",
-        "Steps for implementing alert systems in BFSI organizations."
+        "Definition and significance of proactive client alerts.",
+        "How proactive alerts enhance client engagement and retention.",
+        "Real-life examples from lenders using alerts for payment reminders.",
+        "Insurance firms leveraging alerts to notify clients of policy changes.",
+        "Wealth managers sending alerts regarding market fluctuations and risks.",
+        "Technical implementation considerations for BFSI institutions."
       ],
       "proof_points_needed": [
-        "Case studies demonstrating increased client retention through alerts.",
-        "Statistics on client engagement improvements with proactive alerts.",
-        "Testimonials from financial experts on the effectiveness of alert systems."
+        "Statistics on client engagement improvements due to alerts.",
+        "Case studies from leading banks implementing proactive alerts.",
+        "Expert opinions on the impact of alerts in risk management."
       ],
-      "notes_for_generation": "Focus on concrete examples and use cases from banking, insurance, and wealth management where proactive alerts have enabled organizations to act swiftly. Highlight the advantages of these alerts in managing risks and enhancing client relationships, providing data and examples to support the claims."
+      "notes_for_generation": "Focus on the tangible benefits of proactive client alerts specifically in the BFSI sector. Illustrate with industry-specific scenarios where these alerts add value, particularly in lending, insurance, and wealth management contexts. Highlight technology considerations and the impact on customer satisfaction."
     },
     "keyword": {
       "primary": "proactive client alerts",
@@ -8060,11 +7396,11 @@
     },
     "status": "qa_failed",
     "proposed": {
-      "title": "Proactive Client Alerts: Enhance Wealth Management",
-      "meta_description": "Discover how proactive client alerts can mitigate risks in lending, insurance, and wealth management to improve client relationships and retention.",
-      "h1": "Understanding Proactive Client Alerts in Finance",
-      "intro_40_60_words": "Proactive client alerts are essential tools in wealth management and risk mitigation. By delivering timely information, these alerts help lenders, insurers, and wealth managers identify potential risks and enhance client relationships, ultimately leading to improved client retention and satisfaction.",
-      "og_description": "Explore the significance of proactive client alerts in optimizing risk management and client engagement across wealth management and financial services.",
+      "title": "Proactive Client Alerts in Wealth Management",
+      "meta_description": "Discover how proactive client alerts enhance engagement and risk management in wealth management, lending, and insurance sectors.",
+      "h1": "Understanding Proactive Client Alerts",
+      "intro_40_60_words": "Proactive client alerts are essential tools in wealth management, lending, and insurance, enhancing client engagement and retention. By providing timely notifications, such as market updates and policy changes, these alerts ensure clients stay informed, fostering a stronger relationship between financial institutions and their clients.",
+      "og_description": "Explore the significance of proactive client alerts in the BFSI sector. Learn how they improve client engagement, retention, and communication through timely notifications in wealth management, lending, and insurance.",
       "cta_label": "Learn More",
       "link_anchor_text": [
         {
@@ -8073,11 +7409,11 @@
         },
         {
           "href": "https://darwix.ai/nonvoice-agent",
-          "anchor": "Non-Voice Agent"
+          "anchor": "Non-Voice Agent Technology"
         },
         {
-          "href": "https://darwix.ai/compliance",
-          "anchor": "Compliance Solutions"
+          "href": "https://darwix.ai/",
+          "anchor": "Darwix AI Homepage"
         }
       ],
       "canonical": "https://darwix.ai/alert-intelligence",
@@ -8116,7 +7452,7 @@
             {
               "@type": "ListItem",
               "position": 4,
-              "name": "Proactive Client Alerts: Enhance Wealth Management",
+              "name": "Proactive Client Alerts in Wealth Management",
               "item": "https://testing.darwix.ai/alert-intelligence"
             }
           ]
@@ -8124,9 +7460,9 @@
         {
           "@context": "https://schema.org",
           "@type": "SoftwareApplication",
-          "name": "Proactive Client Alerts: Enhance Wealth Management",
+          "name": "Proactive Client Alerts in Wealth Management",
           "url": "https://testing.darwix.ai/alert-intelligence",
-          "description": "Discover how proactive client alerts can mitigate risks in lending, insurance, and wealth management to improve client relationships and retention.",
+          "description": "Discover how proactive client alerts enhance engagement and risk management in wealth management, lending, and insurance sectors.",
           "applicationCategory": "BusinessApplication",
           "operatingSystem": "Web"
         }
@@ -8141,19 +7477,19 @@
       "url": "https://testing.darwix.ai/landingsherpa",
       "status": 200,
       "error": null,
-      "fetch_ms": 204,
-      "bytes": 127069,
+      "fetch_ms": 157,
+      "bytes": 127511,
       "title": "Sherpa Setup and Support | Darwix AI",
       "meta_description": "Install Sherpa on Android or iPhone, connect your wireless microphone, test the audio and get ready for your next training session. Setup guide, troubleshooting and technical support.",
-      "canonical": "https://darwix.ai/landingsherpa",
+      "canonical": "https://testing.darwix.ai/landingsherpa",
       "robots_meta": "index, follow",
       "og": {
         "title": "Sherpa Setup and Support | Darwix AI",
         "description": "Install Sherpa on Android or iPhone, connect your wireless microphone, test the audio and get ready for your next training session.",
-        "url": "https://darwix.ai/landingsherpa",
+        "url": "https://testing.darwix.ai/landingsherpa",
         "site_name": "Darwix AI",
         "locale": "en_US",
-        "image": "https://darwix.ai/og-image.png",
+        "image": "https://testing.darwix.ai/og-image.png",
         "image:width": "1200",
         "image:height": "630",
         "type": "website"
@@ -8162,7 +7498,7 @@
         "card": "summary_large_image",
         "title": "Sherpa Setup and Support | Darwix AI",
         "description": "Install Sherpa, connect your microphone and get set for your next session.",
-        "image": "https://darwix.ai/og-image.png"
+        "image": "https://testing.darwix.ai/og-image.png"
       },
       "h1s": [
         "Meet Sherpa.Get set for your next session."
@@ -8299,33 +7635,34 @@
     "brief": {
       "primary_keyword": "sherpa setup and support",
       "secondary_keywords": [
-        "BFSI solutions",
-        "lender support tools",
-        "insurance AI setup",
-        "wealth manager services",
-        "banking technology solutions"
+        "BFSI automation",
+        "AI in banking",
+        "financial services setup",
+        "insurance support systems",
+        "wealth management technology"
       ],
       "search_intent": "informational",
       "outline_h2s": [
-        "Introduction to Sherpa",
-        "Key Features of Sherpa Setup",
-        "Use Cases in BFSI",
-        "Benefits of Sherpa Support",
-        "Conclusion"
+        "What is Sherpa?",
+        "Importance of Setup and Support",
+        "Benefits for Lenders and Insurers",
+        "How Sherpa Transforms Wealth Management",
+        "Getting Started with Sherpa"
       ],
       "key_points": [
-        "Sherpa streamlines setup processes for BFSI platforms.",
-        "Customizable support for lenders, insurers, and banks.",
-        "Enhanced efficiency in managing client interactions.",
-        "Real-time assistance and AI-driven insights for wealth managers.",
-        "Scalable solutions adapted for various regulatory environments."
+        "Sherpa is an AI-driven platform that streamlines BFSI processes.",
+        "Effective setup is crucial for maximizing the platform's capabilities.",
+        "Support services enhance user experience and foster confidence in the technology.",
+        "Lenders can automate loan processing with Sherpa's tools.",
+        "Insurers can optimize claims processing and customer service workflows.",
+        "Wealth managers gain insights through data analytics provided by Sherpa."
       ],
       "proof_points_needed": [
-        "Case studies from lenders using Sherpa for setup.",
-        "Testimonials from insurers on support efficiency.",
-        "Statistics on time saved with Sherpa for banks."
+        "Case studies on successful Sherpa implementations in banks.",
+        "Statistics on improved efficiency in BFSI operations using Sherpa.",
+        "User testimonials highlighting support effectiveness."
       ],
-      "notes_for_generation": "Focus on how Sherpa setup and support specifically caters to lenders, insurers, wealth managers, and banks. Highlight unique features and real-world applications within the BFSI space. Use case examples will enhance relevance and authority."
+      "notes_for_generation": "Create informative and engaging content that explains how Sherpa setup and support can significantly enhance operational efficiency in BFSI sectors. Focus on specific use cases for lenders, insurers, and wealth managers to illustrate the benefits and transformative aspects of the Sherpa platform."
     },
     "keyword": {
       "primary": "sherpa setup and support",
@@ -8338,20 +7675,20 @@
     },
     "status": "qa_failed",
     "proposed": {
-      "title": "Sherpa Setup and Support for BFSI",
-      "meta_description": "Discover how Sherpa setup and support streamline processes for lenders and insurers in the BFSI sector. Explore key features and benefits.",
-      "h1": "Sherpa Setup and Support for BFSI",
-      "intro_40_60_words": "Sherpa setup and support provide customizable solutions for lenders, insurers, and wealth managers, enhancing efficiency and client interactions. With real-time assistance and AI-driven insights, Sherpa adapts to various regulatory environments, making it an ideal choice for BFSI platforms.",
-      "og_description": "Explore how Sherpa setup and support optimize processes for BFSI organizations, delivering tailored solutions and real-time insights for lenders and insurers.",
+      "title": "Sherpa Setup and Support in BFSI Automation",
+      "meta_description": "Explore how Sherpa setup and support enhance operational efficiency in BFSI through AI-driven solutions for lenders, insurers, and wealth managers.",
+      "h1": "Sherpa Setup and Support: Transforming BFSI Operations",
+      "intro_40_60_words": "Sherpa is an AI-driven platform designed to streamline BFSI processes. Effective setup and ongoing support are vital for maximizing its capabilities, ensuring that lenders, insurers, and wealth managers can fully benefit from enhanced operational efficiency and insightful data analytics.",
+      "og_description": "Discover the powerful impact of Sherpa setup and support for the BFSI sector, enhancing efficiency and transforming operations in banking, insurance, and wealth management.",
       "cta_label": "Learn More",
       "link_anchor_text": [
         {
           "href": "https://darwix.ai/",
-          "anchor": "Darwix Solutions"
+          "anchor": "Visit Darwix for more information."
         },
         {
           "href": "https://darwix.ai/compliance",
-          "anchor": "Compliance Tools"
+          "anchor": "Explore compliance solutions."
         }
       ],
       "canonical": "https://darwix.ai/landingsherpa",
@@ -8385,7 +7722,7 @@
             {
               "@type": "ListItem",
               "position": 3,
-              "name": "Sherpa Setup and Support for BFSI",
+              "name": "Sherpa Setup and Support in BFSI Automation",
               "item": "https://testing.darwix.ai/landingsherpa"
             }
           ]

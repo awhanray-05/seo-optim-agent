@@ -2,19 +2,19 @@
   "url": "https://testing.darwix.ai/nova",
   "diff": {
     "title": {
-      "from": "Nova by Darwix AI | In-Store Agentic AI for Retail & BFSI",
-      "to": "In-Store AI Assistant: Transforming Customer Experience"
+      "from": "In-Store AI Assistant: Revolutionizing Customer Experience",
+      "to": "In-Store AI Assistant: Enhancing Customer Experience"
     },
     "meta_description": {
-      "from": "Nova is an in-store agentic AI that powers real-time customer conversations, recommendations, and payments across retail, BFSI, and showrooms.",
-      "to": "Discover how an in-store AI assistant enhances customer experience in retail and BFSI sectors through improved service and efficiency."
+      "from": "Discover how an in-store AI assistant enhances customer interactions and streamlines processes in retail and BFSI branches.",
+      "to": "Learn how in-store AI assistants transform customer engagement and efficiency in retail and BFSI sectors, boosting satisfaction and service delivery."
     },
     "h1": {
       "from": "Physical AI for the real world.Voice, agents, and fieldin lockstep.",
-      "to": "In-Store AI Assistant: Revolutionizing Retail and BFSI Services"
+      "to": "In-Store AI Assistant: Transforming Customer Engagement"
     },
     "canonical": {
-      "from": "https://darwix.ai/nova",
+      "from": "https://testing.darwix.ai/nova",
       "to": "https://darwix.ai/nova"
     },
     "schema_blocks_added": 3,
@@ -156,11 +156,11 @@
     "internal_links_added": [
       {
         "href": "https://darwix.ai/",
-        "anchor": "Explore Darwix AI"
+        "anchor": "Visit Darwix for more insights"
       },
       {
         "href": "https://darwix.ai/compliance",
-        "anchor": "Learn about Compliance Solutions"
+        "anchor": "Check compliance solutions with AI"
       }
     ]
   }

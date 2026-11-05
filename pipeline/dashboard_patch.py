@@ -123,6 +123,21 @@ def patch_dcscript(script: str, data: dict) -> str:
     script = replace_const_array(script, "WK_D", data["WK_D"])
     script = replace_const_array(script, "WK_C", data["WK_C"])
     script = replace_const_array(script, "WK_R", data["WK_R"])
+    if "health" in data:
+        script = replace_const_array(script, "HEALTH", data["health"])
+
+    # Bind the top 4 metricCards directly to D.kpis so that real GSC / GA4 / crawl data displays
+    script = re.sub(
+        r'metricCards:\[\{k:"Organic clicks",.*?\}\]',
+        'metricCards:['
+        '{k:"Organic clicks",v:(D.kpis&&D.kpis[0]?D.kpis[0].v:"0"),d:(D.kpis&&D.kpis[0]?D.kpis[0].d:""),cmp:(D.kpis&&D.kpis[0]&&D.kpis[0].v!=="0"&&!D.kpis[0].d.includes("connected")?"vs previous 28 days":""),ic:ICN.pointer,ai:(D.kpis&&D.kpis[0]&&D.kpis[0].v!=="0"?ICN.up:ICN.check),c:(D.kpis&&D.kpis[0]?D.kpis[0].c:"#17AA2E")},'
+        '{k:"Average position",v:(D.kpis&&D.kpis[3]?D.kpis[3].v:"—"),d:(D.kpis&&D.kpis[3]?D.kpis[3].d:""),cmp:(D.kpis&&D.kpis[3]&&D.kpis[3].v!=="—"?"higher than previous 28 days":""),ic:ICN.target,ai:(D.kpis&&D.kpis[3]&&D.kpis[3].v!=="—"?ICN.up:ICN.info),c:(D.kpis&&D.kpis[3]?D.kpis[3].c:"#949395")},'
+        '{k:"Demo requests",v:(D.kpis&&D.kpis[4]?D.kpis[4].v:"0"),d:(D.kpis&&D.kpis[4]?D.kpis[4].d:""),cmp:(D.kpis&&D.kpis[4]&&D.kpis[4].v!=="0"?"vs previous 28 days":""),ic:ICN.calendar,ai:(D.kpis&&D.kpis[4]&&D.kpis[4].v!=="0"?ICN.up:ICN.check),c:(D.kpis&&D.kpis[4]?D.kpis[4].c:"#17AA2E")},'
+        '{k:"Indexed pages",v:(D.kpis&&D.kpis[6]?D.kpis[6].v:"21 / 21"),d:(D.kpis&&D.kpis[6]?D.kpis[6].d:"All crawled pages 200 OK"),cmp:"",ic:ICN.database,ai:ICN.check,c:(D.kpis&&D.kpis[6]?D.kpis[6].c:"#17AA2E")}'
+        ']',
+        script,
+        count=1
+    )
     return script
 
 
@@ -145,6 +160,8 @@ def patch_static_markup(template_html: str, data: dict) -> str:
         count=1,
     )
     template_html = replace_literal(template_html, ">7 open<", f'>{data["open_count"]} open<')
+    if "health_overall" in data:
+        template_html = replace_literal(template_html, ">78</span>", f'>{data["health_overall"]}</span>', required=False)
     return template_html
 
 

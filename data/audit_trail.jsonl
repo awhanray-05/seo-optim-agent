@@ -411,3 +411,192 @@
 {"t": "2026-11-03 19:08:52", "a": "publish.agent", "x": "Staged 7 approved page(s); rebuilt sitemap (19 URLs); proposed 19 redirect rule(s)", "e": "publish_package/ · 19 redirects, 7 pages"}
 {"t": "2026-11-03 19:08:52", "a": "monitoring.agent", "x": "Re-checked crawl health (12 metrics); built action queue with 8 open item(s) routed to owning agents; QA first-pass rate 29%", "e": "results_store.json"}
 {"t": "2026-11-03 19:08:52", "a": "orchestrator", "x": "Full pipeline run completed in 191.1s", "e": "21 pages"}
+{"t": "2026-11-04 11:42:44", "a": "research.agent", "x": "Built keyword clusters and content briefs for 21 pages (LLM-written); found 9 content-type gaps", "e": "keyword_map.json, sitemap_tree.json · 21/21 live"}
+{"t": "2026-11-04 11:43:38", "a": "generation.agent", "x": "Generated proposed copy for 21 pages (LLM-written)", "e": "page_db.json · 21/21 live"}
+{"t": "2026-11-04 11:43:57", "a": "qa.agent", "x": "Ran technical SEO QA on 21 page(s): 7 passed, 14 failed first pass", "e": "qa_reports.json"}
+{"t": "2026-11-04 11:43:57", "a": "qa.agent", "x": "Failed check on https://testing.darwix.ai: fields ['meta_description']", "e": "qa_reports.json"}
+{"t": "2026-11-04 11:43:57", "a": "qa.agent", "x": "Failed check on https://testing.darwix.ai/sherpa: fields []", "e": "qa_reports.json"}
+{"t": "2026-11-04 11:43:57", "a": "qa.agent", "x": "Failed check on https://testing.darwix.ai/voiceAgent/library: fields []", "e": "qa_reports.json"}
+{"t": "2026-11-04 11:43:57", "a": "qa.agent", "x": "Failed check on https://testing.darwix.ai/idn/privacy-policy: fields []", "e": "qa_reports.json"}
+{"t": "2026-11-04 11:43:57", "a": "qa.agent", "x": "Failed check on https://testing.darwix.ai/idn/terms-and-conditions: fields []", "e": "qa_reports.json"}
+{"t": "2026-11-04 11:43:57", "a": "qa.agent", "x": "Failed check on https://testing.darwix.ai/pivc: fields []", "e": "qa_reports.json"}
+{"t": "2026-11-04 11:43:57", "a": "qa.agent", "x": "Failed check on https://testing.darwix.ai/telemedi-assist: fields ['meta_description']", "e": "qa_reports.json"}
+{"t": "2026-11-04 11:43:57", "a": "qa.agent", "x": "Failed check on https://testing.darwix.ai/life-insurance-proposal-automation: fields []", "e": "qa_reports.json"}
+{"t": "2026-11-04 11:43:57", "a": "qa.agent", "x": "Failed check on https://testing.darwix.ai/auto-pd: fields []", "e": "qa_reports.json"}
+{"t": "2026-11-04 11:43:57", "a": "qa.agent", "x": "Failed check on https://testing.darwix.ai/evidence-intelligence: fields []", "e": "qa_reports.json"}
+{"t": "2026-11-04 11:43:57", "a": "qa.agent", "x": "Failed check on https://testing.darwix.ai/retail-asset-evidence-intelligence: fields []", "e": "qa_reports.json"}
+{"t": "2026-11-04 11:43:57", "a": "qa.agent", "x": "Failed check on https://testing.darwix.ai/pre-meet-intelligence: fields []", "e": "qa_reports.json"}
+{"t": "2026-11-04 11:43:57", "a": "qa.agent", "x": "Failed check on https://testing.darwix.ai/alert-intelligence: fields []", "e": "qa_reports.json"}
+{"t": "2026-11-04 11:43:57", "a": "qa.agent", "x": "Failed check on https://testing.darwix.ai/landingsherpa: fields []", "e": "qa_reports.json"}
+{"t": "2026-11-04 11:44:01", "a": "generation.agent", "x": "Regenerated fields for 2 page(s) (Loop A) (LLM-written)", "e": "page_db.json · 2/2 live"}
+{"t": "2026-11-04 11:44:03", "a": "qa.agent", "x": "Ran technical SEO QA on 2 page(s): 0 passed, 2 failed first pass", "e": "qa_reports.json"}
+{"t": "2026-11-04 11:44:03", "a": "qa.agent", "x": "Failed check on https://testing.darwix.ai: fields []", "e": "qa_reports.json"}
+{"t": "2026-11-04 11:44:03", "a": "qa.agent", "x": "Failed check on https://testing.darwix.ai/telemedi-assist: fields []", "e": "qa_reports.json"}
+{"t": "2026-11-04 11:44:26", "a": "publish.agent", "x": "Opened/updated GitHub PR #74 on teamcur8/darwix-website", "e": "https://github.com/teamcur8/darwix-website/pull/74"}
+{"t": "2026-11-04 11:44:26", "a": "publish.agent", "x": "Staged 7 approved page(s); rebuilt sitemap (19 URLs); proposed 19 redirect rule(s)", "e": "publish_package/ · 19 redirects, 7 pages"}
+{"t": "2026-11-04 11:44:26", "a": "monitoring.agent", "x": "Re-checked crawl health (12 metrics); built action queue with 8 open item(s) routed to owning agents; QA first-pass rate 33%", "e": "results_store.json"}
+{"t": "2026-11-04 11:44:26", "a": "orchestrator", "x": "Full pipeline run completed in 176.1s", "e": "21 pages"}
+{"t": "2026-11-04 12:23:23", "a": "research.agent", "x": "Built keyword clusters and content briefs for 21 pages (LLM-written); found 9 content-type gaps", "e": "keyword_map.json, sitemap_tree.json · 21/21 live"}
+{"t": "2026-11-04 12:24:18", "a": "generation.agent", "x": "Generated proposed copy for 21 pages (LLM-written)", "e": "page_db.json · 21/21 live"}
+{"t": "2026-11-04 12:24:37", "a": "qa.agent", "x": "Ran technical SEO QA on 21 page(s): 5 passed, 16 failed first pass", "e": "qa_reports.json"}
+{"t": "2026-11-04 12:24:37", "a": "qa.agent", "x": "Failed check on https://testing.darwix.ai: fields []", "e": "qa_reports.json"}
+{"t": "2026-11-04 12:24:37", "a": "qa.agent", "x": "Failed check on https://testing.darwix.ai/about: fields ['meta_description']", "e": "qa_reports.json"}
+{"t": "2026-11-04 12:24:37", "a": "qa.agent", "x": "Failed check on https://testing.darwix.ai/sherpa: fields []", "e": "qa_reports.json"}
+{"t": "2026-11-04 12:24:37", "a": "qa.agent", "x": "Failed check on https://testing.darwix.ai/voiceAgent/library: fields []", "e": "qa_reports.json"}
+{"t": "2026-11-04 12:24:37", "a": "qa.agent", "x": "Failed check on https://testing.darwix.ai/terms-and-conditions: fields ['meta_description']", "e": "qa_reports.json"}
+{"t": "2026-11-04 12:24:37", "a": "qa.agent", "x": "Failed check on https://testing.darwix.ai/idn/privacy-policy: fields []", "e": "qa_reports.json"}
+{"t": "2026-11-04 12:24:37", "a": "qa.agent", "x": "Failed check on https://testing.darwix.ai/idn/terms-and-conditions: fields []", "e": "qa_reports.json"}
+{"t": "2026-11-04 12:24:37", "a": "qa.agent", "x": "Failed check on https://testing.darwix.ai/pivc: fields ['title']", "e": "qa_reports.json"}
+{"t": "2026-11-04 12:24:37", "a": "qa.agent", "x": "Failed check on https://testing.darwix.ai/telemedi-assist: fields []", "e": "qa_reports.json"}
+{"t": "2026-11-04 12:24:37", "a": "qa.agent", "x": "Failed check on https://testing.darwix.ai/life-insurance-proposal-automation: fields []", "e": "qa_reports.json"}
+{"t": "2026-11-04 12:24:37", "a": "qa.agent", "x": "Failed check on https://testing.darwix.ai/auto-pd: fields []", "e": "qa_reports.json"}
+{"t": "2026-11-04 12:24:37", "a": "qa.agent", "x": "Failed check on https://testing.darwix.ai/evidence-intelligence: fields []", "e": "qa_reports.json"}
+{"t": "2026-11-04 12:24:37", "a": "qa.agent", "x": "Failed check on https://testing.darwix.ai/retail-asset-evidence-intelligence: fields ['meta_description']", "e": "qa_reports.json"}
+{"t": "2026-11-04 12:24:37", "a": "qa.agent", "x": "Failed check on https://testing.darwix.ai/pre-meet-intelligence: fields ['meta_description']", "e": "qa_reports.json"}
+{"t": "2026-11-04 12:24:37", "a": "qa.agent", "x": "Failed check on https://testing.darwix.ai/alert-intelligence: fields []", "e": "qa_reports.json"}
+{"t": "2026-11-04 12:24:37", "a": "qa.agent", "x": "Failed check on https://testing.darwix.ai/landingsherpa: fields []", "e": "qa_reports.json"}
+{"t": "2026-11-04 12:24:50", "a": "generation.agent", "x": "Regenerated fields for 5 page(s) (Loop A) (LLM-written)", "e": "page_db.json · 5/5 live"}
+{"t": "2026-11-04 12:24:54", "a": "qa.agent", "x": "Ran technical SEO QA on 5 page(s): 2 passed, 3 failed first pass", "e": "qa_reports.json"}
+{"t": "2026-11-04 12:24:54", "a": "qa.agent", "x": "Failed check on https://testing.darwix.ai/pivc: fields []", "e": "qa_reports.json"}
+{"t": "2026-11-04 12:24:54", "a": "qa.agent", "x": "Failed check on https://testing.darwix.ai/retail-asset-evidence-intelligence: fields []", "e": "qa_reports.json"}
+{"t": "2026-11-04 12:24:54", "a": "qa.agent", "x": "Failed check on https://testing.darwix.ai/pre-meet-intelligence: fields ['meta_description']", "e": "qa_reports.json"}
+{"t": "2026-11-04 12:25:13", "a": "publish.agent", "x": "Opened/updated GitHub PR #75 on teamcur8/darwix-website", "e": "https://github.com/teamcur8/darwix-website/pull/75"}
+{"t": "2026-11-04 12:25:14", "a": "publish.agent", "x": "Staged 7 approved page(s); rebuilt sitemap (19 URLs); proposed 19 redirect rule(s)", "e": "publish_package/ · 19 redirects, 7 pages"}
+{"t": "2026-11-04 12:25:14", "a": "monitoring.agent", "x": "Re-checked crawl health (12 metrics); built action queue with 8 open item(s) routed to owning agents; QA first-pass rate 24%", "e": "results_store.json"}
+{"t": "2026-11-04 12:25:14", "a": "orchestrator", "x": "Full pipeline run completed in 179.4s", "e": "21 pages"}
+{"t": "2026-11-04 12:40:58", "a": "research.agent", "x": "Built keyword clusters and content briefs for 21 pages (LLM-written); found 9 content-type gaps", "e": "keyword_map.json, sitemap_tree.json · 21/21 live"}
+{"t": "2026-11-04 12:41:52", "a": "generation.agent", "x": "Generated proposed copy for 21 pages (LLM-written)", "e": "page_db.json · 21/21 live"}
+{"t": "2026-11-04 12:42:11", "a": "qa.agent", "x": "Ran technical SEO QA on 21 page(s): 7 passed, 14 failed first pass", "e": "qa_reports.json"}
+{"t": "2026-11-04 12:42:11", "a": "qa.agent", "x": "Failed check on https://testing.darwix.ai: fields []", "e": "qa_reports.json"}
+{"t": "2026-11-04 12:42:11", "a": "qa.agent", "x": "Failed check on https://testing.darwix.ai/sherpa: fields []", "e": "qa_reports.json"}
+{"t": "2026-11-04 12:42:11", "a": "qa.agent", "x": "Failed check on https://testing.darwix.ai/voiceAgent/library: fields []", "e": "qa_reports.json"}
+{"t": "2026-11-04 12:42:11", "a": "qa.agent", "x": "Failed check on https://testing.darwix.ai/idn/privacy-policy: fields ['meta_description']", "e": "qa_reports.json"}
+{"t": "2026-11-04 12:42:11", "a": "qa.agent", "x": "Failed check on https://testing.darwix.ai/idn/terms-and-conditions: fields []", "e": "qa_reports.json"}
+{"t": "2026-11-04 12:42:11", "a": "qa.agent", "x": "Failed check on https://testing.darwix.ai/pivc: fields []", "e": "qa_reports.json"}
+{"t": "2026-11-04 12:42:11", "a": "qa.agent", "x": "Failed check on https://testing.darwix.ai/telemedi-assist: fields []", "e": "qa_reports.json"}
+{"t": "2026-11-04 12:42:11", "a": "qa.agent", "x": "Failed check on https://testing.darwix.ai/life-insurance-proposal-automation: fields []", "e": "qa_reports.json"}
+{"t": "2026-11-04 12:42:11", "a": "qa.agent", "x": "Failed check on https://testing.darwix.ai/auto-pd: fields []", "e": "qa_reports.json"}
+{"t": "2026-11-04 12:42:11", "a": "qa.agent", "x": "Failed check on https://testing.darwix.ai/evidence-intelligence: fields []", "e": "qa_reports.json"}
+{"t": "2026-11-04 12:42:11", "a": "qa.agent", "x": "Failed check on https://testing.darwix.ai/retail-asset-evidence-intelligence: fields []", "e": "qa_reports.json"}
+{"t": "2026-11-04 12:42:11", "a": "qa.agent", "x": "Failed check on https://testing.darwix.ai/pre-meet-intelligence: fields []", "e": "qa_reports.json"}
+{"t": "2026-11-04 12:42:11", "a": "qa.agent", "x": "Failed check on https://testing.darwix.ai/alert-intelligence: fields ['meta_description']", "e": "qa_reports.json"}
+{"t": "2026-11-04 12:42:11", "a": "qa.agent", "x": "Failed check on https://testing.darwix.ai/landingsherpa: fields []", "e": "qa_reports.json"}
+{"t": "2026-11-04 12:42:16", "a": "generation.agent", "x": "Regenerated fields for 2 page(s) (Loop A) (LLM-written)", "e": "page_db.json · 2/2 live"}
+{"t": "2026-11-04 12:42:18", "a": "qa.agent", "x": "Ran technical SEO QA on 2 page(s): 0 passed, 2 failed first pass", "e": "qa_reports.json"}
+{"t": "2026-11-04 12:42:18", "a": "qa.agent", "x": "Failed check on https://testing.darwix.ai/idn/privacy-policy: fields []", "e": "qa_reports.json"}
+{"t": "2026-11-04 12:42:18", "a": "qa.agent", "x": "Failed check on https://testing.darwix.ai/alert-intelligence: fields []", "e": "qa_reports.json"}
+{"t": "2026-11-04 12:42:34", "a": "publish.agent", "x": "Opened/updated GitHub PR #75 on teamcur8/darwix-website", "e": "https://github.com/teamcur8/darwix-website/pull/75"}
+{"t": "2026-11-04 12:42:35", "a": "publish.agent", "x": "Staged 7 approved page(s); rebuilt sitemap (19 URLs); proposed 19 redirect rule(s)", "e": "publish_package/ · 19 redirects, 7 pages"}
+{"t": "2026-11-04 12:42:35", "a": "monitoring.agent", "x": "Re-checked crawl health (12 metrics); built action queue with 8 open item(s) routed to owning agents; QA first-pass rate 33%", "e": "results_store.json"}
+{"t": "2026-11-04 12:42:35", "a": "orchestrator", "x": "Full pipeline run completed in 167.0s", "e": "21 pages"}
+{"t": "2026-11-04 13:24:10", "a": "research.agent", "x": "Built keyword clusters and content briefs for 21 pages (LLM-written); found 9 content-type gaps", "e": "keyword_map.json, sitemap_tree.json · 21/21 live"}
+{"t": "2026-11-04 13:25:04", "a": "generation.agent", "x": "Generated proposed copy for 21 pages (LLM-written)", "e": "page_db.json · 21/21 live"}
+{"t": "2026-11-04 13:25:24", "a": "qa.agent", "x": "Ran technical SEO QA on 21 page(s): 5 passed, 16 failed first pass", "e": "qa_reports.json"}
+{"t": "2026-11-04 13:25:24", "a": "qa.agent", "x": "Failed check on https://testing.darwix.ai: fields ['meta_description']", "e": "qa_reports.json"}
+{"t": "2026-11-04 13:25:24", "a": "qa.agent", "x": "Failed check on https://testing.darwix.ai/compliance: fields ['meta_description']", "e": "qa_reports.json"}
+{"t": "2026-11-04 13:25:24", "a": "qa.agent", "x": "Failed check on https://testing.darwix.ai/sherpa: fields []", "e": "qa_reports.json"}
+{"t": "2026-11-04 13:25:24", "a": "qa.agent", "x": "Failed check on https://testing.darwix.ai/voiceAgent/library: fields []", "e": "qa_reports.json"}
+{"t": "2026-11-04 13:25:24", "a": "qa.agent", "x": "Failed check on https://testing.darwix.ai/privacy-policy: fields ['meta_description']", "e": "qa_reports.json"}
+{"t": "2026-11-04 13:25:24", "a": "qa.agent", "x": "Failed check on https://testing.darwix.ai/idn/privacy-policy: fields []", "e": "qa_reports.json"}
+{"t": "2026-11-04 13:25:24", "a": "qa.agent", "x": "Failed check on https://testing.darwix.ai/idn/terms-and-conditions: fields []", "e": "qa_reports.json"}
+{"t": "2026-11-04 13:25:24", "a": "qa.agent", "x": "Failed check on https://testing.darwix.ai/pivc: fields ['intro_40_60_words']", "e": "qa_reports.json"}
+{"t": "2026-11-04 13:25:24", "a": "qa.agent", "x": "Failed check on https://testing.darwix.ai/telemedi-assist: fields []", "e": "qa_reports.json"}
+{"t": "2026-11-04 13:25:24", "a": "qa.agent", "x": "Failed check on https://testing.darwix.ai/life-insurance-proposal-automation: fields []", "e": "qa_reports.json"}
+{"t": "2026-11-04 13:25:24", "a": "qa.agent", "x": "Failed check on https://testing.darwix.ai/auto-pd: fields []", "e": "qa_reports.json"}
+{"t": "2026-11-04 13:25:24", "a": "qa.agent", "x": "Failed check on https://testing.darwix.ai/evidence-intelligence: fields []", "e": "qa_reports.json"}
+{"t": "2026-11-04 13:25:24", "a": "qa.agent", "x": "Failed check on https://testing.darwix.ai/retail-asset-evidence-intelligence: fields []", "e": "qa_reports.json"}
+{"t": "2026-11-04 13:25:24", "a": "qa.agent", "x": "Failed check on https://testing.darwix.ai/pre-meet-intelligence: fields []", "e": "qa_reports.json"}
+{"t": "2026-11-04 13:25:24", "a": "qa.agent", "x": "Failed check on https://testing.darwix.ai/alert-intelligence: fields []", "e": "qa_reports.json"}
+{"t": "2026-11-04 13:25:24", "a": "qa.agent", "x": "Failed check on https://testing.darwix.ai/landingsherpa: fields []", "e": "qa_reports.json"}
+{"t": "2026-11-04 13:25:34", "a": "generation.agent", "x": "Regenerated fields for 4 page(s) (Loop A) (LLM-written)", "e": "page_db.json · 4/4 live"}
+{"t": "2026-11-04 13:25:37", "a": "qa.agent", "x": "Ran technical SEO QA on 4 page(s): 1 passed, 3 failed first pass", "e": "qa_reports.json"}
+{"t": "2026-11-04 13:25:37", "a": "qa.agent", "x": "Failed check on https://testing.darwix.ai: fields []", "e": "qa_reports.json"}
+{"t": "2026-11-04 13:25:37", "a": "qa.agent", "x": "Failed check on https://testing.darwix.ai/privacy-policy: fields ['meta_description']", "e": "qa_reports.json"}
+{"t": "2026-11-04 13:25:37", "a": "qa.agent", "x": "Failed check on https://testing.darwix.ai/pivc: fields []", "e": "qa_reports.json"}
+{"t": "2026-11-04 13:25:53", "a": "publish.agent", "x": "Opened/updated GitHub PR #76 on teamcur8/darwix-website — 7 source file(s) edited", "e": "https://github.com/teamcur8/darwix-website/pull/76"}
+{"t": "2026-11-04 13:25:54", "a": "publish.agent", "x": "Staged 6 approved page(s); rebuilt sitemap (19 URLs); proposed 19 redirect rule(s)", "e": "publish_package/ · 19 redirects, 6 pages"}
+{"t": "2026-11-04 13:25:56", "a": "monitoring.agent", "x": "Re-checked crawl health (12 metrics); built action queue with 8 open item(s) routed to owning agents; QA first-pass rate 24%", "e": "results_store.json"}
+{"t": "2026-11-04 13:25:56", "a": "orchestrator", "x": "Full pipeline run completed in 177.1s", "e": "21 pages"}
+{"t": "2026-11-04 13:28:28", "a": "research.agent", "x": "Built keyword clusters and content briefs for 21 pages (LLM-written); found 9 content-type gaps", "e": "keyword_map.json, sitemap_tree.json · 21/21 live"}
+{"t": "2026-11-04 13:29:21", "a": "generation.agent", "x": "Generated proposed copy for 21 pages (LLM-written)", "e": "page_db.json · 21/21 live"}
+{"t": "2026-11-04 13:29:39", "a": "qa.agent", "x": "Ran technical SEO QA on 21 page(s): 6 passed, 15 failed first pass", "e": "qa_reports.json"}
+{"t": "2026-11-04 13:29:39", "a": "qa.agent", "x": "Failed check on https://testing.darwix.ai: fields []", "e": "qa_reports.json"}
+{"t": "2026-11-04 13:29:39", "a": "qa.agent", "x": "Failed check on https://testing.darwix.ai/sherpa: fields []", "e": "qa_reports.json"}
+{"t": "2026-11-04 13:29:39", "a": "qa.agent", "x": "Failed check on https://testing.darwix.ai/voiceAgent/library: fields []", "e": "qa_reports.json"}
+{"t": "2026-11-04 13:29:39", "a": "qa.agent", "x": "Failed check on https://testing.darwix.ai/privacy-policy: fields ['meta_description']", "e": "qa_reports.json"}
+{"t": "2026-11-04 13:29:39", "a": "qa.agent", "x": "Failed check on https://testing.darwix.ai/idn/privacy-policy: fields []", "e": "qa_reports.json"}
+{"t": "2026-11-04 13:29:39", "a": "qa.agent", "x": "Failed check on https://testing.darwix.ai/idn/terms-and-conditions: fields []", "e": "qa_reports.json"}
+{"t": "2026-11-04 13:29:39", "a": "qa.agent", "x": "Failed check on https://testing.darwix.ai/pivc: fields []", "e": "qa_reports.json"}
+{"t": "2026-11-04 13:29:39", "a": "qa.agent", "x": "Failed check on https://testing.darwix.ai/telemedi-assist: fields []", "e": "qa_reports.json"}
+{"t": "2026-11-04 13:29:39", "a": "qa.agent", "x": "Failed check on https://testing.darwix.ai/life-insurance-proposal-automation: fields []", "e": "qa_reports.json"}
+{"t": "2026-11-04 13:29:39", "a": "qa.agent", "x": "Failed check on https://testing.darwix.ai/auto-pd: fields ['meta_description']", "e": "qa_reports.json"}
+{"t": "2026-11-04 13:29:39", "a": "qa.agent", "x": "Failed check on https://testing.darwix.ai/evidence-intelligence: fields []", "e": "qa_reports.json"}
+{"t": "2026-11-04 13:29:39", "a": "qa.agent", "x": "Failed check on https://testing.darwix.ai/retail-asset-evidence-intelligence: fields []", "e": "qa_reports.json"}
+{"t": "2026-11-04 13:29:39", "a": "qa.agent", "x": "Failed check on https://testing.darwix.ai/pre-meet-intelligence: fields []", "e": "qa_reports.json"}
+{"t": "2026-11-04 13:29:39", "a": "qa.agent", "x": "Failed check on https://testing.darwix.ai/alert-intelligence: fields ['meta_description']", "e": "qa_reports.json"}
+{"t": "2026-11-04 13:29:39", "a": "qa.agent", "x": "Failed check on https://testing.darwix.ai/landingsherpa: fields []", "e": "qa_reports.json"}
+{"t": "2026-11-04 13:29:47", "a": "generation.agent", "x": "Regenerated fields for 3 page(s) (Loop A) (LLM-written)", "e": "page_db.json · 3/3 live"}
+{"t": "2026-11-04 13:29:49", "a": "qa.agent", "x": "Ran technical SEO QA on 3 page(s): 0 passed, 3 failed first pass", "e": "qa_reports.json"}
+{"t": "2026-11-04 13:29:49", "a": "qa.agent", "x": "Failed check on https://testing.darwix.ai/privacy-policy: fields ['meta_description']", "e": "qa_reports.json"}
+{"t": "2026-11-04 13:29:49", "a": "qa.agent", "x": "Failed check on https://testing.darwix.ai/auto-pd: fields []", "e": "qa_reports.json"}
+{"t": "2026-11-04 13:29:49", "a": "qa.agent", "x": "Failed check on https://testing.darwix.ai/alert-intelligence: fields []", "e": "qa_reports.json"}
+{"t": "2026-11-04 13:30:04", "a": "publish.agent", "x": "Opened/updated GitHub PR #76 on teamcur8/darwix-website — 7 source file(s) edited", "e": "https://github.com/teamcur8/darwix-website/pull/76"}
+{"t": "2026-11-04 13:30:05", "a": "publish.agent", "x": "Staged 6 approved page(s); rebuilt sitemap (19 URLs); proposed 19 redirect rule(s)", "e": "publish_package/ · 19 redirects, 6 pages"}
+{"t": "2026-11-04 13:30:05", "a": "monitoring.agent", "x": "Re-checked crawl health (12 metrics); built action queue with 8 open item(s) routed to owning agents; QA first-pass rate 29%", "e": "results_store.json"}
+{"t": "2026-11-04 13:30:05", "a": "orchestrator", "x": "Full pipeline run completed in 161.2s", "e": "21 pages"}
+{"t": "2026-11-04 17:56:54", "a": "research.agent", "x": "Built keyword clusters and content briefs for 21 pages (LLM-written); found 9 content-type gaps", "e": "keyword_map.json, sitemap_tree.json · 21/21 live"}
+{"t": "2026-11-04 17:57:52", "a": "generation.agent", "x": "Generated proposed copy for 21 pages (LLM-written)", "e": "page_db.json · 21/21 live"}
+{"t": "2026-11-04 17:59:59", "a": "research.agent", "x": "Built keyword clusters and content briefs for 21 pages (LLM-written); found 9 content-type gaps", "e": "keyword_map.json, sitemap_tree.json · 21/21 live"}
+{"t": "2026-11-04 18:01:00", "a": "generation.agent", "x": "Generated proposed copy for 21 pages (LLM-written)", "e": "page_db.json · 21/21 live"}
+{"t": "2026-11-04 18:11:34", "a": "research.agent", "x": "Built keyword clusters and content briefs for 21 pages (LLM-written); found 9 content-type gaps", "e": "keyword_map.json, sitemap_tree.json · 21/21 live"}
+{"t": "2026-11-04 18:12:31", "a": "generation.agent", "x": "Generated proposed copy for 21 pages (LLM-written)", "e": "page_db.json · 21/21 live"}
+{"t": "2026-11-04 18:12:52", "a": "qa.agent", "x": "Ran technical SEO QA on 21 page(s): 7 passed, 14 failed first pass", "e": "qa_reports.json"}
+{"t": "2026-11-04 18:12:52", "a": "qa.agent", "x": "Failed check on https://testing.darwix.ai/sherpa: fields []", "e": "qa_reports.json"}
+{"t": "2026-11-04 18:12:52", "a": "qa.agent", "x": "Failed check on https://testing.darwix.ai/voiceAgent/library: fields []", "e": "qa_reports.json"}
+{"t": "2026-11-04 18:12:52", "a": "qa.agent", "x": "Failed check on https://testing.darwix.ai/nonvoice-agent: fields ['meta_description']", "e": "qa_reports.json"}
+{"t": "2026-11-04 18:12:52", "a": "qa.agent", "x": "Failed check on https://testing.darwix.ai/privacy-policy: fields ['meta_description']", "e": "qa_reports.json"}
+{"t": "2026-11-04 18:12:52", "a": "qa.agent", "x": "Failed check on https://testing.darwix.ai/idn/privacy-policy: fields ['meta_description']", "e": "qa_reports.json"}
+{"t": "2026-11-04 18:12:52", "a": "qa.agent", "x": "Failed check on https://testing.darwix.ai/pivc: fields ['meta_description']", "e": "qa_reports.json"}
+{"t": "2026-11-04 18:12:52", "a": "qa.agent", "x": "Failed check on https://testing.darwix.ai/telemedi-assist: fields []", "e": "qa_reports.json"}
+{"t": "2026-11-04 18:12:52", "a": "qa.agent", "x": "Failed check on https://testing.darwix.ai/life-insurance-proposal-automation: fields []", "e": "qa_reports.json"}
+{"t": "2026-11-04 18:12:52", "a": "qa.agent", "x": "Failed check on https://testing.darwix.ai/auto-pd: fields []", "e": "qa_reports.json"}
+{"t": "2026-11-04 18:12:52", "a": "qa.agent", "x": "Failed check on https://testing.darwix.ai/evidence-intelligence: fields ['meta_description']", "e": "qa_reports.json"}
+{"t": "2026-11-04 18:12:52", "a": "qa.agent", "x": "Failed check on https://testing.darwix.ai/retail-asset-evidence-intelligence: fields ['meta_description']", "e": "qa_reports.json"}
+{"t": "2026-11-04 18:12:52", "a": "qa.agent", "x": "Failed check on https://testing.darwix.ai/pre-meet-intelligence: fields []", "e": "qa_reports.json"}
+{"t": "2026-11-04 18:12:52", "a": "qa.agent", "x": "Failed check on https://testing.darwix.ai/alert-intelligence: fields []", "e": "qa_reports.json"}
+{"t": "2026-11-04 18:12:52", "a": "qa.agent", "x": "Failed check on https://testing.darwix.ai/landingsherpa: fields []", "e": "qa_reports.json"}
+{"t": "2026-11-04 18:13:08", "a": "generation.agent", "x": "Regenerated fields for 6 page(s) (Loop A) (LLM-written)", "e": "page_db.json · 6/6 live"}
+{"t": "2026-11-04 18:13:14", "a": "qa.agent", "x": "Ran technical SEO QA on 6 page(s): 2 passed, 4 failed first pass", "e": "qa_reports.json"}
+{"t": "2026-11-04 18:13:14", "a": "qa.agent", "x": "Failed check on https://testing.darwix.ai/idn/privacy-policy: fields ['meta_description']", "e": "qa_reports.json"}
+{"t": "2026-11-04 18:13:14", "a": "qa.agent", "x": "Failed check on https://testing.darwix.ai/pivc: fields []", "e": "qa_reports.json"}
+{"t": "2026-11-04 18:13:14", "a": "qa.agent", "x": "Failed check on https://testing.darwix.ai/evidence-intelligence: fields ['meta_description']", "e": "qa_reports.json"}
+{"t": "2026-11-04 18:13:14", "a": "qa.agent", "x": "Failed check on https://testing.darwix.ai/retail-asset-evidence-intelligence: fields []", "e": "qa_reports.json"}
+{"t": "2026-11-04 18:13:32", "a": "publish.agent", "x": "Opened/updated GitHub PR #81 on teamcur8/darwix-website — 9 source file(s) edited", "e": "https://github.com/teamcur8/darwix-website/pull/81"}
+{"t": "2026-11-04 18:13:33", "a": "publish.agent", "x": "Staged 8 approved page(s); rebuilt sitemap (19 URLs); proposed 19 redirect rule(s)", "e": "publish_package/ · 19 redirects, 8 pages"}
+{"t": "2026-11-04 18:13:33", "a": "monitoring.agent", "x": "Re-checked crawl health (12 metrics); built action queue with 7 open item(s) routed to owning agents; QA first-pass rate 33%", "e": "results_store.json"}
+{"t": "2026-11-04 18:13:33", "a": "orchestrator", "x": "Full pipeline run completed in 200.0s", "e": "21 pages"}
+{"t": "2026-11-05 11:59:54", "a": "research.agent", "x": "Built keyword clusters and content briefs for 21 pages (LLM-written); found 9 content-type gaps", "e": "keyword_map.json, sitemap_tree.json · 21/21 live"}
+{"t": "2026-11-05 12:00:54", "a": "generation.agent", "x": "Generated proposed copy for 21 pages (LLM-written)", "e": "page_db.json · 21/21 live"}
+{"t": "2026-11-05 12:01:12", "a": "qa.agent", "x": "Ran technical SEO QA on 21 page(s): 7 passed, 14 failed first pass", "e": "qa_reports.json"}
+{"t": "2026-11-05 12:01:12", "a": "qa.agent", "x": "Failed check on https://testing.darwix.ai/compliance: fields ['meta_description']", "e": "qa_reports.json"}
+{"t": "2026-11-05 12:01:12", "a": "qa.agent", "x": "Failed check on https://testing.darwix.ai/sherpa: fields []", "e": "qa_reports.json"}
+{"t": "2026-11-05 12:01:12", "a": "qa.agent", "x": "Failed check on https://testing.darwix.ai/voiceAgent/library: fields []", "e": "qa_reports.json"}
+{"t": "2026-11-05 12:01:12", "a": "qa.agent", "x": "Failed check on https://testing.darwix.ai/nonvoice-agent: fields ['meta_description']", "e": "qa_reports.json"}
+{"t": "2026-11-05 12:01:12", "a": "qa.agent", "x": "Failed check on https://testing.darwix.ai/idn/terms-and-conditions: fields ['meta_description']", "e": "qa_reports.json"}
+{"t": "2026-11-05 12:01:12", "a": "qa.agent", "x": "Failed check on https://testing.darwix.ai/pivc: fields ['meta_description']", "e": "qa_reports.json"}
+{"t": "2026-11-05 12:01:12", "a": "qa.agent", "x": "Failed check on https://testing.darwix.ai/telemedi-assist: fields []", "e": "qa_reports.json"}
+{"t": "2026-11-05 12:01:12", "a": "qa.agent", "x": "Failed check on https://testing.darwix.ai/life-insurance-proposal-automation: fields []", "e": "qa_reports.json"}
+{"t": "2026-11-05 12:01:12", "a": "qa.agent", "x": "Failed check on https://testing.darwix.ai/auto-pd: fields []", "e": "qa_reports.json"}
+{"t": "2026-11-05 12:01:12", "a": "qa.agent", "x": "Failed check on https://testing.darwix.ai/evidence-intelligence: fields ['meta_description']", "e": "qa_reports.json"}
+{"t": "2026-11-05 12:01:12", "a": "qa.agent", "x": "Failed check on https://testing.darwix.ai/retail-asset-evidence-intelligence: fields []", "e": "qa_reports.json"}
+{"t": "2026-11-05 12:01:12", "a": "qa.agent", "x": "Failed check on https://testing.darwix.ai/pre-meet-intelligence: fields []", "e": "qa_reports.json"}
+{"t": "2026-11-05 12:01:12", "a": "qa.agent", "x": "Failed check on https://testing.darwix.ai/alert-intelligence: fields []", "e": "qa_reports.json"}
+{"t": "2026-11-05 12:01:12", "a": "qa.agent", "x": "Failed check on https://testing.darwix.ai/landingsherpa: fields []", "e": "qa_reports.json"}
+{"t": "2026-11-05 12:01:25", "a": "generation.agent", "x": "Regenerated fields for 5 page(s) (Loop A) (LLM-written)", "e": "page_db.json · 5/5 live"}
+{"t": "2026-11-05 12:01:30", "a": "qa.agent", "x": "Ran technical SEO QA on 5 page(s): 3 passed, 2 failed first pass", "e": "qa_reports.json"}
+{"t": "2026-11-05 12:01:30", "a": "qa.agent", "x": "Failed check on https://testing.darwix.ai/pivc: fields []", "e": "qa_reports.json"}
+{"t": "2026-11-05 12:01:30", "a": "qa.agent", "x": "Failed check on https://testing.darwix.ai/evidence-intelligence: fields []", "e": "qa_reports.json"}
+{"t": "2026-11-05 12:01:51", "a": "publish.agent", "x": "Opened/updated GitHub PR #83 on teamcur8/darwix-website — 10 source file(s) edited", "e": "https://github.com/teamcur8/darwix-website/pull/83"}
+{"t": "2026-11-05 12:01:52", "a": "publish.agent", "x": "Staged 8 approved page(s); rebuilt sitemap (19 URLs); proposed 19 redirect rule(s)", "e": "publish_package/ · 19 redirects, 8 pages"}
+{"t": "2026-11-05 12:01:52", "a": "monitoring.agent", "x": "Re-checked crawl health (12 metrics); built action queue with 7 open item(s) routed to owning agents; QA first-pass rate 33%", "e": "results_store.json"}
+{"t": "2026-11-05 12:01:52", "a": "orchestrator", "x": "Full pipeline run completed in 192.0s", "e": "21 pages"}

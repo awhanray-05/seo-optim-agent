@@ -6,21 +6,21 @@
         "name": "Meta title length",
         "severity": "high",
         "status": "pass",
-        "detail": "56 chars (limit 60): 'AI Platform for BFSI: Revolutionizing Financial Services'",
+        "detail": "53 chars (limit 60): 'AI Platform for BFSI: Transforming Financial Services'",
         "field": "title"
       },
       {
         "name": "Meta description length",
         "severity": "medium",
         "status": "pass",
-        "detail": "136 chars (target 140-160): 'Discover how an AI platform for BFSI enhances efficiency, customer experiences, and more in the banking and financial services industry.'",
+        "detail": "139 chars (target 140-160): 'Explore how AI platforms enhance decision-making, automate processes, and improve customer satisfaction in banking, lending, and insurance.'",
         "field": "meta_description"
       },
       {
         "name": "H1 contains focus keyword",
         "severity": "high",
         "status": "pass",
-        "detail": "H1 'Understanding the AI Platform for BFSI' vs primary keyword 'ai platform for bfsi'",
+        "detail": "H1 'AI Platform for BFSI: Revolutionizing Financial Services' vs primary keyword 'ai platform for bfsi'",
         "field": "h1"
       },
       {
@@ -96,8 +96,8 @@
       {
         "name": "Duplicate content < 85% similarity",
         "severity": "medium",
-        "status": "fail",
-        "detail": "100% word overlap with https://testing.darwix.ai/idn/privacy-policy",
+        "status": "pass",
+        "detail": "no near-duplicate found",
         "field": null
       },
       {
@@ -108,9 +108,9 @@
         "field": null
       }
     ],
-    "overall": "fail",
+    "overall": "pass",
     "failed_fields": [],
-    "failed_count": 1,
+    "failed_count": 0,
     "critical_failures": 0
   },
   "https://testing.darwix.ai/about": {
@@ -120,14 +120,14 @@
         "name": "Meta title length",
         "severity": "high",
         "status": "pass",
-        "detail": "47 chars (limit 60): 'About Darwix AI - Innovative Solutions for BFSI'",
+        "detail": "45 chars (limit 60): 'About Darwix AI: Revolutionizing BFSI with AI'",
         "field": "title"
       },
       {
         "name": "Meta description length",
         "severity": "medium",
         "status": "pass",
-        "detail": "131 chars (target 140-160): \"Discover Darwix AI's mission to empower the BFSI sector with innovative solutions and expert leadership for streamlined operations.\"",
+        "detail": "128 chars (target 140-160): \"Learn about Darwix AI's mission, leadership, and innovative solutions transforming the BFSI sector. Join our growing team today!\"",
         "field": "meta_description"
       },
       {
@@ -234,21 +234,21 @@
         "name": "Meta title length",
         "severity": "high",
         "status": "pass",
-        "detail": "46 chars (limit 60): 'RBI-compliant AI: Enhancing Compliance in BFSI'",
+        "detail": "46 chars (limit 60): 'RBI-compliant AI: Transforming BFSI Compliance'",
         "field": "title"
       },
       {
         "name": "Meta description length",
         "severity": "medium",
         "status": "pass",
-        "detail": "135 chars (target 140-160): 'Explore how RBI-compliant AI solutions streamline operations in BFSI, ensuring regulatory adherence and enhancing customer experiences.'",
+        "detail": "128 chars (target 140-160): 'Discover how RBI-compliant AI enhances regulatory adherence and optimizes operations for lenders, insurers, and wealth managers.'",
         "field": "meta_description"
       },
       {
         "name": "H1 contains focus keyword",
         "severity": "high",
         "status": "pass",
-        "detail": "H1 'Understanding RBI-compliant AI in BFSI' vs primary keyword 'rbi-compliant ai'",
+        "detail": "H1 'RBI-compliant AI: Ensuring Regulatory Adherence in BFSI' vs primary keyword 'rbi-compliant ai'",
         "field": "h1"
       },
       {
@@ -348,21 +348,21 @@
         "name": "Meta title length",
         "severity": "high",
         "status": "pass",
-        "detail": "55 chars (limit 60): 'In-Store AI Assistant: Transforming Customer Experience'",
+        "detail": "52 chars (limit 60): 'In-Store AI Assistant: Enhancing Customer Experience'",
         "field": "title"
       },
       {
         "name": "Meta description length",
         "severity": "medium",
         "status": "pass",
-        "detail": "134 chars (target 140-160): 'Discover how an in-store AI assistant enhances customer experience in retail and BFSI sectors through improved service and efficiency.'",
+        "detail": "149 chars (target 140-160): 'Learn how in-store AI assistants transform customer engagement and efficiency in retail and BFSI sectors, boosting satisfaction and service delivery.'",
         "field": "meta_description"
       },
       {
         "name": "H1 contains focus keyword",
         "severity": "high",
         "status": "pass",
-        "detail": "H1 'In-Store AI Assistant: Revolutionizing Retail and BFSI Services' vs primary keyword 'in-store ai assistant'",
+        "detail": "H1 'In-Store AI Assistant: Transforming Customer Engagement' vs primary keyword 'in-store ai assistant'",
         "field": "h1"
       },
       {
@@ -411,7 +411,7 @@
         "name": "Orphan page",
         "severity": "critical",
         "status": "pass",
-        "detail": "3 inbound internal link(s) found in server HTML across the crawled site",
+        "detail": "1 inbound internal link(s) found in server HTML across the crawled site",
         "field": null
       },
       {
@@ -446,7 +446,7 @@
         "name": "SEO Content QA — facts match the brief",
         "severity": "high",
         "status": "pass",
-        "detail": "The proposed copy aligns with the brief's key points and does not include any unsupported claims. It uses generic marketing language to convey the transformation and benefits of in-store AI assistants without asserting specific numbers, customer names, or capabilities not mentioned in the brief.",
+        "detail": "",
         "field": null
       }
     ],
@@ -462,21 +462,21 @@
         "name": "Meta title length",
         "severity": "high",
         "status": "pass",
-        "detail": "49 chars (limit 60): 'Wearable AI for Field Sales: Boosting Performance'",
+        "detail": "44 chars (limit 60): 'Wearable AI for Field Sales: Sherpa Overview'",
         "field": "title"
       },
       {
         "name": "Meta description length",
         "severity": "medium",
         "status": "pass",
-        "detail": "162 chars (target 140-160): 'Discover how wearable AI enhances field sales for BFSI teams through real-time coaching and insights, transforming customer interactions and improving compliance.'",
+        "detail": "151 chars (target 140-160): 'Discover how wearable AI enhances field sales productivity with real-time coaching for BFSI teams. Boost decision-making and client interactions today!'",
         "field": "meta_description"
       },
       {
         "name": "H1 contains focus keyword",
         "severity": "high",
         "status": "pass",
-        "detail": "H1 'Wearable AI for Field Sales: Revolutionizing Your Approach' vs primary keyword 'wearable ai for field sales'",
+        "detail": "H1 'Wearable AI for Field Sales: Enhance Productivity' vs primary keyword 'wearable ai for field sales'",
         "field": "h1"
       },
       {
@@ -525,7 +525,7 @@
         "name": "Orphan page",
         "severity": "critical",
         "status": "pass",
-        "detail": "3 inbound internal link(s) found in server HTML across the crawled site",
+        "detail": "1 inbound internal link(s) found in server HTML across the crawled site",
         "field": null
       },
       {
@@ -576,21 +576,21 @@
         "name": "Meta title length",
         "severity": "high",
         "status": "pass",
-        "detail": "57 chars (limit 60): 'AI Voice Agent for BFSI - Transform Customer Interactions'",
+        "detail": "58 chars (limit 60): 'AI Voice Agent for BFSI - Streamline Customer Interactions'",
         "field": "title"
       },
       {
         "name": "Meta description length",
         "severity": "medium",
         "status": "pass",
-        "detail": "135 chars (target 140-160): 'Discover how AI voice agents can streamline communication for BFSI sectors, improving operational efficiency and customer satisfaction.'",
+        "detail": "138 chars (target 140-160): 'Discover how an AI voice agent for BFSI enhances customer support and efficiency across lending, insurance, and wealth management sectors.'",
         "field": "meta_description"
       },
       {
         "name": "H1 contains focus keyword",
         "severity": "high",
         "status": "pass",
-        "detail": "H1 'AI Voice Agent for BFSI: Revolutionizing Customer Communication' vs primary keyword 'ai voice agent for bfsi'",
+        "detail": "H1 'AI Voice Agent for BFSI: Transforming Client Interactions' vs primary keyword 'ai voice agent for bfsi'",
         "field": "h1"
       },
       {
@@ -639,7 +639,7 @@
         "name": "Orphan page",
         "severity": "critical",
         "status": "pass",
-        "detail": "3 inbound internal link(s) found in server HTML across the crawled site",
+        "detail": "1 inbound internal link(s) found in server HTML across the crawled site",
         "field": null
       },
       {
@@ -690,21 +690,21 @@
         "name": "Meta title length",
         "severity": "high",
         "status": "pass",
-        "detail": "39 chars (limit 60): 'Voice Agent Sample Library for BFSI Use'",
+        "detail": "35 chars (limit 60): 'Voice Agent Sample Library for BFSI'",
         "field": "title"
       },
       {
         "name": "Meta description length",
         "severity": "medium",
         "status": "pass",
-        "detail": "132 chars (target 140-160): 'Discover the voice agent sample library tailored for BFSI applications, with demos and transcripts to enhance your customer service.'",
+        "detail": "139 chars (target 140-160): 'Discover the voice agent sample library, enhancing interactions for BFSI. Access demos, transcripts, and learn about AI applications today!'",
         "field": "meta_description"
       },
       {
         "name": "H1 contains focus keyword",
         "severity": "high",
         "status": "pass",
-        "detail": "H1 'Voice Agent Sample Library: Enhance BFSI Applications' vs primary keyword 'voice agent sample library'",
+        "detail": "H1 'Explore the Voice Agent Sample Library' vs primary keyword 'voice agent sample library'",
         "field": "h1"
       },
       {
@@ -804,14 +804,14 @@
         "name": "Meta title length",
         "severity": "high",
         "status": "pass",
-        "detail": "47 chars (limit 60): 'BFSI Workflow Automation for Financial Services'",
+        "detail": "34 chars (limit 60): 'BFSI Workflow Automation Explained'",
         "field": "title"
       },
       {
         "name": "Meta description length",
         "severity": "medium",
         "status": "pass",
-        "detail": "141 chars (target 140-160): 'Discover how BFSI workflow automation enhances efficiency and reduces costs in financial services through AI agents and seamless integration.'",
+        "detail": "130 chars (target 140-160): 'Discover how BFSI workflow automation boosts efficiency in lending, insurance, and wealth management through AI-driven technology.'",
         "field": "meta_description"
       },
       {
@@ -867,7 +867,7 @@
         "name": "Orphan page",
         "severity": "critical",
         "status": "pass",
-        "detail": "3 inbound internal link(s) found in server HTML across the crawled site",
+        "detail": "1 inbound internal link(s) found in server HTML across the crawled site",
         "field": null
       },
       {
@@ -918,21 +918,21 @@
         "name": "Meta title length",
         "severity": "high",
         "status": "pass",
-        "detail": "50 chars (limit 60): 'Privacy Policy: Data Protection in BFSI Compliance'",
+        "detail": "51 chars (limit 60): 'Privacy Policy in BFSI: Understanding Key Practices'",
         "field": "title"
       },
       {
         "name": "Meta description length",
         "severity": "medium",
         "status": "pass",
-        "detail": "123 chars (target 140-160): 'Learn about our privacy policy, data collection practices, user rights, and how we ensure compliance with BFSI regulations.'",
+        "detail": "145 chars (target 140-160): 'Explore how a strong privacy policy in BFSI enhances compliance and customer trust. Learn about regulations, data protection, and best practices.'",
         "field": "meta_description"
       },
       {
         "name": "H1 contains focus keyword",
         "severity": "high",
         "status": "pass",
-        "detail": "H1 'Understanding Our Privacy Policy' vs primary keyword 'privacy policy'",
+        "detail": "H1 'Privacy Policy in BFSI: Understanding Key Practices' vs primary keyword 'privacy policy in bfsi: understanding key practices'",
         "field": "h1"
       },
       {
@@ -988,7 +988,7 @@
         "name": "Server HTML has real content (not JS-only)",
         "severity": "high",
         "status": "pass",
-        "detail": "422 words in server HTML",
+        "detail": "426 words in server HTML",
         "field": null
       },
       {
@@ -1032,21 +1032,21 @@
         "name": "Meta title length",
         "severity": "high",
         "status": "pass",
-        "detail": "41 chars (limit 60): 'Terms & Conditions for BFSI Professionals'",
+        "detail": "41 chars (limit 60): 'Terms & Conditions for Financial Services'",
         "field": "title"
       },
       {
         "name": "Meta description length",
         "severity": "medium",
         "status": "pass",
-        "detail": "125 chars (target 140-160): 'Explore the terms & conditions for using Darwix AI, including compliance policies, service limitations, and user obligations.'",
+        "detail": "142 chars (target 140-160): 'Discover essential terms & conditions for financial services that clarify rights and obligations for clients and providers in the BFSI sector.'",
         "field": "meta_description"
       },
       {
         "name": "H1 contains focus keyword",
         "severity": "high",
         "status": "pass",
-        "detail": "H1 'Terms & Conditions of the Darwix AI Platform' vs primary keyword 'terms & conditions'",
+        "detail": "H1 'Understanding Terms & Conditions for Financial Services' vs primary keyword 'terms & conditions for financial services'",
         "field": "h1"
       },
       {
@@ -1102,7 +1102,7 @@
         "name": "Server HTML has real content (not JS-only)",
         "severity": "high",
         "status": "pass",
-        "detail": "440 words in server HTML",
+        "detail": "442 words in server HTML",
         "field": null
       },
       {
@@ -1146,21 +1146,21 @@
         "name": "Meta title length",
         "severity": "high",
         "status": "pass",
-        "detail": "53 chars (limit 60): 'Darwix AI: Revolutionizing BFSI with Voice Automation'",
+        "detail": "54 chars (limit 60): 'Privacy Policy in BFSI: Data Protection and Compliance'",
         "field": "title"
       },
       {
         "name": "Meta description length",
         "severity": "medium",
         "status": "pass",
-        "detail": "139 chars (target 140-160): 'Discover how Darwix AI integrates voice automation to optimize financial services and enhance customer interactions while ensuring privacy.'",
+        "detail": "129 chars (target 140-160): 'Discover the significance of a privacy policy in the BFSI sector and how it ensures data protection, compliance, and user rights.'",
         "field": "meta_description"
       },
       {
         "name": "H1 contains focus keyword",
         "severity": "high",
         "status": "pass",
-        "detail": "H1 'Understanding Darwix AI in Financial Services' vs primary keyword 'darwix ai'",
+        "detail": "H1 'Understanding Privacy Policy in BFSI Sectors' vs primary keyword 'privacy policy'",
         "field": "h1"
       },
       {
@@ -1195,7 +1195,7 @@
         "name": "Image alt text",
         "severity": "medium",
         "status": "pass",
-        "detail": "16 image(s) missing alt in current HTML; 22 fix(es) proposed",
+        "detail": "0 image(s) missing alt in current HTML; 0 fix(es) proposed",
         "field": "image_alt_fixes"
       },
       {
@@ -1208,15 +1208,15 @@
       {
         "name": "Orphan page",
         "severity": "critical",
-        "status": "fail",
-        "detail": "0 inbound internal link(s) found in server HTML across the crawled site",
+        "status": "pass",
+        "detail": "1 inbound internal link(s) found in server HTML across the crawled site",
         "field": null
       },
       {
         "name": "Server HTML has real content (not JS-only)",
         "severity": "high",
         "status": "pass",
-        "detail": "1270 words in server HTML",
+        "detail": "705 words in server HTML",
         "field": null
       },
       {
@@ -1236,8 +1236,8 @@
       {
         "name": "Duplicate content < 85% similarity",
         "severity": "medium",
-        "status": "fail",
-        "detail": "100% word overlap with https://testing.darwix.ai",
+        "status": "pass",
+        "detail": "no near-duplicate found",
         "field": null
       },
       {
@@ -1248,10 +1248,10 @@
         "field": null
       }
     ],
-    "overall": "fail",
+    "overall": "pass",
     "failed_fields": [],
-    "failed_count": 2,
-    "critical_failures": 1
+    "failed_count": 0,
+    "critical_failures": 0
   },
   "https://testing.darwix.ai/idn/terms-and-conditions": {
     "url": "https://testing.darwix.ai/idn/terms-and-conditions",
@@ -1260,21 +1260,21 @@
         "name": "Meta title length",
         "severity": "high",
         "status": "pass",
-        "detail": "39 chars (limit 60): 'Darwix AI: Transforming BFSI Operations'",
+        "detail": "34 chars (limit 60): 'Terms & Conditions for BFSI Sector'",
         "field": "title"
       },
       {
         "name": "Meta description length",
         "severity": "medium",
         "status": "pass",
-        "detail": "129 chars (target 140-160): 'Discover how Darwix AI enhances financial services with voice automation, data insights, and compliance support for BFSI sectors.'",
+        "detail": "129 chars (target 140-160): 'Understand our terms & conditions that govern your use of the Darwix AI platform in the BFSI sector. Stay compliant and informed.'",
         "field": "meta_description"
       },
       {
         "name": "H1 contains focus keyword",
         "severity": "high",
         "status": "pass",
-        "detail": "H1 'Introduction to Darwix AI in BFSI' vs primary keyword 'darwix ai'",
+        "detail": "H1 'Terms & Conditions in the BFSI Sector' vs primary keyword 'terms & conditions'",
         "field": "h1"
       },
       {
@@ -1309,7 +1309,7 @@
         "name": "Image alt text",
         "severity": "medium",
         "status": "pass",
-        "detail": "16 image(s) missing alt in current HTML; 22 fix(es) proposed",
+        "detail": "0 image(s) missing alt in current HTML; 0 fix(es) proposed",
         "field": "image_alt_fixes"
       },
       {
@@ -1322,15 +1322,15 @@
       {
         "name": "Orphan page",
         "severity": "critical",
-        "status": "fail",
-        "detail": "0 inbound internal link(s) found in server HTML across the crawled site",
+        "status": "pass",
+        "detail": "1 inbound internal link(s) found in server HTML across the crawled site",
         "field": null
       },
       {
         "name": "Server HTML has real content (not JS-only)",
         "severity": "high",
         "status": "pass",
-        "detail": "1270 words in server HTML",
+        "detail": "681 words in server HTML",
         "field": null
       },
       {
@@ -1350,8 +1350,8 @@
       {
         "name": "Duplicate content < 85% similarity",
         "severity": "medium",
-        "status": "fail",
-        "detail": "100% word overlap with https://testing.darwix.ai",
+        "status": "pass",
+        "detail": "no near-duplicate found",
         "field": null
       },
       {
@@ -1362,10 +1362,10 @@
         "field": null
       }
     ],
-    "overall": "fail",
+    "overall": "pass",
     "failed_fields": [],
-    "failed_count": 2,
-    "critical_failures": 1
+    "failed_count": 0,
+    "critical_failures": 0
   },
   "https://testing.darwix.ai/pivc": {
     "url": "https://testing.darwix.ai/pivc",
@@ -1374,14 +1374,14 @@
         "name": "Meta title length",
         "severity": "high",
         "status": "pass",
-        "detail": "56 chars (limit 60): 'Video PIVC for Insurance: Enhance Verification Processes'",
+        "detail": "55 chars (limit 60): 'Video PIVC for Insurance: Enhance Customer Verification'",
         "field": "title"
       },
       {
         "name": "Meta description length",
         "severity": "medium",
         "status": "pass",
-        "detail": "131 chars (target 140-160): 'Learn how video PIVC technology is transforming insurance with enhanced verification, consent assurance and mis-selling prevention.'",
+        "detail": "141 chars (target 140-160): 'Discover how Video PIVC enhances transparency in insurance, reduces mis-selling, and improves customer engagement through verification calls.'",
         "field": "meta_description"
       },
       {
@@ -1488,21 +1488,21 @@
         "name": "Meta title length",
         "severity": "high",
         "status": "pass",
-        "detail": "51 chars (limit 60): 'Tele-Medical Examination AI: Transforming Insurance'",
+        "detail": "40 chars (limit 60): 'Tele-Medical Examination AI for Insurers'",
         "field": "title"
       },
       {
         "name": "Meta description length",
         "severity": "medium",
         "status": "pass",
-        "detail": "155 chars (target 140-160): 'Discover how tele-medical examination AI enhances insurance underwriting, improves patient experiences, and streamlines processes for lenders and insurers.'",
+        "detail": "144 chars (target 140-160): 'Discover how tele-medical examination AI streamlines insurance medical underwriting and revolutionizes health assessments for lenders and banks.'",
         "field": "meta_description"
       },
       {
         "name": "H1 contains focus keyword",
         "severity": "high",
         "status": "pass",
-        "detail": "H1 'What is Tele-Medical Examination AI?' vs primary keyword 'tele-medical examination ai'",
+        "detail": "H1 'Tele-Medical Examination AI Revolutionizing Underwriting' vs primary keyword 'tele-medical examination ai'",
         "field": "h1"
       },
       {
@@ -1602,21 +1602,21 @@
         "name": "Meta title length",
         "severity": "high",
         "status": "pass",
-        "detail": "49 chars (limit 60): 'Life Insurance Proposal Automation for Efficiency'",
+        "detail": "44 chars (limit 60): 'Life Insurance Proposal Automation Explained'",
         "field": "title"
       },
       {
         "name": "Meta description length",
         "severity": "medium",
         "status": "pass",
-        "detail": "138 chars (target 140-160): 'Discover how life insurance proposal automation enhances efficiency, speeds up approval, and improves customer experience in BFSI sectors.'",
+        "detail": "124 chars (target 140-160): 'Discover how life insurance proposal automation enhances efficiency and accuracy for insurers, lenders, and wealth managers.'",
         "field": "meta_description"
       },
       {
         "name": "H1 contains focus keyword",
         "severity": "high",
         "status": "pass",
-        "detail": "H1 'Life Insurance Proposal Automation: Streamline Your Processes' vs primary keyword 'life insurance proposal automation'",
+        "detail": "H1 'Life Insurance Proposal Automation: Streamlining Your Process' vs primary keyword 'life insurance proposal automation'",
         "field": "h1"
       },
       {
@@ -1716,14 +1716,14 @@
         "name": "Meta title length",
         "severity": "high",
         "status": "pass",
-        "detail": "54 chars (limit 60): 'Automated Personal Discussion for Financial Efficiency'",
+        "detail": "44 chars (limit 60): 'Automated Personal Discussion in BFSI Sector'",
         "field": "title"
       },
       {
         "name": "Meta description length",
         "severity": "medium",
         "status": "pass",
-        "detail": "152 chars (target 140-160): 'Discover how automated personal discussion streamlines processes for lenders, insurers, and wealth managers, enhancing customer experience and accuracy.'",
+        "detail": "124 chars (target 140-160): 'Discover how automated personal discussion can transform housing finance with enhanced engagement, accuracy, and efficiency.'",
         "field": "meta_description"
       },
       {
@@ -1837,7 +1837,7 @@
         "name": "Meta description length",
         "severity": "medium",
         "status": "pass",
-        "detail": "134 chars (target 140-160): 'Learn how document discrepancy detection streamlines KYC and claims processes in the BFSI sector for better efficiency and compliance.'",
+        "detail": "147 chars (target 140-160): 'Learn about document discrepancy detection, its importance in KYC and claims reconciliation, and how it improves operational efficiency in finance.'",
         "field": "meta_description"
       },
       {
@@ -1944,21 +1944,21 @@
         "name": "Meta title length",
         "severity": "high",
         "status": "pass",
-        "detail": "60 chars (limit 60): 'Asset Verification for ARCs: Key Insights and Best Practices'",
+        "detail": "47 chars (limit 60): 'Asset Verification for ARCs: Enhance Efficiency'",
         "field": "title"
       },
       {
         "name": "Meta description length",
         "severity": "medium",
         "status": "pass",
-        "detail": "154 chars (target 140-160): 'Explore the significance of asset verification for ARCs in the BFSI sector. Learn about challenges, AI tools, and best practices for effective compliance.'",
+        "detail": "133 chars (target 140-160): 'Explore asset verification for ARCs, its importance in risk management, and technology solutions that enhance operational efficiency.'",
         "field": "meta_description"
       },
       {
         "name": "H1 contains focus keyword",
         "severity": "high",
         "status": "pass",
-        "detail": "H1 'Understanding Asset Verification for ARCs' vs primary keyword 'asset verification for arcs'",
+        "detail": "H1 'Asset Verification for ARCs: Understanding Its Importance' vs primary keyword 'asset verification for arcs'",
         "field": "h1"
       },
       {
@@ -2058,21 +2058,21 @@
         "name": "Meta title length",
         "severity": "high",
         "status": "pass",
-        "detail": "53 chars (limit 60): 'Client Briefs for Wealth Managers: Enhancing Meetings'",
+        "detail": "51 chars (limit 60): 'Client Briefs for Wealth Managers: Enhance Meetings'",
         "field": "title"
       },
       {
         "name": "Meta description length",
         "severity": "medium",
         "status": "pass",
-        "detail": "138 chars (target 140-160): 'Discover how client briefs for wealth managers can improve meeting success and efficiency. Learn about RM meeting preparation AI benefits.'",
+        "detail": "138 chars (target 140-160): 'Discover the importance of client briefs for wealth managers and how AI transforms meeting preparation, improving outcomes and efficiency.'",
         "field": "meta_description"
       },
       {
         "name": "H1 contains focus keyword",
         "severity": "high",
         "status": "pass",
-        "detail": "H1 'Client Briefs for Wealth Managers: Importance and Benefits' vs primary keyword 'client briefs for wealth managers'",
+        "detail": "H1 'Client Briefs for Wealth Managers: Maximizing Meeting Success' vs primary keyword 'client briefs for wealth managers'",
         "field": "h1"
       },
       {
@@ -2172,21 +2172,21 @@
         "name": "Meta title length",
         "severity": "high",
         "status": "pass",
-        "detail": "50 chars (limit 60): 'Proactive Client Alerts: Enhance Wealth Management'",
+        "detail": "44 chars (limit 60): 'Proactive Client Alerts in Wealth Management'",
         "field": "title"
       },
       {
         "name": "Meta description length",
         "severity": "medium",
         "status": "pass",
-        "detail": "147 chars (target 140-160): 'Discover how proactive client alerts can mitigate risks in lending, insurance, and wealth management to improve client relationships and retention.'",
+        "detail": "129 chars (target 140-160): 'Discover how proactive client alerts enhance engagement and risk management in wealth management, lending, and insurance sectors.'",
         "field": "meta_description"
       },
       {
         "name": "H1 contains focus keyword",
         "severity": "high",
         "status": "pass",
-        "detail": "H1 'Understanding Proactive Client Alerts in Finance' vs primary keyword 'proactive client alerts'",
+        "detail": "H1 'Understanding Proactive Client Alerts' vs primary keyword 'proactive client alerts'",
         "field": "h1"
       },
       {
@@ -2286,21 +2286,21 @@
         "name": "Meta title length",
         "severity": "high",
         "status": "pass",
-        "detail": "33 chars (limit 60): 'Sherpa Setup and Support for BFSI'",
+        "detail": "43 chars (limit 60): 'Sherpa Setup and Support in BFSI Automation'",
         "field": "title"
       },
       {
         "name": "Meta description length",
         "severity": "medium",
         "status": "pass",
-        "detail": "138 chars (target 140-160): 'Discover how Sherpa setup and support streamline processes for lenders and insurers in the BFSI sector. Explore key features and benefits.'",
+        "detail": "147 chars (target 140-160): 'Explore how Sherpa setup and support enhance operational efficiency in BFSI through AI-driven solutions for lenders, insurers, and wealth managers.'",
         "field": "meta_description"
       },
       {
         "name": "H1 contains focus keyword",
         "severity": "high",
         "status": "pass",
-        "detail": "H1 'Sherpa Setup and Support for BFSI' vs primary keyword 'sherpa setup and support'",
+        "detail": "H1 'Sherpa Setup and Support: Transforming BFSI Operations' vs primary keyword 'sherpa setup and support'",
         "field": "h1"
       },
       {

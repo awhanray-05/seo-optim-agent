@@ -2,19 +2,19 @@
   "url": "https://testing.darwix.ai/voiceAgent",
   "diff": {
     "title": {
-      "from": "Darwix Voice Agent | AI Calling for BFSI & Collections",
-      "to": "AI Voice Agent for BFSI - Transform Customer Interactions"
+      "from": "AI Voice Agent for BFSI: Revolutionizing Client Engagement",
+      "to": "AI Voice Agent for BFSI - Streamline Customer Interactions"
     },
     "meta_description": {
-      "from": "Darwix Voice Agent automates outbound calls for BFSI, handling objections and triggering actions in real time with scalable AI calling software.",
-      "to": "Discover how AI voice agents can streamline communication for BFSI sectors, improving operational efficiency and customer satisfaction."
+      "from": "Discover how AI voice agents enhance interactions in BFSI with 24/7 availability, multilingual support, and automated collections for lenders and insurers.",
+      "to": "Discover how an AI voice agent for BFSI enhances customer support and efficiency across lending, insurance, and wealth management sectors."
     },
     "h1": {
       "from": "AnAI Agentthat actuallyholds the line",
-      "to": "AI Voice Agent for BFSI: Revolutionizing Customer Communication"
+      "to": "AI Voice Agent for BFSI: Transforming Client Interactions"
     },
     "canonical": {
-      "from": "https://darwix.ai/voiceAgent",
+      "from": "https://testing.darwix.ai/voice-agent",
       "to": "https://darwix.ai/voice-agent"
     },
     "schema_blocks_added": 3,
@@ -66,11 +66,11 @@
     "internal_links_added": [
       {
         "href": "https://darwix.ai/",
-        "anchor": "Discover AI solutions"
+        "anchor": "Visit Darwix AI"
       },
       {
         "href": "https://darwix.ai/compliance",
-        "anchor": "Compliance resources"
+        "anchor": "Compliance Solutions"
       }
     ]
   }
